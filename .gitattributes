@@ -1,3 +1,4 @@
 web/da/lemmatiser/notags/c19/0/flexrules.bra filter=lfs diff=lfs merge=lfs -text
 web/da/lemmatiser/training/ParoleBrandesDSLdictionary filter=lfs diff=lfs merge=lfs -text
 web/da/lemmatiser/notags/c19/0/flexrules.braNRS.bra filter=lfs diff=lfs merge=lfs -text
+/opt/texton/res/web/la/lemmatiser/notags/0/flexrules.bra filter=lfs diff=lfs merge=lfs -text
