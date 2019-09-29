@@ -1,0 +1,1 @@
+A formalized lexicon for simple and multiword lexical units under a GNU License. Versions 4.1 or newer of LABEL-LEX are freely distributed under the terms of the GNU General Public License (GPL). This means that everyone can use, redistribute and modify LABEL-LEX within the terms of the GPL license. 
