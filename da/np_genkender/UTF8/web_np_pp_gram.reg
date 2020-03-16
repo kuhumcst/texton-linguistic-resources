@@ -1,0 +1,23 @@
+:np1
+  N_GEN = N_INDEF_SING_GEN | N_DEF_SING_GEN | N_INDEF_PLU_GEN | N_DEF_PLU_GEN| N_PLU_GEN| N_SING_GEN;
+  N_INDEF = N_INDEF_SING | N_INDEF_PLU;
+  N_DEF = N_DEF_SING | N_DEF_PLU;
+  N_ALL = N_INDEF | N_DEF | N_SING | N_PLU;
+
+  determ = PRON_DEMO | PRON_UBST | PRON_INTER_REL ;
+  attr = ADJ | FORK | UL | FORK SYMBOL | FORK ADJ | NUM | NUM_ORD | V_PARTC_PAST | V_PARTC_PRES;
+  gen =  PRON_POSS | PRON_DEMO_GEN | PRON_UBST_GEN | PRON_REC_GEN | PRON_INTER_REL_GEN | 
+         N_GEN | EGEN_GEN;
+
+  DP =  determ+ | determ SKONJ determ | gen SKONJ* gen* ;
+  AP =  attr+ |ADV* attr | attr TEGN attr SKONJ attr | attr SKONJ attr ;
+  NP_G = DP AP* gen | DP* AP gen | gen AP* gen | EGEN gen;
+
+
+  kerne =   N_INDEF | N_INDEF N_INDEF | N_ALL EGEN | N_ALL TEGN EGEN; 
+  NP1 ->  ADJ? DP? AP? kerne | ADJ? NP_G? AP? kerne |
+  	  EGEN | N_DEF | N | XX SKONJ N_ALL;
+  
+:np2
+  PP = PRÆP NP1;
+  NP2 -> NP1 PP;
