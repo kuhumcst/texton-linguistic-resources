@@ -1,0 +1,2428 @@
+START:	Wed Oct 10 16:06:15 2018
+
+i char ATR 1233.33764968953
+a char ATR 484.831347799439
+t hassuf 1 PRED_CO 351.955657428403
+v u fchar ATR 140.756246984093
+re hassuf 2 OBJ 123.4538003663
+m deletesuf 1 OBJ 58.6057590849696
+v e fchar ADV 51.3487316373236
+ur hassuf 2 PRED_CO 34.7722222222222
+u hassuf 1 ADV 33.8916666666667
+ne hassuf 2 ADV 30.0547619047619
+ibus hassuf 4 ADV 24.3625
+ret hassuf 3 ADV 22.8888888888889
+se hassuf 2 OBJ 22.0081168831169
+te hassuf 2 ADV 20.4799227799228
+es hassuf 2 SBJ 18.4546089875037
+em hassuf 2 OBJ 17.1904761904762
+ad goodright OBJ 16.7543194795406
+erit hassuf 4 ADV 16.0166666666667
+o hassuf 1 ADV 15.7909862926891
+am hassuf 2 OBJ 14.7333333333333
+tam hassuf 3 ATR 19.7
+os hassuf 2 ATR 14.6
+ntem hassuf 4 ATR 13.775
+START:	Wed Oct 10 16:08:48 2018
+
+i char ATR 1260.5173595517
+er hassuf 2 ADV 13.6830293819656
+a char ATR 490.194207493155
+t hassuf 1 PRED_CO 358.789888935354
+v e fchar OBJ 163.089971647197
+lum hassuf 3 OBJ 13.6190476190476
+re hassuf 2 OBJ 93.5348651348651
+m deletesuf 1 OBJ 69.7996753246754
+ri hassuf 2 OBJ 12.3670634920635
+v u fchar ATR 65.0914207098418
+r hassuf 1 PRED_CO 53.0761904761905
+ATR t faddsuf 1 PRED_CO 11.9257142857143
+o hassuf 1 ADV 49.3507445257638
+te hassuf 2 ADV 34.7185425685426
+set hassuf 3 ADV 11.8478260869565
+ne hassuf 2 ADV 29.0828171828172
+or hassuf 2 SBJ 11.5666666666667
+u hassuf 1 ADV 26.3937229437229
+er hassuf 2 ADV 19.5916666666667
+mus hassuf 3 PRED_CO 10.6904761904762
+ibus hassuf 4 ADV 18.6202898550725
+ATR n fhassuf 1 SBJ 10.5
+ret hassuf 3 ADV 16.6666666666667
+atus hassuf 4 ADV 10.3571428571429
+ad goodright OBJ 14.6186884730615
+la hassuf 2 SBJ 9.44493543179984
+se hassuf 2 OBJ 14.5718390804598
+los hassuf 3 OBJ 9.14444444444445
+os hassuf 2 ATR 13.8166666666667
+im hassuf 2 ADV 8.64038461538462
+erit hassuf 4 ADV 13.5166666666667
+ADV nem faddsuf 3 SBJ 8.59166666666667
+ut goodright ADV 13.3277533588841
+nem hassuf 3 OBJ 14.25
+ans hassuf 3 ADV 8.5
+ns hassuf 2 ADV 12.5858974358974
+ite hassuf 3 PRED_CO 8.33333333333333
+ri hassuf 2 OBJ 12.2855311355311
+START:	Wed Oct 10 16:11:24 2018
+
+i char ATR 1206.21724117143
+a char ATR 461.721883694954
+t hassuf 1 PRED_CO 329.188509892048
+lus hassuf 3 SBJ 8.30641025641026
+ctis hassuf 4 ADV 12
+v e fchar ADV 151.11902992892
+re hassuf 2 OBJ 111.348473748474
+m deletesuf 1 OBJ 80.4511044511045
+mus hassuf 3 PRED 11.9166666666667
+ire addsuf 3 AuxP 8.12646963240652
+v u fchar ATR 61.2620400589098
+ur hassuf 2 PRED_CO 40.7
+set hassuf 3 ADV 11.8272727272727
+no hassuf 2 ATR 8.08333333333333
+o hassuf 1 ADV 37.5264886276514
+or hassuf 2 SBJ 11.5990196078431
+ret hassuf 3 ADV 28.5222222222222
+ore hassuf 3 ADV 7.99242424242424
+es hassuf 2 SBJ 28.5041666666667
+los hassuf 3 OBJ 10.8333333333333
+ntes hassuf 4 ATR 7.98055555555556
+u hassuf 1 ADV 27.0888888888889
+no hassuf 2 ATR 10.6666666666667
+ne hassuf 2 ADV 26.5309523809524
+x hassuf 1 SBJ 7.86666666666666
+la hassuf 2 SBJ 10.2055555555556
+se hassuf 2 OBJ 23.4861111111111
+ra hassuf 2 OBJ 7.65833333333333
+ad goodright OBJ 21.9634720055144
+ATR es fhassuf 2 SBJ 10.11802413273
+ibus hassuf 4 ADV 21.524503968254
+ido hassuf 3 ATR 7.5
+las hassuf 3 OBJ 10
+ior hassuf 3 PNOM 10
+ADV m fhassuf 1 ATR 21.2149946827366
+ce hassuf 2 ADV 7.43137254901961
+erit hassuf 4 ADV 19.1666666666667
+rent hassuf 4 ADV 9.75
+rent hassuf 4 ADV 17.3333333333333
+ior hassuf 3 PNOM 7.41666666666667
+ATR t faddsuf 1 PRED_CO 9.67564102564102
+mus hassuf 3 PRED_CO 16.75
+iis hassuf 3 ADV 9.53333333333333
+las hassuf 3 OBJ 7.25
+ATR t faddsuf 1 PRED_CO 16.4415499533147
+ADV nis faddsuf 3 SBJ 9.31666666666667
+sis hassuf 3 ADV 7.16666666666667
+set hassuf 3 ADV 16.0166666666667
+ras hassuf 3 OBJ 7.16666666666667
+ite hassuf 3 PRED_CO 9
+ter hassuf 3 ADV 15.7142857142857
+. goodleft ATR 7.13888888888889
+ari hassuf 3 OBJ 15
+tim hassuf 3 ADV 8.4
+tius hassuf 4 ADV 6.75
+te hassuf 2 ADV 14.7968253968254
+OBJ us fhassuf 2 SBJ 8.32363922627081
+tus hassuf 3 ADV 8.34469696969697
+ut goodright ADV 11.5380412369111
+itas hassuf 4 SBJ 6.63636363636364
+rum hassuf 3 ATR 8.26666666666667
+nis addsuf 3 SBJ 11.2058371735791
+cus hassuf 3 SBJ 6.6
+lum hassuf 3 OBJ 8.02777777777778
+ATR em fhassuf 2 OBJ 11.0173576423576
+ntem hassuf 4 ATR 12.2
+ul haspref 2 ATR 6.5
+ire addsuf 3 AuxP 7.98510372878058
+ATR e faddsuf 1 SBJ 10.0859941595137
+ATR est fgoodleft PRED_CO 12.1688747106004
+ATR quo fgoodright ADV 6.42486123766776
+ce hassuf 2 ADV 7.91228070175439
+lus hassuf 3 SBJ 9.73333333333333
+ata hassuf 3 ADV 6.33333333333333
+ata hassuf 3 ADV 7.75
+nas hassuf 3 OBJ 7.75
+os hassuf 2 ATR 9.63095238095238
+ore hassuf 3 ADV 9.48809523809524
+PRED_CO o faddsuf 1 PRED 6.27662622177283
+ADV re faddsuf 2 PRED_CO 7.72549019607843
+ns hassuf 2 ADV 9.48484848484849
+me hassuf 2 ADV 7.58333333333333
+iis hassuf 3 ADV 6.1468253968254
+lum hassuf 3 OBJ 9.16190476190476
+ie hassuf 2 ADV 7
+ATR mina fhassuf 4 SBJ 6.14285714285714
+ie hassuf 2 ADV 9
+iam hassuf 3 OBJ 6.8
+tur addsuf 3 OBJ 6.08333333333333
+x hassuf 1 SBJ 8.54166666666667
+x hassuf 1 SBJ 6.77777777777778
+ie hassuf 2 ADV 6
+rsus hassuf 4 ADV 6
+ctis hassuf 4 ADV 6
+ATR bam fhassuf 3 PRED_CO 8.5
+ATR inquit fgoodright SBJ 6.26537972896669
+nost haspref 4 ATR 6.28059440559441
+habet goodleft OBJ 8.29683107361011
+ATR habet fgoodleft OBJ 5.84448695596022
+ore hassuf 3 ADV 6.1969696969697
+ire addsuf 3 AuxP 8.02903762903763
+ab goodright ATR 5.64825635634066
+ite hassuf 3 PRED_CO 8
+tia hassuf 3 ADV 6.16666666666667
+epta hassuf 4 ADV 6.16666666666667
+nost haspref 4 ATR 5.61355311355311
+de goodright ATR 7.8679266557117
+ATR la fhassuf 2 OBJ 7.95595238095238
+itas hassuf 4 SBJ 6.05555555555556
+las hassuf 3 OBJ 7.66666666666667
+ato hassuf 3 ATR 5.5
+PRED_CO qui fgoodright ATR 6.0371073887353
+PRED_CO um fhassuf 2 PNOM 7.66666666666667
+isti hassuf 4 PRED_CO 5.5
+ras hassuf 3 OBJ 7.57142857142857
+poss haspref 4 ADV 6
+OBJ rem fgoodright ATR 5.36190476190476
+his goodright ADV 7.27163519613453
+tius hassuf 4 ADV 5.83333333333333
+ATR bam fhassuf 3 PRED_CO 5.83333333333333
+cum hassuf 3 ADV 5.35079365079365
+tam hassuf 3 ATR 7.2
+uere hassuf 4 PRED_CO 5.83333333333333
+nul haspref 3 ATR 5.27380952380952
+los hassuf 3 OBJ 6.89912280701754
+ATR mina fhassuf 4 SBJ 5.66666666666667
+ctis hassuf 4 ADV 6.83333333333333
+OBJ dum fhassuf 3 ADV 5.25
+nas hassuf 3 OBJ 6.83333333333333
+te addsuf 2 OBJ_CO 5.56988396624473
+PRED_CO quae fgoodright ATR 6.67722800851599
+ATR inte fhaspref 4 ADV 5.23333333333333
+lus hassuf 3 SBJ 5.37575757575758
+ATR c fhassuf 1 ADV 6.20642968142968
+ADV re faddsuf 2 PRED_CO 5.21929824561404
+PRED_CO quae fgoodright ATR 5.35
+iis hassuf 3 ADV 6.11666666666667
+uo hassuf 2 ATR 5
+les hassuf 3 ATR 5
+urum hassuf 4 OBJ 5
+tari hassuf 4 OBJ_CO 5
+ido hassuf 3 ATR 5.33333333333333
+iri hassuf 3 OBJ 6
+ATR f fdeletepref 1 OBJ 4.85079365079365
+ATR sum fhassuf 3 OBJ 5.9
+era hassuf 3 OBJ 5.22619047619048
+ATR erat fgoodleft PNOM 5.24615171650055
+sent hassuf 4 ADV 5.85714285714286
+urum hassuf 4 OBJ 5
+ur deletesuf 2 PRED 4.84444444444444
+ATR atus fhassuf 4 ADV 5.77777777777778
+mo hassuf 2 ATR 4.88690476190476
+ul haspref 2 ATR 5.45714285714286
+me hassuf 2 ADV 4.83333333333333
+ATR cus fhassuf 3 SBJ 5.75
+tio hassuf 3 SBJ 4.83333333333333
+ado haspref 3 OBJ_CO 4.83333333333333
+ior hassuf 3 PNOM 5.66666666666667
+c hassuf 1 ADV 4.77236440030558
+hu haspref 2 ATR 4.825
+PRED_CO rent fhassuf 4 ADV 4.75
+ias hassuf 3 OBJ 4.75
+OBJ atque fgoodright OBJ_CO 5.32241647241647
+ce hassuf 2 ADV 5.5
+re addsuf 2 PRED_CO 5.71884057971014
+ATR his fgoodright ADV 4.68846153846154
+. goodleft ATR 4.76294620412267
+OBJ dum fhassuf 3 ADV 5.25
+urum hassuf 4 OBJ 5.25
+pe hassuf 2 ADV 4.66666666666667
+cog haspref 3 ADV 4.66666666666667
+ATR fl fhaspref 2 OBJ 5.23333333333333
+v que fgoodleft AuxG 4.61503267973856
+ADV ibus fdeletesuf 4 OBJ 5.2
+tias hassuf 4 OBJ 4.66666666666667
+lam hassuf 3 OBJ 5.16666666666667
+PRED_CO cum fgoodright ADV 4.61111111111111
+v que fgoodleft AuxG 4.65128205128205
+ATR sua fgoodleft ADV 5.15757575757576
+ATR pet fhaspref 3 SBJ 4.5
+omn haspref 3 ATR 4.60555555555556
+itas hassuf 4 SBJ 5.11538461538461
+bo hassuf 2 PRED_CO 4.46428571428571
+PRED_CO a fhassuf 1 ATR 4.5
+PRED_CO dec fhaspref 3 PRED 4.5
+m deletepref 1 ATR 5.10873015873016
+ATR erat fgoodleft PNOM 5.3288961038961
+eo hassuf 2 PRED 4.43888888888889
+ora hassuf 3 OBJ 5.0952380952381
+loco goodleft ATR 4.42648126217004
+en hassuf 2 OBJ 4.42156862745098
+ADV . fgoodright OBJ_CO 5.0062074829932
+tam hassuf 3 ATR 4.375
+rio hassuf 3 ATR 4.33333333333333
+ido hassuf 3 ATR 5
+epta hassuf 4 ADV 5
+nsis hassuf 4 ADV 5
+isti hassuf 4 PRED_CO 5
+to addsuf 2 SBJ 4.35591736694678
+ATR c fhassuf 1 ADV 4.3047201336675
+tius hassuf 4 ADV 4.88095238095238
+rsus hassuf 4 ADV 4.33333333333333
+al haspref 2 ATR 4.86813186813187
+itis hassuf 4 ADV 4.25
+ADV uo fhassuf 2 ATR 4.83333333333333
+SBJ la fhaspref 2 SBJ_CO 4.25
+v o fchar SBJ 4.23333333333333
+im hassuf 2 ADV 4.69230769230769
+ATR quo fgoodright ADV 4.85714285714286
+ADV atque fgoodright ADV_CO 4.18863826232247
+OBJ de fgoodright ADV 4.23051378446115
+ADV ad fgoodright OBJ 4.4309204476174
+bo hassuf 2 PRED 4.66666666666667
+cogn haspref 4 ADV 4
+oni hassuf 3 OBJ 4
+ATR rog fhaspref 3 OBJ 4
+ADV tamquam fgoodleft ATR 4.1792824049016
+aui hassuf 3 PRED_CO 4
+bus addsuf 3 ATR 4.72150180354941
+v o fchar SBJ 4.53571428571429
+lli hassuf 3 OBJ 4.14285714285714
+ebam hassuf 4 PRED_CO 4
+hy haspref 2 SBJ 4
+uros hassuf 4 OBJ_CO 4
+lo hassuf 2 OBJ 4.50793650793651
+PRED_CO int fhassuf 3 ADV_CO 4
+ATR n fhassuf 1 SBJ 4.06666666666667
+SBJ e fhaspref 1 ATR 4.5
+ATR or fhassuf 2 SBJ 4.5
+PRED_CO iat fhassuf 3 PRED 4.5
+ADV bus fdeletesuf 3 OBJ 4
+ATR sine fgoodright ADV 4.01569264069264
+mor addpref 3 ATR 4.43492063492064
+ADV tamquam fgoodleft ATR 3.99907321594069
+v et fgoodleft AuxG 4.42815734989648
+reo hassuf 3 ATR 4
+rint hassuf 4 ADV 4
+susp haspref 4 ADV 4
+oni hassuf 3 OBJ 4
+pis haspref 3 OBJ 4
+ADV uit fhaspref 3 OBJ 4
+rium deletesuf 4 OBJ 4
+ctum hassuf 4 OBJ 4
+nia hassuf 3 SBJ 3.97727272727273
+ATR conu fhaspref 4 OBJ 4
+SBJ in fgoodright ADV 4.8703216374269
+PRED e fhaspref 1 PRED_CO 4
+SBJ s fdeletesuf 1 OBJ 5.18095238095238
+PRED p fhaspref 1 PRED_CO 4
+gae hassuf 3 SBJ 4
+PRED_CO conc fhaspref 4 PRED 4
+ndo hassuf 3 ADV_CO 4.4
+undo hassuf 4 ADV_CO 4
+ne addpref 2 ADV 3.88736263736264
+super goodright OBJ 4.33540541108451
+tus deletesuf 3 ATR 3.95833333333333
+OBJ e faddsuf 1 ATR 3.86752136752137
+SBJ ta fhassuf 2 ATR 4.21121794871795
+ssus hassuf 4 ADV 3.86666666666667
+en hassuf 2 OBJ 4.2
+cium hassuf 4 OBJ 3.85
+ATR atem fhassuf 4 OBJ 3.77777777777778
+ADV em faddsuf 2 SBJ 4.19047619047619
+uere hassuf 4 PRED_CO 3.83333333333333
+PRED_CO m faddsuf 1 ADV 3.91666666666667
+PRED_CO dec fhaspref 3 PRED 4.5
+PRED_CO cont fhaspref 4 PRED 3.75
+om haspref 2 ATR 4.18520770010132
+rus hassuf 3 SBJ 3.8
+cog haspref 3 ADV 4.16666666666667
+tantum goodright OBJ 3.71849756996816
+ADV ing fhaspref 3 ATR 3.8
+PNOM in fgoodleft ATR 3.73837209302326
+ATR i faddsuf 1 SBJ 3.88004943632025
+ico hassuf 3 ATR 4
+arg haspref 3 ATR 4
+eat hassuf 3 OBJ 4
+ori hassuf 3 OBJ 4
+ATR na faddsuf 2 ADV 3.7
+equi hassuf 4 OBJ 4
+udo hassuf 3 SBJ 4
+PRED_CO dec fhaspref 3 PRED 4
+eres hassuf 4 OBJ_CO 3.7
+ADV uo fhassuf 2 ATR 3.66666666666667
+post haspref 4 ADV 3.92261904761905
+nas hassuf 3 OBJ 3.58333333333333
+ATR xi fhassuf 2 PRED_CO 3.66666666666667
+uid haspref 3 ADV 3.91666666666667
+PRED_CO ut fgoodright ADV 3.56394351262772
+nost haspref 4 ATR 3.9
+tias hassuf 4 OBJ 3.9
+ptum hassuf 4 ATR 3.57142857142857
+ATR illi fgoodright SBJ 3.5047619047619
+ATR se fgoodleft ADV 3.85185185185185
+ADV e faddsuf 1 ATR 4.16511579818031
+iore hassuf 4 ATR 3.5
+OBJ erem fhassuf 4 ADV 3.5
+lam hassuf 3 OBJ 3.5
+co addpref 2 PRED_CO 3.5
+PRED_CO plac fhaspref 4 PRED 3.5
+PRED_CO domi fgoodright PRED 3.5
+OBJ ins fhaspref 3 OBJ_CO 3.5
+mise haspref 4 ATR 4
+udo hassuf 3 SBJ_CO 3.5
+is haspref 2 ATR 3.5
+sent hassuf 4 ADV 3.5
+dia hassuf 3 OBJ 3.5
+PRED_CO per fdeletepref 3 PRED 3.5
+cium hassuf 4 OBJ 3.83333333333333
+SBJ se fhaspref 2 ATR 3.44444444444444
+ATR catilinae fgoodright OBJ 3.49814643188137
+les hassuf 3 ATR 3.65
+pr deletepref 2 ADV 3.4047619047619
+imo hassuf 3 ATR 3.38461538461538
+ADV quo fgoodleft AuxP 3.60376576903307
+si deletesuf 2 AuxC 3.35
+udo hassuf 3 SBJ 3.33333333333333
+PRED_CO esse fgoodright ATR 3.56666666666667
+ATR habet fgoodleft OBJ 3.34841194542333
+ADV tus fdeletesuf 3 ATR 3.5
+PRED_CO para fhaspref 4 ATR 3.5
+OBJ ma fhaspref 2 ATR 3.31996336996337
+ple haspref 3 ATR 3.33333333333333
+ndo deletesuf 3 ADV 3.43333333333333
+ATR sine fgoodright ADV 3.22481684981685
+ATR si fdeletesuf 2 AuxC 3.41287878787879
+ADV em faddsuf 2 SBJ 3.26666666666667
+lli hassuf 3 SBJ 3.22222222222222
+rem deletesuf 3 ADV 3.4
+duodecim goodleft ATR 3.25105042016807
+no addpref 2 ADV 3.20717948717949
+te deletesuf 2 PRED 3.35555555555556
+ut haspref 2 ATR 3.25
+qui hassuf 3 OBJ 3.25
+ssem deletesuf 4 ADV 3.16666666666667
+pri addpref 3 ADV 3.35
+pro goodleft OBJ 3.21789797185
+SBJ ma fhaspref 2 SBJ_CO 3.1
+OBJ uos fgoodleft AuxC 3.90509575227427
+st hassuf 2 PRED 3.30769230769231
+ATR suum fgoodleft OBJ 3.06666666666667
+ATR dia fhassuf 3 OBJ 3.21666666666667
+mor addpref 3 ATR 3.09536384976526
+OBJ mi fhaspref 2 OBJ_CO 3.33333333333333
+ATR nus fhassuf 3 SBJ 3.05833333333333
+bo haspref 2 ATR 3.06666666666667
+OBJ man fhaspref 3 OBJ_CO 3.18045112781955
+OBJ om fhassuf 2 ATR 3
+sto hassuf 3 ATR 3
+eam hassuf 3 ATR 3
+ico hassuf 3 ATR 3
+etus hassuf 4 ATR 3
+homo goodright ATR 3
+cum deletesuf 3 ADV 3
+ses hassuf 3 ADV 3
+bra hassuf 3 ADV 3
+irem hassuf 4 ADV 3
+ATR prof fhaspref 4 ADV 3
+ATR ram fdeletesuf 3 OBJ 3
+ATR sam fhassuf 3 OBJ 3
+ATR sta fhaspref 3 OBJ 3
+uros hassuf 4 OBJ 3
+rore hassuf 4 OBJ 3
+itam hassuf 4 OBJ 3
+monu haspref 4 OBJ 3
+ATR pet fhaspref 3 SBJ 3
+ntus hassuf 4 SBJ 3
+PRED_CO ru fhaspref 2 PRED 3
+PRED_CO cum fgoodright ADV 3.15652173913043
+PRED_CO dim fhaspref 3 PRED 3
+co deletesuf 2 ATR 3
+om hassuf 2 ATR 3
+bri hassuf 3 ATR 3
+OBJ pri fhaspref 3 ATR 3
+riis hassuf 4 ATR 3
+iore hassuf 4 ATR 3
+ndem hassuf 4 ATR 3
+PRED_CO ins fhaspref 3 PRED 3
+ATR ab fdeletepref 2 ADV 3
+nol haspref 3 ADV 3
+ATR rem fhaspref 3 ADV 3
+quor hassuf 4 PRED 3
+etis hassuf 4 ADV 3
+itus hassuf 4 ADV 3
+arem hassuf 4 ADV 3
+exis haspref 4 PRED 3
+susp haspref 4 ADV 3
+ATR ad fdeletepref 2 OBJ 3
+sum hassuf 3 OBJ 3
+cred haspref 4 PRED 3
+hum hassuf 3 OBJ 3
+PRED_CO eat fhassuf 3 OBJ 3
+OBJ ap fhaspref 2 OBJ_CO 3
+ADV uit fhaspref 3 OBJ 3
+rium deletesuf 4 OBJ 3
+nego haspref 4 OBJ 3
+dini hassuf 4 OBJ_CO 3
+exs haspref 3 PRED_CO 3
+nius hassuf 4 SBJ 3
+iun haspref 3 ATR 3
+ATR ino fhaspref 3 ATR_CO 3
+PRED_CO dicens fgoodright OBJ_CO 3.14285714285714
+eor hassuf 3 PRED 3
+PRED_CO ins fhaspref 3 PRED 3
+PRED_CO rel fhaspref 3 PRED 3
+est addsuf 3 AuxP 3.74441958969823
+cant hassuf 4 PRED 3
+abam hassuf 4 PRED 3
+fue haspref 3 AuxV 3.14285714285714
+exeq haspref 4 PRED 3
+PRED_CO cont fhaspref 4 PRED 3
+OBJ ap fhaspref 2 OBJ_CO 3
+OBJ su fhaspref 2 OBJ_CO 3
+PRED_CO red fhaspref 3 ADV_CO 3
+illi hassuf 4 SBJ_CO 3
+ATR esset fgoodleft SBJ 2.95833333333333
+SLUT:	Wed Oct 10 16:34:39 2018
+
+PNOM et fgoodright ATR 3.13440860215054
+ATR ntus fhassuf 4 SBJ 2.91666666666667
+SLUT:	Wed Oct 10 16:34:58 2018
+
+ATR suum fgoodleft OBJ 3.11111111111111
+ATR f fdeletepref 1 OBJ 3.0625
+tr deletepref 2 ATR 3
+aur deletepref 3 ATR 3
+rno hassuf 3 ATR 3
+ADV cae fhaspref 3 ATR 3
+prio haspref 4 ATR 3
+roma haspref 4 ATR 3
+ATR re fdeletepref 2 ADV 3
+pe hassuf 2 ADV 3
+ub haspref 2 ADV 3
+cum deletesuf 3 ADV 3
+capi deletepref 4 ADV 3
+etis hassuf 4 ADV 3
+PRED m fhaspref 1 OBJ 3
+agi deletepref 3 OBJ 3
+oni hassuf 3 OBJ 3
+ATR tor fhaspref 3 OBJ 3
+ATR neg fhaspref 3 OBJ 3
+rore hassuf 4 OBJ 3
+ATR ciam fhassuf 4 OBJ 3
+aui hassuf 3 PRED_CO 3
+ADV eus fhassuf 3 SBJ 3
+gem haspref 3 SBJ 3
+PRED_CO sub fdeletepref 3 PRED 3
+proh haspref 4 PRED 3
+exeq haspref 4 PRED 3
+PRED_CO red faddpref 3 PRED 3
+PRED_CO illo fgoodright PRED 3
+OBJ ob fhaspref 2 OBJ_CO 3
+inl haspref 3 ADV_CO 3
+PRED_CO prae fdeletepref 4 ADV_CO 3
+bile hassuf 4 PNOM 3
+ATR fere fhaspref 4 PNOM 3
+nul haspref 3 ATR 2.97222222222222
+SLUT:	Wed Oct 10 16:36:37 2018
+
+START:	Mon Oct 15 12:04:54 2018
+
+t char VERB 9941.80517463852
+e char VERB 2628.05952352016
+v i fchar NOUN 1289.34234454969
+in goodright NOUN 946.348644855117
+m hassuf 1 NOUN 383.840976418031
+io hassuf 2 NOUN 281.268099547511
+s deletesuf 1 NOUN 206.895052968491
+ne hassuf 2 NOUN 188.750343170899
+ndum hassuf 4 VERB 175.041666666667
+v a fchar NOUN 165.349357930411
+ae hassuf 2 NOUN 146.505158730159
+nis hassuf 3 NOUN 143.166666666667
+ia hassuf 2 NOUN 113.054080064628
+START:	Mon Oct 15 12:06:36 2018
+
+t char VERB 9868.12098028306
+mus hassuf 3 VERB 104.031746031746
+e char VERB 2609.94988889865
+v i fchar NOUN 1260.22017349653
+tas hassuf 3 NOUN 104
+in goodright NOUN 942.929160733299
+m hassuf 1 NOUN 392.508913860655
+ο char X 98
+io hassuf 2 NOUN 280.392566782811
+START:	Mon Oct 15 12:07:30 2018
+
+t char VERB 9853.48191774138
+e char VERB 2577.73672327165
+v i fchar NOUN 1270.19642515153
+in goodright NOUN 938.153045965236
+m hassuf 1 NOUN 354.95715902209
+io hassuf 2 NOUN 296.437037037037
+nis hassuf 3 NOUN 200.083333333333
+v a fchar NOUN 197.144444444444
+START:	Mon Oct 15 12:10:19 2018
+
+t char VERB 9925.34611543567
+START:	Mon Oct 15 12:10:44 2018
+
+t char VERB 9879.63917996516
+e char VERB 2627.73455596005
+v i fchar NOUN 1270.36116491242
+in goodright NOUN 947.685452457171
+m hassuf 1 NOUN 424.726564294374
+io hassuf 2 NOUN 285.806643784274
+v a fchar NOUN 202.343101721357
+nis hassuf 3 NOUN 198.45
+ne hassuf 2 NOUN 170.348503154786
+ndum hassuf 4 VERB 166.1
+ae hassuf 2 NOUN 143.868637521898
+nes hassuf 3 NOUN 124.916666666667
+ia hassuf 2 NOUN 104.550505050505
+mus hassuf 3 VERB 101.210424710425
+t addsuf 1 VERB 101.059880753707
+ο char X 101
+tam hassuf 3 VERB 94.8095238095238
+ius hassuf 3 ADJ 93.5474072074979
+itas hassuf 4 NOUN 92.925
+v o fchar NOUN 90.6666666666667
+v - fchar NUM 90
+le hassuf 2 ADJ 89.7428808446456
+ntem hassuf 4 VERB 88.1417748917749
+VERB lis fhassuf 3 ADJ 81.0416666666667
+de goodright NOUN 77.9123524090905
+les hassuf 3 ADJ 74.8205128205128
+atum hassuf 4 VERB 72.25
+. char X 67.8888888888889
+tae hassuf 3 VERB 67.5630952380952
+ari hassuf 3 VERB 62.4111111111111
+ior hassuf 3 ADJ 62.0555555555556
+ndo hassuf 3 VERB 59.046511627907
+tate hassuf 4 NOUN 57
+ores hassuf 4 NOUN 54.8095238095238
+iter hassuf 4 ADJ 54.7408811691609
+lem hassuf 3 ADJ 53.9761904761905
+mum hassuf 3 ADJ 52.6542207792208
+ua hassuf 2 ADJ 51.7071428571429
+ter addsuf 3 ADJ 49.1707134071341
+ans hassuf 3 VERB 48.5
+u hassuf 1 NOUN 48.1428571428571
+dam hassuf 3 VERB 48
+lia hassuf 3 ADJ 47.9444444444444
+bus hassuf 3 NOUN 47.9166666666667
+tor hassuf 3 NOUN 46
+urum hassuf 4 VERB 45.6666666666667
+ore hassuf 3 NOUN 44
+α char X 44
+iis hassuf 3 NOUN 42
+VERB eius fgoodleft NOUN 39.5153161402543
+y char NOUN 39
+bam hassuf 3 VERB 37.9
+VERB me fhassuf 2 ADV 36.0626721763085
+ni deletesuf 2 NOUN 35.5
+ilis hassuf 4 ADJ 35
+ima hassuf 3 ADJ 34.9369402527297
+iora hassuf 4 ADJ 32.0833333333333
+ates hassuf 4 NOUN 32
+ii hassuf 2 NOUN 31.7638888888889
+que hassuf 3 PRON 31.1657508565454
+erem hassuf 4 VERB 29
+VERB per fgoodright NOUN 29.5363359186918
+tate addsuf 4 ADJ 28.1282467532468
+oris hassuf 4 NOUN 28
+uam hassuf 3 ADJ 27.6590909090909
+ndae hassuf 4 VERB 27
+la hassuf 2 NOUN 26.8888888888889
+ur hassuf 2 VERB 25.5333011583012
+n hassuf 1 PROPN 25.0089285714286
+nta hassuf 3 NOUN 25
+lium hassuf 4 ADJ 24.1897435897436
+ssem hassuf 4 VERB 24
+VERB ra fhassuf 2 NOUN 23.6594696969697
+uae hassuf 3 ADJ 22.8768115942029
+VERB na fhassuf 2 ADJ 22.8333333333333
+imo hassuf 3 ADJ 22.4058441558442
+uus hassuf 3 ADJ 22.4033816425121
+ca hassuf 2 ADJ 21.6
+x hassuf 1 NOUN 20.890350877193
+eram hassuf 4 VERB 20
+t hassuf 1 VERB 19.7672455806277
+ali addpref 3 PRON 19.647020665996
+udo hassuf 3 NOUN 19
+men hassuf 3 NOUN 18.9910714285714
+imis hassuf 4 ADJ 18.5222222222222
+ias hassuf 3 NOUN 18
+VERB no fhassuf 2 ADJ 18
+iuum hassuf 4 ADJ 18
+τ char X 18
+c hassuf 1 ADV 17.3227125332083
+im hassuf 2 VERB 17.1666666666667
+ndi hassuf 3 VERB 17
+sum hassuf 3 VERB 16.9123076923077
+v u fchar NOUN 16.8333333333333
+arem hassuf 4 VERB 16.6
+imi hassuf 3 ADJ 16.6
+so hassuf 2 VERB 16.3888888888889
+VERB ea fhassuf 2 ADJ 16.2
+tim hassuf 3 ADV 16.1666666666667
+abo hassuf 3 VERB 16
+tati deletesuf 4 NOUN 16
+NOUN ali fhaspref 3 PRON 15.9838127849703
+ori hassuf 3 NOUN 15.8181818181818
+NOUN ext fhaspref 3 ADJ 15.5
+sae hassuf 3 VERB 15
+osi hassuf 3 ADJ 15
+osa hassuf 3 ADJ 15
+imos hassuf 4 ADJ 15
+imae hassuf 4 ADJ 15
+iore hassuf 4 ADJ 15
+VERB nus fhassuf 3 PROPN 15
+ari haspref 3 PROPN 15
+ili hassuf 3 ADJ 14.6666666666667
+uo hassuf 2 ADJ 14.0942028985507
+nda hassuf 3 VERB 14
+iuis hassuf 4 ADJ 14
+osum hassuf 4 ADJ 14
+ν char X 14
+ulis hassuf 4 NOUN 13.6666666666667
+ip haspref 2 PRON 13.3177460178968
+VERB super fgoodright NOUN 13.3041958041958
+NOUN prae faddpref 4 VERB 13.8688255422692
+ali hassuf 3 ADJ 13.2857142857143
+iue hassuf 3 ADJ 13
+nto hassuf 3 NOUN 12.9358974358974
+VERB ei fhassuf 2 NOUN 12.6333333333333
+uas hassuf 3 ADJ 12.4333333333333
+ores deletesuf 4 ADJ 12.0714285714286
+dam deletesuf 3 PRON 11.8177478493181
+VERB ter fhassuf 3 ADV 11.5648496240601
+imam hassuf 4 ADJ 11.5
+sing haspref 4 ADJ 11.4798359535202
+NOUN res fgoodright ADJ 11.2182383521253
+VERB pro fgoodright NOUN 11.078488372093
+ad deletepref 2 VERB 11
+ndis hassuf 4 VERB 11
+lo hassuf 2 NOUN 11
+VERB he fhaspref 2 NOUN 11
+osus hassuf 4 ADJ 11
+ose hassuf 3 ADV 11
+k char ADV 10.8362573099415
+VERB propter fgoodright NOUN 10.3396871945259
+dem addsuf 3 PRON 10.2098881046688
+uniu haspref 4 ADJ 10.1428571428571
+pomp haspref 4 PROPN 10.0905982905983
+llis hassuf 4 NOUN 10
+VERB eus fhassuf 3 PROPN 10
+ctum hassuf 4 VERB 9.96965139249236
+el hassuf 2 PROPN 9.94444444444444
+anum hassuf 4 ADJ 9.83333333333333
+ax hassuf 2 ADJ 9.66666666666667
+ire addsuf 3 ADP 9.50731382357792
+utum hassuf 4 VERB 9.42857142857143
+NOUN tempore fgoodleft ADJ 9.17422478924524
+eq haspref 2 NOUN 9
+nos hassuf 3 NOUN 9
+VERB las fhassuf 3 NOUN 9
+VERB tris fhassuf 4 NOUN 9
+NOUN pri fdeletepref 3 ADJ 9
+ano hassuf 3 ADJ 9
+inan haspref 4 ADJ 9
+ς char X 9
+ibet hassuf 4 PRON 8.88603988603989
+ADJ t faddsuf 1 VERB 8.85769342641071
+VERB per fgoodright NOUN 9.32394703656999
+sime addsuf 4 ADJ 8.84523809523809
+NOUN aris fhassuf 4 VERB 9.11059907834101
+ices hassuf 4 NOUN 8.66666666666667
+icus hassuf 4 ADJ 8.57142857142857
+rios hassuf 4 ADJ 8.5
+len haspref 3 ADJ 8.4
+VERB nis faddsuf 3 NOUN 8.36111111111111
+VERB a fgoodright NOUN 8.31843920363844
+ente hassuf 4 VERB 12.9571428571429
+lus hassuf 3 NOUN 8.02976190476191
+ch haspref 2 NOUN 8
+dini hassuf 4 NOUN 8
+mes hassuf 3 ADJ 8
+NOUN mir fhaspref 3 ADJ 8
+tiui hassuf 4 ADJ 8
+NOUN paru fhaspref 4 ADJ 8
+tant haspref 4 ADJ 7.83333333333333
+NOUN caes fhaspref 4 PROPN 7.80390492359932
+imas hassuf 4 ADJ 7.75
+ADJ ani fhaspref 3 NOUN 8.65873015873016
+ida hassuf 3 ADJ 7.6
+tici hassuf 4 ADJ 7.5
+VERB ste fhassuf 3 ADV 7.41025641025641
+fui haspref 3 AUX 7.18977591036415
+VERB pot faddpref 3 AUX 7.15186149606158
+VERB tia faddsuf 3 ADJ 7.14375
+iri hassuf 3 VERB 7
+irem hassuf 4 VERB 7
+abis hassuf 4 VERB 7
+NOUN set faddsuf 3 VERB 7
+ol haspref 2 NOUN 7
+VERB los fhassuf 3 NOUN 7
+etes hassuf 4 NOUN 7
+VERB sine fgoodright NOUN 7
+VERB cos fhassuf 3 ADJ 7
+VERB eis fhassuf 3 ADJ 7
+VERB ino fhaspref 3 ADJ 7
+idus hassuf 4 ADJ 7
+aria hassuf 4 ADJ 7
+idum hassuf 4 ADJ 7
+anam hassuf 4 ADJ 7
+uete haspref 4 ADJ 7
+inde haspref 4 ADJ 7
+PRON alie fhaspref 4 ADJ 7
+NOUN supe fhaspref 4 ADJ 7
+h hassuf 1 PROPN 7
+rh haspref 2 PROPN 7
+th haspref 2 PROPN 7
+bet haspref 3 PROPN 7
+quot haspref 4 ADV 7
+inta hassuf 4 NUM 7
+fue haspref 3 AUX 6.95698194910719
+VERB pes fhassuf 3 NOUN 6.85714285714286
+tert haspref 4 ADJ 6.82125263898663
+tui hassuf 3 NOUN 6.75
+sse addsuf 3 VERB 6.96969696969697
+stas hassuf 4 NOUN 6.75
+secu haspref 4 ADJ 6.73214285714286
+omn haspref 3 ADJ 6.71409697910729
+dem deletesuf 3 PRON 6.69911511688994
+stae hassuf 4 NOUN 6.66666666666667
+cete haspref 4 ADJ 6.61238761238761
+ADJ li fhaspref 2 NOUN 6.4
+alis hassuf 4 ADJ 6.38095238095238
+NOUN ad faddpref 2 VERB 6.01613417708494
+NOUN formas fgoodleft ADJ 6.24462365591398
+sci hassuf 3 VERB 6
+NOUN aui fhassuf 3 VERB 6
+mini hassuf 4 VERB 6
+ante hassuf 4 VERB 6
+VERB ph fhaspref 2 NOUN 6
+tri hassuf 3 NOUN 6
+VERB aet fhaspref 3 NOUN 6
+etas hassuf 4 NOUN 6
+NOUN cae fhassuf 3 ADJ 6
+NOUN ana fhassuf 3 ADJ 6
+NOUN nou fhaspref 3 ADJ 6
+osis hassuf 4 ADJ 6
+osam hassuf 4 ADJ 6
+inco haspref 4 ADJ 6
+ADJ t fhassuf 1 VERB 9
+tate hassuf 4 NOUN 7
+atem hassuf 4 NOUN 6
+masc haspref 4 ADJ 6
+infi haspref 4 ADJ 6
+NOUN post fhaspref 4 ADJ 6
+io haspref 2 PROPN 6
+cum deletesuf 3 ADJ 6
+hero haspref 4 PROPN 6
+kal. addpref 4 ADV 6
+. hassuf 1 X 6.11111111111111
+ε char X 6
+sei haspref 3 PRON 6
+1 char NUM 6
+mou haspref 3 VERB 5.98666666666667
+NOUN pra fdeletepref 3 VERB 5.95
+nost haspref 4 ADJ 5.90652925815113
+nig haspref 3 ADJ 5.75
+NOUN motum fgoodright ADJ 5.74030838218481
+NOUN que faddsuf 3 ADV 5.72017070979335
+anae hassuf 4 ADJ 5.66666666666667
+NOUN sam fhassuf 3 VERB 5.5
+x haspref 1 ADV 5.5
+ADJ te fgoodleft ADV 5.33402512301759
+ADJ mor faddpref 3 PRON 5.293865167718
+NOUN ar fhassuf 2 VERB 5.28571428571429
+VERB stus fhassuf 4 ADJ 5.22222222222222
+VERB stul fhaspref 4 ADJ 5.2
+NOUN mor faddpref 3 ADJ 5.13532888816704
+ADJ a fdeletepref 1 NOUN 5.9
+NOUN lon fhaspref 3 ADJ 5.07142857142857
+per hassuf 3 ADV 5.00473933649289
+ur hassuf 2 VERB 5
+isis hassuf 4 VERB 5
+habe haspref 4 VERB 5
+sta hassuf 3 NOUN 5
+VERB cis fhassuf 3 NOUN 5
+VERB nem fhassuf 3 NOUN 5
+VERB cus fhassuf 3 NOUN 5
+pse haspref 3 NOUN 5
+cli haspref 3 NOUN 5
+PROPN thr fhaspref 3 NOUN 5
+VERB sac fhaspref 3 NOUN 5
+ADJ mot fhaspref 3 NOUN 5
+bris hassuf 4 NOUN 5
+atio hassuf 4 NOUN 5
+VERB pont fhaspref 4 NOUN 5
+oso hassuf 3 ADJ 5
+VERB nas fhassuf 3 ADJ 5
+VERB tre fhassuf 3 ADJ 5
+stos hassuf 4 ADJ 5
+esta hassuf 4 ADJ 5
+esti hassuf 4 ADJ 5
+grau haspref 4 ADJ 5
+ADJ tas fdeletesuf 3 NOUN 5
+quar haspref 4 ADJ 5
+idon haspref 4 ADJ 5
+anti haspref 4 ADJ 5
+supr haspref 4 ADJ 5
+VERB imme fhaspref 4 ADJ 5
+VERB elem fhaspref 4 ADJ 5
+NOUN b fhassuf 1 PROPN 5
+za haspref 2 PROPN 5
+ADJ ph fhaspref 2 PROPN 5
+sam haspref 3 PROPN 5
+pil haspref 3 PROPN 5
+lao haspref 3 PROPN 5
+sido haspref 4 PROPN 5
+marc haspref 4 PROPN 5
+dion haspref 4 PROPN 5
+a. haspref 2 ADV 5
+cim hassuf 3 NUM 5
+v est fgoodright PUNCT 5
+hier haspref 4 PROPN 4.97619047619048
+NOUN itum fhassuf 4 VERB 4.97418583595054
+VERB cis faddsuf 3 NOUN 4.93333333333333
+sunt addsuf 4 ADP 4.78149354923644
+NOUN sa fhassuf 2 VERB 4.77941176470588
+iu hassuf 2 ADV 4.73611111111111
+reli deletepref 4 ADJ 4.71428571428571
+ique hassuf 4 ADV 4.69220779220779
+ple deletepref 3 ADJ 4.66666666666667
+bin haspref 3 ADJ 4.66666666666667
+aces hassuf 4 ADJ 4.66666666666667
+sesc haspref 4 NUM 4.66666666666667
+nul haspref 3 PRON 4.62260520919243
+iei addpref 3 NUM 4.57066276803119
+ull haspref 3 DET 4.52380952380952
+NOUN uiu fhaspref 3 VERB 4.5
+ADV s faddsuf 1 ADJ 4.46111111111111
+fut haspref 3 ADJ 4.38636363636364
+NOUN ptum fhassuf 4 VERB 4.36666666666667
+ADJ stat fhaspref 4 NOUN 4.33333333333333
+sto hassuf 3 ADJ 4.31746031746032
+itum deletesuf 4 NOUN 4.25
+ADV per fgoodright PRON 4.24925161135355
+NOUN to fdeletesuf 2 VERB 4.17777777777778
+bar haspref 3 PROPN 4.14285714285714
+barb haspref 4 ADJ 4.14285714285714
+NOUN med fhaspref 3 ADJ 4.1155830753354
+mag deletepref 3 ADJ 4.09502262443439
+VERB inter fgoodright NOUN 4.00635386119257
+fac deletepref 3 VERB 5
+NOUN sas fhassuf 3 VERB 4
+isus hassuf 4 VERB 4
+deam hassuf 4 VERB 4
+aram hassuf 4 VERB 4
+urus hassuf 4 VERB 4
+NOUN ndas fhassuf 4 VERB 4
+toll haspref 4 VERB 4
+pl addpref 2 VERB 4
+VERB na fhassuf 2 NOUN 4
+ADJ ia fhaspref 2 NOUN 4
+VERB tur fdeletepref 3 NOUN 4
+VERB eos fhassuf 3 NOUN 4
+VERB ios fhassuf 3 NOUN 4
+VERB mis fhassuf 3 NOUN 4
+cub haspref 3 NOUN 4
+ioc haspref 3 NOUN 4
+gle haspref 3 NOUN 4
+hom haspref 3 NOUN 4
+fro haspref 3 NOUN 4
+VERB dia fhaspref 3 NOUN 4
+VERB soc fhaspref 3 NOUN 4
+VERB uir fhaspref 3 NOUN 4
+VERB ped fhaspref 3 NOUN 4
+VERB cat fhaspref 3 NOUN 4
+ADJ uid fhaspref 3 NOUN 4
+ADJ lac fhaspref 3 NOUN 4
+noct deletepref 4 NOUN 4
+edis hassuf 4 NOUN 4
+edes hassuf 4 NOUN 4
+ulem hassuf 4 NOUN 4
+atem hassuf 4 NOUN 4
+VERB uras fhassuf 4 NOUN 4
+cine haspref 4 NOUN 4
+digi haspref 4 NOUN 4
+serp haspref 4 NOUN 4
+carc haspref 4 NOUN 4
+uehe addpref 4 NOUN 4
+VERB ba fhassuf 2 ADJ 4
+NOUN eg fhaspref 2 ADJ 4
+ADJ u fhassuf 1 NOUN 4
+nam deletesuf 3 ADJ 4
+ido hassuf 3 ADJ 4
+bil haspref 3 ADJ 4
+NOUN eph fhaspref 3 ADJ 4
+NOUN dup fhaspref 3 ADJ 4
+VERB bea fhaspref 3 ADJ 4
+riae deletesuf 4 ADJ 4
+osae hassuf 4 ADJ 4
+NOUN icam fhassuf 4 ADJ 4
+NOUN anis fhassuf 4 ADJ 4
+noxi haspref 4 ADJ 4
+aure haspref 4 ADJ 4
+NOUN lace fhaspref 4 ADJ 4
+VERB prud fhaspref 4 ADJ 4
+NOUN maxu fhaspref 4 ADJ 4
+xe haspref 2 PROPN 4
+tha hassuf 3 PROPN 4
+aeo hassuf 3 PROPN 4
+ico haspref 3 PROPN 4
+epa haspref 3 PROPN 4
+syr haspref 3 PROPN 4
+lys haspref 3 PROPN 4
+dum haspref 3 PROPN 4
+esa haspref 3 PROPN 4
+NOUN sau fhaspref 3 PROPN 4
+NOUN bib fhaspref 3 PROPN 4
+cato haspref 4 PROPN 4
+deio haspref 4 PROPN 4
+iaco haspref 4 PROPN 4
+dama haspref 4 PROPN 4
+tull haspref 4 PROPN 4
+step haspref 4 PROPN 4
+saty haspref 4 PROPN 4
+heli haspref 4 PROPN 4
+VERB ali fdeletepref 3 ADV 4
+inde deletesuf 4 ADV 4
+4 char NUM 4
+quin haspref 4 ADJ 3.99985257260799
+br addsuf 2 NUM 3.98039215686275
+VERB prim fhaspref 4 ADJ 3.91176470588235
+. deletesuf 1 ADV 3.88888888888889
+usq haspref 3 ADV 3.81443298969072
+VERB dicit fgoodright PROPN 3.78506097560976
+hae addpref 3 NUM 3.78035714285714
+NOUN d fhassuf 1 PRON 3.75881123058542
+enes hassuf 4 PROPN 3.75
+idem hassuf 4 ADV 3.75
+ssis hassuf 4 VERB 3.66666666666667
+quum hassuf 4 ADJ 3.6
+piso haspref 4 PROPN 3.6
+ADJ no faddpref 2 NOUN 3.55
+ADJ uic fhaspref 3 NOUN 3.5
+uan haspref 3 ADJ 3.5
+maio haspref 4 ADJ 3.5
+quo deletepref 3 PRON 3.5
+neu haspref 3 PRON 3.5
+VERB quan fhaspref 4 PRON 3.5
+cras haspref 4 PROPN 3.49206349206349
+NOUN is fhaspref 2 PRON 3.46896551724138
+sanc deletepref 4 ADJ 3.4375
+anus hassuf 4 ADJ 3.42857142857143
+pus addpref 3 ADJ 3.37067528790764
+sequ deletepref 4 VERB 3.33333333333333
+dex haspref 3 ADJ 3.33333333333333
+VERB tot fhaspref 3 ADJ 3.33333333333333
+ita haspref 3 PROPN 3.29166666666667
+opti haspref 4 ADJ 3.25
+VERB y fchar NOUN 3.2
+iori hassuf 4 ADJ 3.18181818181818
+alti haspref 4 NOUN 3.73434343434343
+ADJ perf fhaspref 4 NOUN 3.26855855855856
+VERB ora faddsuf 3 ADJ 3.18181818181818
+NOUN a.d. faddpref 4 NUM 3.17380952380952
+VERB br fhaspref 2 ADJ 3.16666666666667
+NOUN al fdeletepref 2 ADJ 3.16591784338896
+PROPN intellectus fgoodleft ADV 3.08612650067378
+pler haspref 4 ADJ 3.05555555555556
+NOUN ndo fhassuf 3 VERB 3.04651162790698
+dic deletepref 3 VERB 3
+uol deletepref 3 VERB 3
+cre deletepref 3 VERB 3
+xas hassuf 3 VERB 3
+lui hassuf 3 VERB 3
+obt haspref 3 VERB 3
+ges haspref 3 VERB 3
+plo haspref 3 VERB 3
+ADJ rem fhaspref 3 VERB 3
+ndus deletesuf 4 VERB 3
+ndos deletesuf 4 VERB 3
+cogn deletepref 4 VERB 3
+scam hassuf 4 VERB 3
+osco hassuf 4 VERB 3
+NOUN scis fhassuf 4 VERB 3
+exha haspref 4 VERB 3
+ambu haspref 4 VERB 3
+spar haspref 4 VERB 3
+dorm haspref 4 VERB 3
+unio haspref 4 VERB 3
+exis haspref 4 VERB 3
+ADJ conu fhaspref 4 VERB 3
+PRON ur faddsuf 2 VERB 3
+NOUN lau faddpref 3 VERB 3
+ione hassuf 4 NOUN 4
+VERB corporis fgoodleft NOUN 3.64893960946593
+ana addsuf 3 PROPN 3.28698752228164
+tur hassuf 3 VERB 3
+li deletepref 2 NOUN 3
+VERB ae fdeletepref 2 NOUN 3
+PROPN os fhassuf 2 NOUN 3
+VERB id fhaspref 2 NOUN 3
+ADJ os fhaspref 2 NOUN 3
+ice hassuf 3 NOUN 3
+duo hassuf 3 NOUN 3
+ure hassuf 3 NOUN 3
+por hassuf 3 NOUN 3
+sor hassuf 3 NOUN 3
+ADJ lle fhassuf 3 NOUN 3
+VERB tro fhassuf 3 NOUN 3
+scu haspref 3 NOUN 3
+gre haspref 3 NOUN 3
+coc haspref 3 NOUN 3
+poe haspref 3 NOUN 3
+gla haspref 3 NOUN 3
+fil haspref 3 NOUN 3
+pel haspref 3 NOUN 3
+VERB mas fhaspref 3 NOUN 3
+VERB ciu fhaspref 3 NOUN 3
+VERB apo fhaspref 3 NOUN 3
+ADJ fas fhaspref 3 NOUN 3
+VERB hos fhaspref 3 NOUN 3
+VERB mar fhaspref 3 NOUN 3
+ADJ pet fhaspref 3 NOUN 3
+itus deletesuf 4 NOUN 3
+oppi deletepref 4 NOUN 3
+ides hassuf 4 NOUN 3
+ioni hassuf 4 NOUN 3
+tate hassuf 4 NOUN 3
+VERB culi fhassuf 4 NOUN 3
+ADJ atis fhassuf 4 NOUN 3
+arbu haspref 4 NOUN 3
+muli haspref 4 NOUN 3
+gran haspref 4 NOUN 3
+facu haspref 4 NOUN 3
+tuni haspref 4 NOUN 3
+pulu haspref 4 NOUN 3
+ADJ trib fhaspref 4 NOUN 3
+VERB cand fhaspref 4 NOUN 3
+sos deletesuf 3 ADJ 3
+VERB ras fdeletesuf 3 ADJ 3
+diu deletepref 3 ADJ 3
+VERB gra fdeletepref 3 ADJ 3
+ece hassuf 3 ADJ 3
+ara hassuf 3 ADJ 3
+VERB uos fhassuf 3 ADJ 3
+VERB uis fhassuf 3 ADJ 3
+iuc haspref 3 ADJ 3
+tur hassuf 3 VERB 3
+tar haspref 3 ADJ 3
+ADJ t fhassuf 1 VERB 4
+VERB sex fhaspref 3 ADJ 3
+NOUN rid fhaspref 3 ADJ 3
+oria deletesuf 4 ADJ 3
+inep deletepref 4 ADJ 3
+NOUN ping fdeletepref 4 ADJ 3
+ario hassuf 4 ADJ 3
+fera hassuf 4 ADJ 3
+osas hassuf 4 ADJ 3
+stam hassuf 4 ADJ 3
+nici hassuf 4 ADJ 3
+plex hassuf 4 ADJ 3
+reum hassuf 4 ADJ 3
+hor deletepref 3 NOUN 3
+ecum hassuf 4 ADJ 3
+lici hassuf 4 ADJ 3
+NOUN obum fhassuf 4 ADJ 3
+PROPN neus fhassuf 4 ADJ 3
+VERB rtes fhassuf 4 ADJ 3
+exim haspref 4 ADJ 3
+pauc haspref 4 ADJ 3
+pris haspref 4 ADJ 3
+paup haspref 4 ADJ 3
+eque haspref 4 ADJ 3
+unig haspref 4 ADJ 3
+spis haspref 4 ADJ 3
+impi haspref 4 ADJ 3
+arid haspref 4 ADJ 3
+agre haspref 4 ADJ 3
+VERB turp fhaspref 4 ADJ 3
+NOUN pur faddpref 3 ADJ 3
+NOUN bili faddsuf 4 ADJ 3
+py haspref 2 PROPN 3
+ax haspref 2 PROPN 3
+NOUN luc fdeletepref 3 PROPN 3
+him hassuf 3 PROPN 3
+har hassuf 3 PROPN 3
+has hassuf 3 PROPN 3
+ham hassuf 3 PROPN 3
+arp haspref 3 PROPN 3
+bri haspref 3 PROPN 3
+laz haspref 3 PROPN 3
+afr haspref 3 PROPN 3
+oce haspref 3 PROPN 3
+mos haspref 3 PROPN 3
+VERB nep fhaspref 3 PROPN 3
+VERB eph fhaspref 3 PROPN 3
+publ deletepref 4 PROPN 3
+scae haspref 4 PROPN 3
+scap haspref 4 PROPN 3
+simo haspref 4 PROPN 3
+salo haspref 4 PROPN 3
+boet haspref 4 PROPN 3
+greg haspref 4 PROPN 3
+scip haspref 4 PROPN 3
+solo haspref 4 PROPN 3
+memm haspref 4 PROPN 3
+iaso haspref 4 PROPN 3
+milo haspref 4 PROPN 3
+scau haspref 4 PROPN 3
+empe haspref 4 PROPN 3
+amal haspref 4 PROPN 3
+NOUN socr fhaspref 4 PROPN 3
+NOUN plat fhaspref 4 PROPN 3
+NOUN sa faddpref 2 PROPN 3
+gnis hassuf 4 ADJ 3
+br hassuf 2 ADV 3
+VERB ie fhassuf 2 ADV 3
+sius deletesuf 4 ADV 3
+modo deletesuf 4 ADV 3
+μ char X 3
+δ char X 3
+inti hassuf 4 NUM 3
+PROPN ui faddpref 2 ADV 2.98795180722892
+SLUT:	Mon Oct 15 13:45:05 2018
+
+START:	Thu Oct 25 13:36:31 2018
+
+t char VERB 9891.88369990313
+e char VERB 2608.56655294904
+v i fchar NOUN 1240.70952782245
+in goodright NOUN 928.392731876145
+m hassuf 1 NOUN 372.567264771249
+START:	Thu Oct 25 13:36:59 2018
+
+io hassuf 2 NOUN 288.682954545455
+t char VERB 9837.63449532615
+e char VERB 2684.18552735873
+v a fchar NOUN 203.469182900433
+v i fchar NOUN 1243.21852022416
+in goodright NOUN 942.567776958643
+START:	Thu Oct 25 13:37:28 2018
+
+t char VERB 9864.01627936081
+e char VERB 2698.36225383866
+v i fchar NOUN 1293.91742126029
+in goodright NOUN 953.054856611455
+m hassuf 1 NOUN 372.178849055042
+io hassuf 2 NOUN 280.44190821256
+v a fchar NOUN 204.663550017708
+nis hassuf 3 NOUN 194
+ne hassuf 2 NOUN 179.868257956449
+ndum hassuf 4 VERB 170.095238095238
+ae hassuf 2 NOUN 161.067736185383
+nes hassuf 3 NOUN 123.944444444444
+ia hassuf 2 NOUN 110.539105801606
+mus hassuf 3 VERB 106.04347826087
+ntem hassuf 4 VERB 104.67619047619
+itas hassuf 4 NOUN 103.232142857143
+v o fchar NOUN 96.2435897435897
+ius hassuf 3 ADJ 93.9678899795475
+VERB le fhassuf 2 ADJ 92.3351398601399
+t addsuf 1 VERB 97.0992990947821
+v - fchar NUM 89
+ο char X 87
+tam hassuf 3 VERB 84.2666666666667
+de goodright NOUN 79.4836452927036
+VERB lis fhassuf 3 ADJ 78.0704225352113
+tum hassuf 3 VERB 76.6186842425471
+les hassuf 3 ADJ 76.075
+. char X 72
+tae hassuf 3 VERB 69.2166666666667
+tate hassuf 4 NOUN 66
+ior hassuf 3 ADJ 61.6769230769231
+ores hassuf 4 NOUN 61.3875
+ari hassuf 3 VERB 60.6333333333333
+iter hassuf 4 ADJ 60.4977161727162
+lem hassuf 3 ADJ 59.0384615384615
+VERB per fgoodright NOUN 56.1097639650025
+dam hassuf 3 VERB 55.5
+α char X 55.5
+u hassuf 1 NOUN 54.6190476190476
+ter addsuf 3 ADJ 52.5976678122309
+ndo hassuf 3 VERB 51
+ua hassuf 2 ADJ 48.0833333333333
+urum hassuf 4 VERB 48
+lia hassuf 3 ADJ 46.008338706211
+tor hassuf 3 NOUN 45
+mum hassuf 3 ADJ 43.2358663895666
+ans hassuf 3 VERB 41.5
+iis hassuf 3 NOUN 41
+ima hassuf 3 ADJ 40.8423163945453
+ore hassuf 3 NOUN 40
+ii hassuf 2 NOUN 37.4333333333333
+bus hassuf 3 NOUN 37.3333333333333
+VERB me fhassuf 2 ADV 37.083850931677
+NOUN us faddsuf 2 VERB 36.4719778717272
+VERB eius fgoodleft NOUN 37.5875764844138
+VERB ni fdeletesuf 2 NOUN 35.5
+VERB y fchar NOUN 35.1666666666667
+iora hassuf 4 ADJ 33.3333333333333
+VERB na fhassuf 2 ADJ 31.8333333333333
+que hassuf 3 PRON 31.1084393246932
+ates hassuf 4 NOUN 30
+ilis hassuf 4 ADJ 30
+mis hassuf 3 ADJ 29.4666666666667
+VERB fuit fgoodright PROPN 29.4471014492754
+ndae hassuf 4 VERB 29
+la hassuf 2 NOUN 28.6666666666667
+n hassuf 1 PROPN 27.510752688172
+nta hassuf 3 NOUN 27
+ur hassuf 2 VERB 26.4475524475524
+lium hassuf 4 ADJ 26.2424242424242
+ntum hassuf 4 NOUN 26.2
+uus hassuf 3 ADJ 26.1304347826087
+uae hassuf 3 ADJ 24.875
+NOUN uam fhassuf 3 ADJ 24.3121794871795
+oris hassuf 4 NOUN 24
+ν char X 24
+tate addsuf 4 ADJ 23.9369696969697
+imo hassuf 3 ADJ 23.4132947976879
+eram hassuf 4 VERB 23
+osa hassuf 3 ADJ 23
+ca hassuf 2 ADJ 22.5
+NOUN ndi fhassuf 3 VERB 22.0232558139535
+ssem hassuf 4 VERB 22
+men hassuf 3 NOUN 21.989247311828
+bam hassuf 3 VERB 21
+rim hassuf 3 VERB 19
+ori hassuf 3 NOUN 19
+ali addpref 3 PRON 18.9407561920517
+NOUN t fhassuf 1 VERB 18.7813634363142
+v u fchar NOUN 18.6785714285714
+udo hassuf 3 NOUN 18
+imae hassuf 4 ADJ 18
+VERB no fhassuf 2 ADJ 17.6666666666667
+imam hassuf 4 ADJ 17.5
+VERB ra fhassuf 2 NOUN 17.4598039215686
+uis hassuf 3 ADJ 17.1373626373626
+c hassuf 1 ADV 17.0367138857792
+tati deletesuf 4 NOUN 17
+iuum hassuf 4 ADJ 17
+VERB ea fhassuf 2 ADJ 16.75
+VERB li fhassuf 2 ADJ 16.4654569892473
+tim hassuf 3 ADV 16.1439393939394
+ulis hassuf 4 NOUN 16
+ali deletepref 3 PRON 15.0136359349366
+sae hassuf 3 VERB 15
+ias hassuf 3 NOUN 15
+nto hassuf 3 NOUN 14.9324324324324
+so hassuf 2 VERB 14.75
+nda hassuf 3 VERB 14.5
+NOUN tempore fgoodleft ADJ 14.457762287357
+ip haspref 2 PRON 14.4330788161005
+imi hassuf 3 ADJ 14.5
+ADJ t faddsuf 1 VERB 15.2231561849652
+io haspref 2 PROPN 14.3333333333333
+ndis hassuf 4 VERB 14
+osus hassuf 4 ADJ 14
+iore hassuf 4 ADJ 14
+ces hassuf 3 NOUN 13.5
+VERB nus fhassuf 3 ADJ 13.5
+osi hassuf 3 ADJ 13
+NOUN ext fhaspref 3 ADJ 13
+ε char X 13
+bo hassuf 2 VERB 12.7142857142857
+cus hassuf 3 NOUN 12.5
+x hassuf 1 NOUN 12.4705882352941
+uniu haspref 4 ADJ 12.1875
+VERB ter fhassuf 3 ADV 12.1796536796537
+las hassuf 3 NOUN 12
+osis hassuf 4 ADJ 12
+VERB ei fhassuf 2 NOUN 11.9679487179487
+VERB ex fgoodright NOUN 11.868923754331
+NOUN prae faddpref 4 VERB 11.6747123669695
+VERB sine fgoodright NOUN 12.5
+lus hassuf 3 NOUN 11.5
+k char ADV 11.5
+idus hassuf 4 ADJ 11
+inan haspref 4 ADJ 11
+ly haspref 2 PROPN 11
+ibet hassuf 4 PRON 11
+sing haspref 4 ADJ 10.6692307692308
+VERB ios fhassuf 3 NOUN 10.5
+dem addsuf 3 PRON 10.1151627409443
+NOUN ad fdeletepref 2 VERB 10.1
+erem hassuf 4 VERB 10
+ana hassuf 3 ADJ 10
+iue hassuf 3 ADJ 10
+VERB nos fhassuf 3 ADJ 10
+osum hassuf 4 ADJ 10
+ose hassuf 3 ADV 10
+ς char X 10
+arem hassuf 4 VERB 9.83333333333333
+ores deletesuf 4 ADJ 9.825
+ida hassuf 3 ADJ 9.75
+dix addpref 3 AUX 9.16098623308118
+abis hassuf 4 VERB 9
+VERB lo fhassuf 2 NOUN 9
+eq haspref 2 NOUN 9
+th haspref 2 NOUN 9
+etas hassuf 4 NOUN 9
+VERB eis fhassuf 3 ADJ 9
+inde haspref 4 ADJ 9
+el hassuf 2 PROPN 9
+mar haspref 3 PROPN 9
+ano hassuf 3 ADJ 8.85714285714286
+fui haspref 3 AUX 8.85670261941448
+itum addsuf 4 ADP 8.78537826477317
+dam deletesuf 3 PRON 8.61679381011481
+NOUN que faddsuf 3 ADV 8.45453165339442
+tant haspref 4 ADJ 8.42354235423542
+NOUN alis fhassuf 4 ADJ 8.35769230769231
+VERB he fhaspref 2 NOUN 8.2
+NOUN sam fhassuf 3 VERB 8.16666666666667
+VERB super fgoodright NOUN 8.36898656898657
+ar hassuf 2 VERB 8.09321058688147
+VERB propter fgoodright NOUN 8.27519603644189
+etes hassuf 4 NOUN 8
+NOUN pri fdeletepref 3 ADJ 8
+idum hassuf 4 ADJ 8
+anam hassuf 4 ADJ 8
+icae hassuf 4 ADJ 8
+uete haspref 4 ADJ 8
+VERB inco fhaspref 4 ADJ 8
+ADJ t fhassuf 1 VERB 8
+aris haspref 4 PROPN 8
+cete haspref 4 ADJ 7.89425770308123
+NOUN sa fhassuf 2 VERB 7.87765567765568
+pomp haspref 4 PROPN 7.83333333333333
+secu haspref 4 ADJ 7.82839954741329
+tert haspref 4 ADJ 7.75
+VERB stul fhaspref 4 ADJ 7.66666666666667
+NOUN aris fhassuf 4 VERB 7.39915966386555
+VERB fort fhaspref 4 ADJ 7.33333333333333
+an deletepref 2 NOUN 7.25
+ente hassuf 4 VERB 7.15060908084164
+omn haspref 3 ADJ 7.12861894425008
+NOUN ndas fhassuf 4 VERB 7
+hos haspref 3 NOUN 7
+llis hassuf 4 NOUN 7
+VERB tris fhassuf 4 NOUN 7
+marg haspref 4 NOUN 7
+ax hassuf 2 ADJ 7
+VERB cos fhassuf 3 ADJ 7
+tiui hassuf 4 ADJ 7
+osae hassuf 4 ADJ 7
+za haspref 2 PROPN 7
+rh haspref 2 PROPN 7
+bet haspref 3 PROPN 7
+1 char NUM 7
+inta hassuf 4 NUM 7
+NOUN sum fhassuf 3 VERB 6.7952380952381
+VERB ste fhassuf 3 ADV 6.78846153846154
+stas hassuf 4 NOUN 6.6
+NOUN res fgoodright ADJ 6.59387501751271
+VERB dicit fgoodright PROPN 6.55403572409497
+VERB eus fhassuf 3 NOUN 6.5
+dem deletesuf 3 PRON 6.48050691599489
+VERB stus fhassuf 4 ADJ 6.45333333333333
+fue haspref 3 AUX 6.41719391719392
+ADJ super fgoodright NOUN 6.34236429671391
+VERB stae fhassuf 4 NOUN 6.33333333333333
+imas hassuf 4 ADJ 6.33333333333333
+VERB ne faddsuf 2 NOUN 6.28571428571429
+uos hassuf 3 ADJ 6.2
+uo hassuf 2 ADJ 6.19722222222222
+ADJ illum fgoodleft ADV 6.21907824047626
+NOUN motum fgoodright ADJ 6.16440532371529
+NOUN set faddsuf 3 VERB 6.125
+VERB cis fhassuf 3 NOUN 7
+NOUN sis fhassuf 3 VERB 6.12015503875969
+fut haspref 3 AUX 6.0360248447205
+iri hassuf 3 VERB 6
+isus hassuf 4 VERB 6
+aram hassuf 4 VERB 6
+ente addsuf 4 VERB 6
+VERB los fhassuf 3 NOUN 6
+VERB mos fhassuf 3 ADJ 6
+VERB bea fhaspref 3 ADJ 6
+icum hassuf 4 ADJ 6
+osas hassuf 4 ADJ 6
+iuas hassuf 4 ADJ 6
+masc haspref 4 ADJ 6
+NOUN paru fhaspref 4 ADJ 6
+VERB imme fhaspref 4 ADJ 6
+VERB elem fhaspref 4 ADJ 6
+sam haspref 3 PROPN 6
+NOUN anti fhaspref 4 PROPN 6
+a. haspref 2 ADV 6
+quot haspref 4 ADV 6
+δ char X 6
+seip haspref 4 PRON 6
+quar haspref 4 ADJ 5.96153846153846
+VERB etum fhassuf 4 NOUN 5.84615384615385
+kal. addpref 4 ADV 5.66666666666667
+nost haspref 4 ADJ 5.60683453496056
+VERB l fhassuf 1 NOUN 5.6
+NOUN formas fgoodleft ADJ 5.51043562172594
+ADJ lin fhaspref 3 NOUN 5.5
+VERB ig fdeletepref 2 ADJ 5.5
+VERB tici fhassuf 4 ADJ 5.5
+NOUN riae fhassuf 4 ADJ 5.5
+sesc haspref 4 NUM 5.5
+VERB gr fhaspref 2 ADJ 5.3
+sima addsuf 4 ADJ 5.16666666666667
+gab haspref 3 PROPN 5.16666666666667
+stum hassuf 4 ADJ 5.16071428571429
+VERB nas fhassuf 3 NOUN 5.125
+NOUN sos fhassuf 3 VERB 5.1
+VERB ora faddsuf 3 ADJ 5.1
+rec deletepref 3 ADJ 5.06060606060606
+iu hassuf 2 ADV 5.01785714285714
+per hassuf 3 ADV 5.00507614213198
+ani hassuf 3 ADJ 5
+ADJ t fhassuf 1 VERB 5
+sci hassuf 3 VERB 5
+NOUN aui fhassuf 3 VERB 5
+mou haspref 3 VERB 5
+NOUN loq fhaspref 3 VERB 5
+VERB y fchar NOUN 5
+VERB ch fhaspref 2 NOUN 5
+eos hassuf 3 NOUN 5
+one hassuf 3 NOUN 5
+pel haspref 3 NOUN 5
+ADJ lac fhaspref 3 NOUN 5
+VERB sac fhaspref 3 NOUN 5
+ADJ sil fhaspref 3 NOUN 5
+ADJ mot fhaspref 3 NOUN 5
+dini hassuf 4 NOUN 5
+edes hassuf 4 NOUN 5
+ulem hassuf 4 NOUN 5
+pont haspref 4 NOUN 5
+VERB spon fhaspref 4 NOUN 5
+VERB tre fhassuf 3 ADJ 5
+VERB bri fhassuf 3 ADJ 5
+nig haspref 3 ADJ 5
+stos hassuf 4 ADJ 5
+lici hassuf 4 ADJ 5
+iori hassuf 4 ADJ 5
+ADJ perf fhaspref 4 NOUN 5.94024266936299
+ili hassuf 3 ADJ 5
+cub haspref 3 NOUN 5
+NOUN aria fhassuf 4 ADJ 5
+NOUN anis fhassuf 4 ADJ 5
+eque haspref 4 ADJ 5
+inmu haspref 4 ADJ 5
+ato hassuf 3 VERB 5
+pauc haspref 4 ADJ 5
+hero haspref 4 PROPN 6
+h hassuf 1 PROPN 5
+VERB ep fhaspref 2 PROPN 5
+ur hassuf 2 VERB 5.92307692307692
+NOUN ia fhaspref 2 PROPN 5
+tro haspref 3 PROPN 5
+arch deletepref 4 PROPN 5
+dama haspref 4 PROPN 5
+tull haspref 4 PROPN 5
+inde deletesuf 4 ADV 5
+v , fgoodleft NUM 5
+v est fgoodright PUNCT 5
+sunt addsuf 4 ADP 4.98775281580371
+nul haspref 3 PRON 4.95167913560408
+ADJ mil fhaspref 3 NUM 4.90909090909091
+dic deletepref 3 VERB 4.88888888888889
+fals haspref 4 ADJ 4.88571428571429
+VERB sex fhaspref 3 ADJ 4.85714285714286
+ADV s faddsuf 1 ADJ 4.79848666466886
+non haspref 3 ADV 4.75
+caes haspref 4 PROPN 4.74864730702408
+VERB pro fgoodright NOUN 4.72674418604651
+iei addpref 3 NUM 4.7203378023847
+NOUN uiu fhaspref 3 VERB 4.5
+ADJ lli fhassuf 3 NOUN 4.5
+pus deletepref 3 ADJ 4.5
+enes hassuf 4 PROPN 4.5
+NOUN d fhassuf 1 PRON 4.48022921327793
+quin haspref 4 ADJ 4.45416666666667
+ADJ christi fgoodleft NOUN 4.42105263157895
+ADJ ante fgoodright NOUN 4.47270718232044
+NOUN mor faddpref 3 ADJ 4.38174359424359
+gn haspref 2 PROPN 4.33333333333333
+augu haspref 4 PROPN 4.33333333333333
+ali hassuf 3 ADJ 4.28571428571429
+alti haspref 4 NOUN 4.22710622710623
+no addpref 2 NOUN 4.18887114975623
+ull haspref 3 DET 4.10714285714286
+PRON p fhaspref 1 ADJ 4.07142857142857
+NOUN om fhaspref 2 DET 4.03999706554955
+ADJ re fdeletepref 2 VERB 4
+NOUN si fhassuf 2 VERB 4
+scis hassuf 4 VERB 4
+abor hassuf 4 VERB 4
+VERB y fchar NOUN 4
+VERB ae fdeletepref 2 NOUN 4
+aq haspref 2 NOUN 4
+ADJ ol fhaspref 2 NOUN 4
+VERB ph fhaspref 2 NOUN 4
+andi hassuf 4 VERB 4
+ADJ tas fdeletesuf 3 NOUN 4
+ian deletepref 3 NOUN 4
+VERB tur fdeletepref 3 NOUN 4
+ure hassuf 3 NOUN 4
+VERB tro fhassuf 3 NOUN 4
+cli haspref 3 NOUN 4
+pal haspref 3 NOUN 4
+VERB ped fhaspref 3 NOUN 4
+noct deletepref 4 NOUN 4
+edis hassuf 4 NOUN 4
+tuti hassuf 4 NOUN 4
+ctui hassuf 4 NOUN 4
+bris hassuf 4 NOUN 4
+atem hassuf 4 NOUN 4
+digi haspref 4 NOUN 4
+VERB muli fhaspref 4 NOUN 4
+uehe addpref 4 NOUN 4
+lex hassuf 3 ADJ 4
+oso hassuf 3 ADJ 4
+NOUN ane fhassuf 3 ADJ 4
+bin haspref 3 ADJ 4
+VERB acu fhaspref 3 ADJ 4
+NOUN nou fhaspref 3 ADJ 4
+NOUN lon fhaspref 3 ADJ 4
+tate hassuf 4 NOUN 4
+riam deletesuf 4 ADJ 4
+timi deletepref 4 ADJ 4
+uiri deletepref 4 ADJ 4
+fera hassuf 4 ADJ 4
+rnas hassuf 4 ADJ 4
+osam hassuf 4 ADJ 4
+arus hassuf 4 ADJ 4
+stam hassuf 4 ADJ 4
+NOUN rias fhassuf 4 ADJ 4
+supr haspref 4 ADJ 4
+agre haspref 4 ADJ 4
+inep haspref 4 ADJ 4
+noxi haspref 4 ADJ 4
+pris haspref 4 ADJ 4
+VERB prud fhaspref 4 ADJ 4
+NOUN post fhaspref 4 ADJ 4
+NOUN mino fhaspref 4 ADJ 4
+VERB prim fhaspref 4 ADJ 4
+ic haspref 2 PROPN 4
+tu hassuf 2 NOUN 4
+ADJ em fhaspref 2 PROPN 4
+lao haspref 3 PROPN 4
+socr haspref 4 PROPN 4
+sido haspref 4 PROPN 4
+cato haspref 4 PROPN 4
+step haspref 4 PROPN 4
+simo haspref 4 PROPN 4
+heli haspref 4 PROPN 4
+solo haspref 4 PROPN 4
+NOUN bibu fhaspref 4 PROPN 4
+NOUN mete fhaspref 4 PROPN 4
+NOUN matt fhaspref 4 PROPN 4
+̅ char ADV 4
+. deletesuf 1 ADV 4
+VERB ie fhassuf 2 ADV 4
+ties hassuf 4 ADV 4
+π char X 4
+cim hassuf 3 NUM 4
+PRON idem fhassuf 4 ADV 3.9969696969697
+mag deletepref 3 ADJ 3.99450549450549
+br addsuf 2 NUM 3.97777777777778
+NOUN n faddsuf 1 PROPN 3.93396226415094
+magi haspref 4 NOUN 3.92857142857143
+VERB cra fhaspref 3 PROPN 3.85714285714286
+NOUN ito fhassuf 3 VERB 3.80808080808081
+NOUN hae faddpref 3 NUM 3.79285714285714
+VERB omnis fgoodright NOUN 3.75294310349346
+NOUN t fhassuf 1 VERB 4.75316455696202
+ADJ na faddpref 2 PRON 3.70859852287524
+NOUN al fdeletepref 2 ADJ 3.68132662901226
+VERB quan fhaspref 4 PRON 3.68
+VERB ce fhassuf 2 NOUN 3.66666666666667
+PRON que fdeletesuf 3 ADV 3.65268387940927
+ADV per fgoodright PRON 3.91864833837082
+uict haspref 4 NOUN 3.5
+VERB tot fhaspref 3 ADJ 3.5
+reli deletepref 4 ADJ 3.42857142857143
+fam haspref 3 NOUN 3.38809523809524
+odum hassuf 4 ADV 3.33333333333333
+ADJ sius fhassuf 4 PROPN 3.33333333333333
+exce haspref 4 VERB 3.66666666666667
+VERB per fgoodright NOUN 3.85238095238095
+ueni haspref 4 VERB 3.75
+NOUN prae fdeletepref 4 VERB 3.5
+VERB sine fgoodright NOUN 4.5
+tio hassuf 3 NOUN 4.25
+mor hassuf 3 NOUN 3.33333333333333
+icus hassuf 4 ADJ 3.33333333333333
+ADJ ndi faddsuf 3 NOUN 3.29798464491363
+etae hassuf 4 NOUN 3.25
+quum hassuf 4 ADJ 3.24242424242424
+sequ deletepref 4 VERB 3.22222222222222
+NOUN sto fhassuf 3 ADJ 3.21875
+VERB cte fhassuf 3 ADJ 3.21428571428571
+NOUN anus fhassuf 4 ADJ 3.2
+VERB bru fhaspref 3 PROPN 3.17857142857143
+ano addsuf 3 PROPN 3.1425499974556
+PROPN tu fgoodleft SCONJ 3.42779392524275
+ADJ quam fhassuf 4 ADV 3.13786576168929
+bo haspref 2 NOUN 3.13679653679654
+quin addpref 4 NOUN 3.11904761904762
+NOUN quo fhaspref 3 ADV 3.09937888198758
+ADJ adhuc fgoodleft ADV 3.08139534883721
+xa hassuf 2 VERB 3
+cre deletepref 3 VERB 3
+PROPN cae fdeletepref 3 VERB 3
+NOUN sub fdeletepref 3 VERB 3
+lui hassuf 3 VERB 3
+sce hassuf 3 VERB 3
+xus hassuf 3 VERB 3
+obt haspref 3 VERB 3
+ADJ rem fhaspref 3 VERB 3
+ndos deletesuf 4 VERB 3
+mini deletesuf 4 VERB 3
+fico hassuf 4 VERB 3
+pice hassuf 4 VERB 3
+ante hassuf 4 VERB 3
+irem hassuf 4 VERB 3
+toll haspref 4 VERB 3
+impl haspref 4 VERB 3
+unio haspref 4 VERB 3
+gest haspref 4 VERB 3
+ADJ conu fhaspref 4 VERB 3
+NOUN abun faddpref 4 VERB 3
+VERB pi fhaspref 2 NOUN 4
+VERB inter fgoodright NOUN 3.5
+fac deletepref 3 VERB 3.89922480620155
+NOUN t fhassuf 1 VERB 3
+li deletepref 2 NOUN 3
+gna deletesuf 3 NOUN 3
+aes deletepref 3 NOUN 3
+uin deletepref 3 NOUN 3
+uul deletepref 3 NOUN 3
+pis hassuf 3 NOUN 3
+VERB hus fhassuf 3 NOUN 3
+scu haspref 3 NOUN 3
+gla haspref 3 NOUN 3
+ADJ uid fhaspref 3 NOUN 3
+ADJ ues fhaspref 3 NOUN 3
+VERB ciu fhaspref 3 NOUN 3
+VERB cat fhaspref 3 NOUN 3
+VERB soc fhaspref 3 NOUN 3
+ADJ por fhaspref 3 NOUN 3
+VERB aet fhaspref 3 NOUN 3
+PROPN ioc fhaspref 3 NOUN 3
+itum deletesuf 4 NOUN 3
+clas deletepref 4 NOUN 3
+infi deletepref 4 NOUN 3
+uris hassuf 4 NOUN 3
+inem hassuf 4 NOUN 3
+mina hassuf 4 NOUN 3
+ADV ster fhassuf 4 NOUN 3
+VERB stes fhassuf 4 NOUN 3
+carc haspref 4 NOUN 3
+facu haspref 4 NOUN 3
+oppi haspref 4 NOUN 3
+pulu haspref 4 NOUN 3
+cine haspref 4 NOUN 3
+gram haspref 4 NOUN 3
+aera haspref 4 NOUN 3
+agge haspref 4 NOUN 3
+serp haspref 4 NOUN 3
+VERB hone fhaspref 4 NOUN 3
+VERB ambi fhaspref 4 NOUN 3
+VERB cand fhaspref 4 NOUN 3
+ADJ trib fhaspref 4 NOUN 3
+ADJ trit fhaspref 4 NOUN 3
+VERB quid fhaspref 4 NOUN 3
+pru addpref 3 NOUN 3
+VERB ext faddpref 3 NOUN 3
+osus addsuf 4 NOUN 3
+NOUN eg fhaspref 2 ADJ 3
+uar deletepref 3 ADJ 3
+ple deletepref 3 ADJ 3
+NOUN sur fdeletepref 3 ADJ 3
+VERB cer fdeletepref 3 ADJ 3
+ADJ a faddpref 1 NOUN 3
+rie hassuf 3 ADJ 3
+rei hassuf 3 ADJ 3
+rus haspref 3 ADJ 3
+len haspref 3 ADJ 3
+NOUN sau fhaspref 3 ADJ 3
+VERB iuc fhaspref 3 ADJ 3
+ur hassuf 2 VERB 3
+NOUN rid fhaspref 3 ADJ 3
+piam deletesuf 4 ADJ 3
+oria deletesuf 4 ADJ 3
+idon deletepref 4 ADJ 3
+lati deletepref 4 ADJ 3
+inui deletepref 4 ADJ 3
+lace deletepref 4 ADJ 3
+NOUN ping fdeletepref 4 ADJ 3
+nici hassuf 4 ADJ 3
+rnam hassuf 4 ADJ 3
+oreo hassuf 4 ADJ 3
+idae hassuf 4 ADJ 3
+osos hassuf 4 ADJ 3
+reum hassuf 4 ADJ 3
+hor deletepref 3 NOUN 3
+aces hassuf 4 ADJ 3
+rmes hassuf 4 ADJ 3
+ecum hassuf 4 ADJ 3
+esta hassuf 4 ADJ 3
+ario hassuf 4 ADJ 3
+tab haspref 3 NOUN 3
+VERB eros fhassuf 4 ADJ 3
+NOUN ream fhassuf 4 ADJ 3
+NOUN obum fhassuf 4 ADJ 3
+NOUN reae fhassuf 4 ADJ 3
+spis haspref 4 ADJ 3
+friu haspref 4 ADJ 3
+creb haspref 4 ADJ 3
+paup haspref 4 ADJ 3
+numm haspref 4 ADJ 3
+VERB fore fhaspref 4 ADJ 3
+NOUN grau fhaspref 4 ADJ 3
+ADJ tate fhassuf 4 NOUN 3
+simi addsuf 4 ADJ 3
+rime addsuf 4 ADJ 3
+ADJ it fhaspref 2 PROPN 3.44444444444444
+ADJ z fchar PROPN 3
+bile hassuf 4 ADJ 3
+NOUN b fhassuf 1 PROPN 3
+NOUN ga fdeletepref 2 PROPN 3
+ax haspref 2 PROPN 3
+xe haspref 2 PROPN 3
+ADJ th fhaspref 2 PROPN 3
+ADJ ph fhaspref 2 PROPN 3
+oro deletepref 3 PROPN 3
+tha hassuf 3 PROPN 3
+him hassuf 3 PROPN 3
+try haspref 3 PROPN 3
+pam haspref 3 PROPN 3
+esa haspref 3 PROPN 3
+psa haspref 3 PROPN 3
+and haspref 3 PROPN 3
+cil haspref 3 PROPN 3
+isa haspref 3 PROPN 3
+oce haspref 3 PROPN 3
+NOUN bri fhaspref 3 PROPN 3
+VERB tib fhaspref 3 PROPN 3
+orix hassuf 4 PROPN 3
+eius hassuf 4 PROPN 3
+scap haspref 4 PROPN 3
+auic haspref 4 PROPN 3
+uett haspref 4 PROPN 3
+uarr haspref 4 PROPN 3
+pila haspref 4 PROPN 3
+capp haspref 4 PROPN 3
+them haspref 4 PROPN 3
+hier haspref 4 PROPN 3
+milo haspref 4 PROPN 3
+thom haspref 4 PROPN 3
+arab haspref 4 PROPN 3
+scae haspref 4 PROPN 3
+NOUN treb fhaspref 4 PROPN 3
+ADJ se fhassuf 2 ADV 3
+une hassuf 3 ADV 3
+sius deletesuf 4 ADV 3
+μ char X 3
+τ char X 3
+PROPN . fchar X 3
+inti hassuf 4 NUM 3
+VERB ntos fhassuf 4 NUM 3
+erea hassuf 4 ADV 2.96875
+SLUT:	Thu Oct 25 15:13:40 2018
+
+START:	Thu Oct 25 16:44:03 2018
+
+START:	Thu Oct 25 16:45:57 2018
+
+t char VERB 9806.04241296379
+e char VERB 2651.74681427145
+v i fchar NOUN 1255.39041874226
+in goodright NOUN 950.64381865134
+m hassuf 1 NOUN 402.270659608184
+io hassuf 2 NOUN 285.500140056022
+nis hassuf 3 NOUN 202.111111111111
+v a fchar NOUN 194.601859639286
+ne hassuf 2 NOUN 177.126389523374
+ndum hassuf 4 VERB 155.096774193548
+ae hassuf 2 NOUN 131.398995650892
+nes hassuf 3 NOUN 119.821428571429
+ia hassuf 2 NOUN 115.703896103896
+v o fchar NOUN 96.3333333333333
+t addsuf 1 VERB 95.4905361928872
+ο char X 95
+v - fchar NUM 95
+mus hassuf 3 VERB 94.2934782608696
+ntem hassuf 4 VERB 88.204954954955
+de goodright NOUN 87.1760161536782
+VERB le fhassuf 2 ADJ 87.01063980879
+tam hassuf 3 VERB 85.4166666666667
+ius hassuf 3 ADJ 84.4281568140822
+itas hassuf 4 NOUN 84.1333333333333
+tum hassuf 3 VERB 80.901932847293
+VERB lis fhassuf 3 ADJ 74.2083333333333
+. char X 69
+les hassuf 3 ADJ 68.5833333333333
+lem hassuf 3 ADJ 67.1
+tae hassuf 3 VERB 67.0614035087719
+ior hassuf 3 ADJ 63.9444444444444
+bus hassuf 3 NOUN 63.6666666666667
+ores hassuf 4 NOUN 58.8611111111111
+ari hassuf 3 VERB 58.5833333333333
+tate hassuf 4 NOUN 58
+VERB per fgoodright NOUN 54.4829207052462
+dam hassuf 3 VERB 52.5
+ter hassuf 3 ADJ 52.4291126297326
+α char X 51.5
+ter addsuf 3 ADJ 51.4251117303749
+ndo hassuf 3 VERB 51.0909090909091
+ua hassuf 2 ADJ 50.2364347026364
+lia hassuf 3 ADJ 46.9081081081081
+u hassuf 1 NOUN 46
+iis hassuf 3 NOUN 46
+imum hassuf 4 ADJ 42.8713513298296
+urum hassuf 4 VERB 40.9545454545455
+VERB bus faddsuf 3 NOUN 40.4266666666667
+ore hassuf 3 NOUN 39
+ndae hassuf 4 VERB 35
+tor hassuf 3 NOUN 35
+ime hassuf 3 ADV 34.7027597402597
+ima hassuf 3 ADJ 34.7013824884793
+ates hassuf 4 NOUN 33.5
+VERB y fchar NOUN 32.5
+que hassuf 3 PRON 32.1849682919954
+ans hassuf 3 VERB 32
+ilis hassuf 4 ADJ 31.3333333333333
+iora hassuf 4 ADJ 31.0909090909091
+la hassuf 2 NOUN 31
+NOUN us faddsuf 2 VERB 30.1396224000649
+tate addsuf 4 ADJ 30.6705432347447
+uus hassuf 3 ADJ 29.6388888888889
+fuit goodright PROPN 29.7569875745533
+eius goodleft NOUN 30.0031562281603
+VERB na fhassuf 2 ADJ 28.8333333333333
+ca hassuf 2 ADJ 28.35
+oris hassuf 4 NOUN 28
+ur hassuf 2 VERB 27.5185185185185
+NOUN ndi fhassuf 3 VERB 26
+mis hassuf 3 ADJ 25.8095238095238
+ii hassuf 2 NOUN 25.475
+ν char X 24
+nta hassuf 3 NOUN 23.3333333333333
+VERB no fhassuf 2 ADJ 23
+sum hassuf 3 VERB 22.5676718092567
+eram hassuf 4 VERB 22.1111111111111
+uae hassuf 3 ADJ 22.0526315789474
+imo hassuf 3 ADJ 21.9420518029457
+NOUN uam fhassuf 3 ADJ 21.3372093023256
+ntum hassuf 4 NOUN 21.3240740740741
+erem hassuf 4 VERB 21
+VERB n fhassuf 1 NOUN 21
+NOUN t fhassuf 1 VERB 20.7854099136757
+lium hassuf 4 ADJ 20.4166666666667
+x hassuf 1 NOUN 20.1333333333333
+udo hassuf 3 NOUN 20
+nto hassuf 3 NOUN 20
+osa hassuf 3 ADJ 20
+tim hassuf 3 ADV 19.1
+bam hassuf 3 VERB 19
+iuum hassuf 4 ADJ 19
+ias hassuf 3 NOUN 18
+VERB ea fhassuf 2 ADJ 17
+ε char X 17
+imam hassuf 4 ADJ 16.75
+ali addpref 3 PRON 16.5669051829469
+NOUN nti fhassuf 3 VERB 16.74
+ad deletepref 2 VERB 16.5
+ili hassuf 3 ADJ 17
+imi hassuf 3 ADJ 16.5
+nda hassuf 3 VERB 16
+nter hassuf 4 ADV 15.4904009034444
+osi hassuf 3 ADJ 15
+ali deletepref 3 PRON 14.7410443970159
+NOUN ext fhaspref 3 ADJ 14.25
+abo hassuf 3 VERB 14
+ssem hassuf 4 VERB 14
+ioni hassuf 4 NOUN 14
+ari haspref 3 PROPN 14
+lus hassuf 3 NOUN 13.7
+ip haspref 2 PRON 13.6976799552631
+NOUN tempore fgoodleft ADJ 13.66187758023
+uniu haspref 4 ADJ 13.1538461538462
+erim hassuf 4 VERB 13
+nus hassuf 3 NOUN 13
+iue hassuf 3 ADJ 13
+osus hassuf 4 ADJ 13
+idum hassuf 4 ADJ 13
+NOUN sa fhassuf 2 VERB 12.8210784313725
+uis hassuf 3 ADJ 12.427750410509
+NOUN res fgoodright ADJ 12.2855577477964
+ADJ t faddsuf 1 VERB 13.2218285650205
+VERB a fgoodright NOUN 12.1318402923242
+imos hassuf 4 ADJ 12
+osum hassuf 4 ADJ 12
+quo haspref 3 PRON 11.8673679289388
+ali hassuf 3 ADJ 11.75
+c hassuf 1 ADV 11.5398864869611
+ces hassuf 3 NOUN 11.5
+NOUN so fhassuf 2 VERB 11.4166666666667
+VERB ra fhassuf 2 NOUN 11.3094006568145
+ente hassuf 4 VERB 11.25
+sing haspref 4 ADJ 11.2083333333333
+dem addsuf 3 PRON 11.0282039658167
+cus hassuf 3 NOUN 11
+llis hassuf 4 NOUN 11
+imae hassuf 4 ADJ 11
+idus hassuf 4 ADJ 11
+iore hassuf 4 ADJ 11
+inan haspref 4 ADJ 11
+el hassuf 2 PROPN 11
+ores deletesuf 4 ADJ 10.4206349206349
+NOUN sae fhassuf 3 VERB 10.25
+VERB propter fgoodright NOUN 11.1899088622768
+VERB lo fhassuf 2 NOUN 10
+VERB ios fhassuf 3 NOUN 10
+VERB las fhassuf 3 NOUN 10
+VERB ori fhassuf 3 NOUN 10
+her haspref 3 NOUN 10
+VERB eus fhassuf 3 PROPN 10
+PROPN est fgoodleft NOUN 10.1884333652512
+VERB ei fhassuf 2 NOUN 9.96666666666667
+ire addsuf 3 ADP 9.45304224881053
+alis hassuf 4 ADJ 9.36363636363636
+icum hassuf 4 ADJ 9.33333333333333
+NOUN quid fgoodright VERB 9.30077271583246
+VERB per fgoodright NOUN 11.1456199714264
+fui haspref 3 AUX 9.10526315789474
+eq haspref 2 NOUN 9
+VERB los fhassuf 3 NOUN 9
+tati deletesuf 4 NOUN 9
+ulis hassuf 4 NOUN 9
+icis hassuf 4 ADJ 9
+inde haspref 4 ADJ 9
+icam hassuf 4 ADJ 8.90909090909091
+pomp haspref 4 PROPN 8.67777777777778
+k char ADV 8.54444444444444
+arem hassuf 4 VERB 8.5
+ADJ ani fhaspref 3 NOUN 8.27825552825553
+ar hassuf 2 VERB 8.25
+NOUN sus fhassuf 3 VERB 8.22222222222222
+ano hassuf 3 ADJ 8.20833333333333
+VERB pot faddpref 3 AUX 8.00196314659869
+etas hassuf 4 NOUN 8
+NOUN pri fdeletepref 3 ADJ 8
+VERB eis fhassuf 3 ADJ 8
+osis hassuf 4 ADJ 8
+tiui hassuf 4 ADJ 8
+iuas hassuf 4 ADJ 8
+VERB imme fhaspref 4 ADJ 8
+h hassuf 1 PROPN 8
+ly haspref 2 PROPN 8
+ose hassuf 3 ADV 8
+1 char NUM 8
+NOUN io fhaspref 2 PROPN 7.8
+pes hassuf 3 NOUN 7.8
+VERB pro fgoodright NOUN 7.70075757575758
+uete haspref 4 ADJ 7.6
+NOUN pau fhaspref 3 ADJ 7.56666666666667
+ADJ mihi fgoodleft ADV 7.49798264044807
+stul haspref 4 ADJ 7.25
+iri hassuf 3 VERB 7
+NOUN prae fdeletepref 4 VERB 7
+abis hassuf 4 VERB 7
+NOUN ndis fhassuf 4 VERB 7
+VERB nos fhassuf 3 NOUN 7
+VERB tris fhassuf 4 NOUN 7
+ana hassuf 3 ADJ 7
+bin haspref 3 ADJ 7
+imas hassuf 4 ADJ 7
+VERB inco fhaspref 4 ADJ 7
+ADJ t fhassuf 1 VERB 7
+th haspref 2 PROPN 7
+mes haspref 3 PROPN 7
+hero haspref 4 PROPN 7
+marc haspref 4 PROPN 7
+τ char X 7
+inta hassuf 4 NUM 7
+cete haspref 4 ADJ 6.86428571428571
+stas hassuf 4 NOUN 6.8
+tert haspref 4 ADJ 6.77492163009404
+fuer haspref 4 AUX 6.66954004732516
+VERB nis faddsuf 3 NOUN 6.58333333333333
+VERB sine fgoodright NOUN 6.5
+v u fchar NOUN 6.45833333333333
+ax hassuf 2 ADJ 6.4
+NOUN paru fhaspref 4 ADJ 6.33333333333333
+VERB nas fhassuf 3 NOUN 6.09090909090909
+VERB super fgoodright NOUN 6.05023985023985
+ato hassuf 3 VERB 6
+sci hassuf 3 VERB 6
+mini hassuf 4 VERB 6
+NOUN set faddsuf 3 VERB 6
+ssis hassuf 4 VERB 6
+VERB ch fhaspref 2 NOUN 6
+ped haspref 3 NOUN 6
+lin haspref 3 NOUN 6
+ADJ mot fhaspref 3 NOUN 6
+VERB ig fdeletepref 2 ADJ 6
+sta hassuf 3 ADJ 6
+oso hassuf 3 ADJ 6
+iuo hassuf 3 ADJ 6
+NOUN nou fhaspref 3 ADJ 6
+VERB bea fhaspref 3 ADJ 6
+stos hassuf 4 ADJ 6
+aria hassuf 4 ADJ 6
+aure haspref 4 ADJ 6
+NOUN infi fhaspref 4 ADJ 6
+tate deletesuf 4 NOUN 6
+simi addsuf 4 ADJ 6
+rh haspref 2 PROPN 6
+NOUN za fhaspref 2 PROPN 6
+bet haspref 3 PROPN 6
+sau haspref 3 PROPN 6
+NOUN anti fhaspref 4 PROPN 6
+a. haspref 2 ADV 6
+quot haspref 4 ADV 6
+kal. addpref 4 ADV 6
+ς char X 6
+sei haspref 3 PRON 6
+cim hassuf 3 NUM 6
+mou haspref 3 VERB 5.98850574712644
+NOUN formas fgoodleft ADJ 5.9689719961331
+nul haspref 3 PRON 5.96842384628738
+quar haspref 4 ADJ 5.96296296296296
+secu haspref 4 ADJ 5.89333333333333
+VERB dicit fgoodright PROPN 5.77884615384615
+anae hassuf 4 ADJ 5.75
+dam deletesuf 3 PRON 5.72409732280129
+VERB li fhassuf 2 NOUN 5.71879713423831
+omn haspref 3 ADJ 5.67924255039784
+nost haspref 4 ADJ 5.63910201565813
+VERB ste fhassuf 3 ADV 5.6304347826087
+tant haspref 4 ADJ 5.61666666666667
+VERB l fhassuf 1 NOUN 5.5
+sesc haspref 4 NUM 5.5
+pus haspref 3 ADJ 5.4
+que deletesuf 3 ADV 5.39751891772683
+VERB stum fhassuf 4 ADJ 5.26666666666667
+VERB cos fhassuf 3 ADJ 5.25
+pler haspref 4 ADJ 5.06666666666667
+ADV in fgoodright PRON 5.05689659313813
+NOUN dem fdeletesuf 3 PRON 5.04238455103777
+fut haspref 3 ADJ 5.02121212121212
+NOUN aui fhassuf 3 VERB 5
+ADV it faddsuf 2 VERB 5
+VERB eos fhassuf 3 NOUN 5
+thr haspref 3 NOUN 5
+cli haspref 3 NOUN 5
+VERB mar fhaspref 3 NOUN 5
+atem hassuf 4 NOUN 5
+etes hassuf 4 NOUN 5
+dini hassuf 4 NOUN 5
+VERB uras fhassuf 4 NOUN 5
+VERB stae fhassuf 4 NOUN 5
+pont haspref 4 NOUN 5
+magi haspref 4 NOUN 5
+VERB spon fhaspref 4 NOUN 5
+NOUN non fhaspref 3 ADJ 5
+VERB ino fhaspref 3 ADJ 5
+riae deletesuf 4 ADJ 5
+lati deletepref 4 ADJ 5
+esti hassuf 4 ADJ 5
+anam hassuf 4 ADJ 5
+lici hassuf 4 ADJ 5
+rmes hassuf 4 ADJ 5
+NOUN icae fhassuf 4 ADJ 5
+VERB tia faddsuf 3 ADJ 5
+lao haspref 3 PROPN 5
+per hassuf 3 ADV 5
+inde deletesuf 4 ADV 5
+VERB ani fhassuf 3 NOUN 4.93333333333333
+ur hassuf 2 VERB 4.90909090909091
+alex haspref 4 PROPN 4.9
+VERB sex fhaspref 3 ADJ 4.875
+sunt addsuf 4 ADP 4.85584499860944
+VERB etum fhassuf 4 NOUN 4.83333333333333
+NOUN motum fgoodright ADJ 5.11609195402299
+NOUN que faddsuf 3 ADV 4.82149660375467
+NOUN sam fhassuf 3 VERB 4.75
+enes hassuf 4 PROPN 4.75
+uos hassuf 3 ADJ 4.66666666666667
+bar haspref 3 PROPN 4.66666666666667
+tull haspref 4 PROPN 4.66666666666667
+ida hassuf 3 ADJ 4.6
+ADJ mor faddpref 3 PRON 4.58738701999251
+NOUN d fhassuf 1 PRON 4.58292512437403
+iei addpref 3 NUM 4.57236359617554
+NOUN uiu fhaspref 3 VERB 4.5
+ple deletepref 3 ADJ 4.5
+ibet hassuf 4 PRON 4.46153846153846
+VERB cte fhassuf 3 ADJ 4.45
+ADJ quorum fgoodleft NOUN 4.41676939359452
+rnis hassuf 4 ADJ 4.4
+ueni haspref 4 VERB 4.375
+NOUN sima faddsuf 4 ADJ 4.33333333333333
+ull haspref 3 DET 4.33333333333333
+barb haspref 4 NOUN 4.33333333333333
+tro hassuf 3 NOUN 4.3
+rsus deletesuf 4 ADV 4.25
+quum hassuf 4 ADJ 4.20833333333333
+NOUN sum fhaspref 3 ADJ 4.03846153846154
+max haspref 3 ADJ 4.01785714285714
+uol deletepref 3 VERB 4
+obt haspref 3 VERB 4
+aram hassuf 4 VERB 4
+NOUN ndas fhassuf 4 VERB 4
+expo haspref 4 VERB 4
+dice haspref 4 VERB 4
+NOUN inci fhaspref 4 VERB 4
+li deletepref 2 NOUN 4
+ol haspref 2 NOUN 4
+tes deletesuf 3 NOUN 4
+aed deletepref 3 NOUN 4
+gus hassuf 3 NOUN 4
+cub haspref 3 NOUN 4
+tun haspref 3 NOUN 4
+ADJ sil fhaspref 3 NOUN 4
+ADJ lac fhaspref 3 NOUN 4
+VERB aet fhaspref 3 NOUN 4
+VERB sac fhaspref 3 NOUN 4
+itus deletesuf 4 NOUN 4
+noct deletepref 4 NOUN 4
+ulem hassuf 4 NOUN 4
+mina hassuf 4 NOUN 4
+edis hassuf 4 NOUN 4
+cre deletepref 3 VERB 4
+VERB eros fhassuf 4 NOUN 4
+carc haspref 4 NOUN 4
+uehe addpref 4 NOUN 4
+VERB ba fhassuf 2 ADJ 4
+pru deletepref 3 ADJ 4
+VERB cer fdeletepref 3 ADJ 4
+alb haspref 3 ADJ 4
+albe haspref 4 NOUN 5
+ADJ ego fgoodleft ADV 4.64078238985691
+mas haspref 3 ADJ 4
+rus haspref 3 ADJ 4
+NOUN nud fhaspref 3 ADJ 4
+NOUN rid fhaspref 3 ADJ 4
+NOUN egr fhaspref 3 ADJ 4
+arus hassuf 4 ADJ 4
+osas hassuf 4 ADJ 4
+stre hassuf 4 ADJ 4
+iori hassuf 4 ADJ 4
+aces hassuf 4 ADJ 4
+PROPN orum fhassuf 4 ADJ 4
+NOUN anis fhassuf 4 ADJ 4
+VERB tico fhassuf 4 ADJ 4
+agre haspref 4 ADJ 4
+alac haspref 4 ADJ 4
+idon haspref 4 ADJ 4
+fore haspref 4 ADJ 4
+NOUN grau fhaspref 4 ADJ 4
+ADJ tas fdeletesuf 3 NOUN 4
+NOUN supr fhaspref 4 ADJ 4
+NOUN ephe fhaspref 4 ADJ 4
+ADJ z fchar PROPN 4
+on hassuf 2 PROPN 4
+pha haspref 3 NOUN 4
+NOUN n fdeletesuf 1 PROPN 4
+nio deletesuf 3 PROPN 4
+tha hassuf 3 PROPN 4
+syr haspref 3 PROPN 4
+and haspref 3 PROPN 4
+VERB pil fhaspref 3 PROPN 4
+orix hassuf 4 PROPN 4
+dama haspref 4 PROPN 4
+iaco haspref 4 PROPN 4
+bibu haspref 4 PROPN 4
+sido haspref 4 PROPN 4
+hier haspref 4 PROPN 4
+milo haspref 4 PROPN 4
+. deletesuf 1 ADV 4
+VERB ie fhassuf 2 ADV 4
+modo deletesuf 4 ADV 4
+VERB sept fhaspref 4 ADV 4
+δ char X 4
+2 char NUM 4
+br addsuf 2 NUM 4
+ADJ perf fhaspref 4 NOUN 3.94444444444444
+bru haspref 3 ADJ 3.78333333333333
+hae addpref 3 NUM 3.74010041682455
+sse addsuf 3 VERB 3.69655172413793
+VERB cand fhaspref 4 NOUN 3.66666666666667
+maio haspref 4 ADJ 3.6
+pus addpref 3 ADJ 3.58487432158595
+NOUN mor faddpref 3 ADJ 3.56553696371726
+ADJ a fdeletepref 1 NOUN 4
+VERB y fchar NOUN 3.5
+VERB fals fhaspref 4 ADJ 3.41304347826087
+ADV s faddsuf 1 ADJ 3.34426229508197
+asp deletepref 3 ADJ 3.33333333333333
+len haspref 3 ADJ 3.33333333333333
+iu hassuf 2 ADV 3.33333333333333
+augu haspref 4 PROPN 3.33333333333333
+ADJ sub faddpref 3 VERB 3.26080550098232
+urba haspref 4 ADJ 4
+NOUN chr fhaspref 3 PROPN 3.22375664229605
+ital haspref 4 PROPN 3.2
+ADJ res fdeletesuf 3 NOUN 3.16666666666667
+VERB fort fhaspref 4 ADJ 3.16666666666667
+NOUN aris fhassuf 4 ADJ 3.14285714285714
+NOUN sos fhassuf 3 VERB 3.125
+dex haspref 3 ADJ 3.11111111111111
+NOUN ndo fhassuf 3 VERB 3.09090909090909
+mag deletepref 3 ADJ 3.08479532163743
+gab haspref 3 PROPN 3.08333333333333
+a.d. addpref 4 NUM 3.05720556582626
+NOUN eli fhassuf 3 PROPN 3.05263157894737
+PRON p fhaspref 1 VERB 3
+cor hassuf 3 VERB 3
+emo haspref 3 VERB 3
+NOUN tan fhaspref 3 VERB 3
+ADJ exc fhaspref 3 VERB 3
+NOUN nol fhaspref 3 VERB 3
+occi deletepref 4 VERB 3
+sequ deletepref 4 VERB 3
+cogn deletepref 4 VERB 3
+irem hassuf 4 VERB 3
+urus hassuf 4 VERB 3
+elli hassuf 4 VERB 3
+andi hassuf 4 VERB 3
+repe haspref 4 VERB 3
+subp haspref 4 VERB 3
+cruc haspref 4 VERB 3
+habe haspref 4 VERB 3
+unio haspref 4 VERB 3
+ADJ conu fhaspref 4 VERB 3
+VERB cis fhassuf 3 NOUN 3.15384615384615
+eic deletepref 3 VERB 3
+NOUN scis fhassuf 4 VERB 3
+bi deletesuf 2 NOUN 3
+eta hassuf 3 NOUN 3
+leta hassuf 4 VERB 3.28571428571429
+hus hassuf 3 NOUN 3
+tea hassuf 3 NOUN 3
+ure hassuf 3 NOUN 3
+gos hassuf 3 NOUN 3
+ADJ ule fhassuf 3 NOUN 3
+gla haspref 3 NOUN 3
+gle haspref 3 NOUN 3
+soc haspref 3 NOUN 3
+ADJ cau fhaspref 3 NOUN 3
+VERB ciu fhaspref 3 NOUN 3
+ADJ uid fhaspref 3 NOUN 3
+PROPN ioc fhaspref 3 NOUN 3
+ADJ pet fhaspref 3 NOUN 3
+tate deletesuf 4 NOUN 3
+itum deletesuf 4 NOUN 3
+infi deletepref 4 NOUN 3
+ungu deletepref 4 NOUN 3
+ites hassuf 4 NOUN 3
+edes hassuf 4 NOUN 3
+VERB bris fhassuf 4 NOUN 3
+VERB tros fhassuf 4 NOUN 3
+ADJ atis fhassuf 4 NOUN 3
+thes haspref 4 NOUN 3
+oppi haspref 4 NOUN 3
+agge haspref 4 NOUN 3
+digi haspref 4 NOUN 3
+facu haspref 4 NOUN 3
+cala haspref 4 NOUN 3
+pulu haspref 4 NOUN 3
+muli haspref 4 NOUN 3
+numm haspref 4 NOUN 3
+serp haspref 4 NOUN 3
+NOUN t fhassuf 1 VERB 3.88888888888889
+ADJ cant fhaspref 4 NOUN 3
+ADJ trib fhaspref 4 NOUN 3
+ADJ capt fhaspref 4 NOUN 3
+VERB quid fhaspref 4 NOUN 3
+ADJ stat fhaspref 4 NOUN 3
+ADJ li faddsuf 2 NOUN 3
+ho addpref 2 NOUN 3
+pru addpref 3 NOUN 3
+osus addsuf 4 NOUN 3
+ADJ rius faddsuf 4 NOUN 3
+VERB quin faddpref 4 NOUN 3
+VERB mu fdeletepref 2 ADJ 3
+umi deletepref 3 ADJ 3
+uar deletepref 3 ADJ 3
+NOUN rec fdeletepref 3 ADJ 3
+rei hassuf 3 ADJ 3
+reo hassuf 3 ADJ 3
+ara hassuf 3 ADJ 3
+cyr haspref 3 ADJ 3
+dul haspref 3 ADJ 3
+nig haspref 3 ADJ 3
+VERB acu fhaspref 3 ADJ 3
+VERB aeg fhaspref 3 ADJ 3
+VERB pes fhaspref 3 ADJ 3
+NOUN dup fhaspref 3 ADJ 3
+VERB spi fhaspref 3 ADJ 3
+oria deletesuf 4 ADJ 3
+inep deletepref 4 ADJ 3
+lace deletepref 4 ADJ 3
+tici hassuf 4 ADJ 3
+rnus hassuf 4 ADJ 3
+osae hassuf 4 ADJ 3
+ecum hassuf 4 ADJ 3
+osam hassuf 4 ADJ 3
+ares hassuf 4 ADJ 3
+fera hassuf 4 ADJ 3
+nici hassuf 4 ADJ 3
+idae hassuf 4 ADJ 3
+osos hassuf 4 ADJ 3
+igni hassuf 4 ADJ 3
+NOUN ream fhassuf 4 ADJ 3
+sauc haspref 4 ADJ 3
+macr haspref 4 ADJ 3
+miri haspref 4 ADJ 3
+NOUN mino fhaspref 4 ADJ 3
+NOUN luci fhaspref 4 ADJ 3
+ADV us fdeletesuf 2 PROPN 3
+NOUN is fhaspref 2 PROPN 3
+VERB ep fhaspref 2 PROPN 3
+ur hassuf 2 VERB 3
+ham hassuf 3 PROPN 3
+enn haspref 3 PROPN 3
+cai haspref 3 PROPN 3
+try haspref 3 PROPN 3
+tro haspref 3 PROPN 3
+esa haspref 3 PROPN 3
+NOUN bri fhaspref 3 PROPN 3
+NOUN ape fhaspref 3 PROPN 3
+ADJ sat fhaspref 3 PROPN 3
+NOUN ach fhaspref 3 PROPN 3
+sone hassuf 4 PROPN 3
+igis hassuf 4 PROPN 3
+enem hassuf 4 PROPN 3
+ADJ eius fhassuf 4 PROPN 3
+solo haspref 4 PROPN 3
+hisp haspref 4 PROPN 3
+step haspref 4 PROPN 3
+scae haspref 4 PROPN 3
+auic haspref 4 PROPN 3
+heli haspref 4 PROPN 3
+sodo haspref 4 PROPN 3
+empe haspref 4 PROPN 3
+pili haspref 4 PROPN 3
+scap haspref 4 PROPN 3
+NOUN sera fhaspref 4 PROPN 3
+VERB . fgoodright PROPN 3
+ADJ lle fhassuf 3 ADV 3
+pere deletesuf 4 ADV 3
+VERB dice fhassuf 4 ADV 3
+ADJ sius fhassuf 4 ADV 3
+PRON idem fhassuf 4 ADV 3
+VERB quin fhaspref 4 ADV 3
+μ char X 3
+ρ char X 3
+VERB quan fhaspref 4 PRON 3
+inti hassuf 4 NUM 3
+trec haspref 4 NUM 3
+v est fgoodright PUNCT 3
+VERB ess fhaspref 3 AUX 2.98122792494481
+SLUT:	Thu Oct 25 18:14:43 2018
+

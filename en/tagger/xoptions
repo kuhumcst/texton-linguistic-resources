@@ -1,0 +1,8 @@
+ConvertToLowerCaseIfFirstWord = 1
+ConvertToLowerCaseIfMostWordsAreCapitalized = 1
+ShowIfLowercaseConversionHelped = 0
+Language = english  (One of the LC_CTYPES accepted by setlocale(), e.g.
+ "danish", "dutch", "english", "french", "german", "italian", "spanish")
+Noun = NN
+Proper = NNP
+Verbose = 0

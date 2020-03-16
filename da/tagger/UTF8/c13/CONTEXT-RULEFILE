@@ -1,0 +1,2085 @@
+NOUN sb NEXT1OR2OR3TAG STAART
+NOUN vb PREV1OR2OR3TAG STAART
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+art konj SURROUNDTAG STAART pron
+sb vb PREVTAG sb
+adv pron WDNEXTTAG ther pron
+NOUN sb PREV1OR2OR3TAG vb
+sb adj NEXTTAG sb
+konj præp NEXTTAG vb
+sb vb NEXTTAG pron
+vb sb PREVWD then
+præp pron NEXTTAG adv
+sb vb PREVBIGRAM pron adv
+pron præp NEXT1OR2TAG sb
+adv pron PREV1OR2TAG art
+vb sb PREVWD til
+pron adv WDPREVTAG vb ther
+sb adj PREV1OR2WD war
+vb sb NEXTWD och
+vb sb PREVWD hans
+sb vb PREV1OR2WD ath
+adv adj NEXTWD thet
+adv pron SURROUNDTAG STAART adv
+pron adv NEXT1OR2WD han
+pron sb WDPREVTAG pron man
+sb vb PREVBIGRAM pron vb
+vb sb PREVWD jen
+sb adj PREVWD sa
+præp pron NEXTTAG vb
+præp konj LBIGRAM STAART at
+NOUN vb PREV1OR2OR3TAG pron
+vb sb PREVBIGRAM STAART præp
+sb adj NEXTTAG sb
+sb vb PREVWD thet
+præp pron PREVWD skullæ
+vb sb NEXTBIGRAM vb vb
+adv pron WDNEXTTAG som vb
+adv pron SURROUNDTAG STAART adj
+præp pron NEXT1OR2WD mægh
+vb sb SURROUNDTAG STAART vb
+vb adj PREVWD sa
+sb adj PREVBIGRAM adj adv
+adj vb RBIGRAM føræ STAART
+sb vb PREVWD thik
+sb vb PREVBIGRAM sb vb
+adv vb PREVWD thette
+adv vb PREV1OR2WD man
+præp pron PREVTAG konj
+sb vb PREVBIGRAM art adv
+vb præp WDAND2TAGBFR vb wed
+konj sb NEXTTAG vb
+vb sb NEXT1OR2WD war
+sb vb PREVBIGRAM pron pron
+sb vb PREVWD the
+sb vb PREVBIGRAM vb adv
+vb sb CURWD nade
+sb vb CURWD ær
+adv pron NEXT2WD hawer
+adv sb NEXTTAG prop
+vb sb CURWD skade
+sb vb PREVWD ther
+vb adj PREVWD saa
+vb adj NEXTBIGRAM sb vb
+vb adj PREV2WD ær
+adj sb PREV1OR2WD for
+præp pron NEXTBIGRAM pron vb
+vb præp WDAND2AFT wedh STAART
+vb sb NEXTBIGRAM vb pron
+sb vb CURWD hawer
+pron sb RBIGRAM man STAART
+adv adj NEXTTAG pron
+art vb NEXTTAG STAART
+NOUN sb PREV1OR2OR3TAG adv
+PROPN prop PREV1OR2OR3TAG STAART
+sb vb PREVWD hinnæ
+sb vb PREVWD at
+sb vb PREVWD han
+vb adj NEXTWD ær
+adv pron PREVWD gudh
+adv pron SURROUNDTAG STAART præp
+adj vb SURROUNDTAG præp STAART
+adv vb NEXTWD han
+sb præp CURWD vnder
+konj adj WDPREVTAG art fyrste
+præp adj RBIGRAM modh STAART
+vb sb PREVWD jeth
+vb sb PREVWD myn
+sb vb PREVTAG prop
+sb vb PREVWD hanom
+sb vb PREVWD wi
+vb adj PREV2WD worte
+adv pron SURROUNDTAG sb vb
+adj vb RBIGRAM stor STAART
+præp pron NEXTWD herræ
+præp pron PREVWD skulle
+vb præp WDAND2TAGBFR vb wedh
+sb prop CURWD constancianobis
+sb pron PREVWD ther
+pron præp SURROUNDTAG STAART art
+vb sb NEXTWD faa
+vb sb PREVWD stor
+vb sb WDNEXTTAG talæ vb
+vb sb PREV2WD war
+sb vb PREVWD hanum
+sb vb PREVWD jech
+sb vb PREVWD thu
+sb vb PREVWD hwn
+sb vb RBIGRAM kieræ STAART
+sb vb LBIGRAM i æræ
+sb vb PREVBIGRAM adv adv
+vb adj PREVWD ien
+vb adj PREV1OR2WD wortæ
+adv pron NEXT2WD ær
+adv pron PREVBIGRAM adj sb
+adv pron NEXTWD hanum
+adj vb RBIGRAM føre STAART
+adj vb WDPREVTAG adj kieræ
+adj sb CURWD ræt
+adj vb SURROUNDTAG adv pron
+adv vb SURROUNDTAG pron pron
+adv vb WDAND2BFR for saa
+præp pron NEXTTAG præp
+vb prop WDPREVTAG sb fredærik
+præp pron NEXT1OR2WD ere
+vb prop CURWD constancianobis
+vb præp WDAND2AFT wed STAART
+sb pron WDPREVTAG præp begis
+adv art WDNEXTTAG thy sb
+art konj NEXT2WD kam
+adv art WDAND2TAGBFR adv thy
+præp konj WDAND2TAGAFT at vb
+pron sb WDPREVTAG art man
+adv adj NEXTWD formaa
+vb num NEXTWD dage
+num pron CURWD aneth
+vb sb PREVTAG num
+vb sb NEXTWD heller
+vb sb NEXTWD giøræ
+vb sb NEXTWD man
+vb sb PREVWD myne
+vb sb PREVWD vdhen
+vb sb RBIGRAM swig STAART
+vb sb RBIGRAM skiel STAART
+sb adj NEXTBIGRAM sb STAART
+vb sb WDNEXTTAG ere pron
+vb sb WDPREVTAG adj skien
+vb sb PREV1OR2WD fæk
+vb sb CURWD vndher
+vb sb CURWD skafft
+vb sb CURWD saninde
+vb sb CURWD sølff
+vb sb CURWD wnder
+sb vb PREVWD sægh
+sb vb PREVWD sammen
+sb vb PREVWD foræ
+sb vb PREVWD jnthet
+sb vb PREVWD saræ
+sb vb LBIGRAM j tro
+præp pron NEXTTAG vb
+sb vb PREV1OR2WD maa
+sb vb PREVBIGRAM art sb
+sb vb PREVBIGRAM prop vb
+vb adj PREVWD howen
+vb adj WDNEXTTAG redhe vb
+vb adj PREV1OR2WD worder
+vb adj WDAND2TAGBFR sb stoor
+sb adj PREVWD myghet
+sb adj RBIGRAM hiel och
+sb adj PREV1OR2WD bodhæ
+adv pron NEXTBIGRAM sb sb
+adv pron WDAND2AFT som haffde
+adj sb LBIGRAM then jomfrwes
+adj sb WDPREVTAG pron død
+adj sb NEXT1OR2WD faa
+adj vb PREVWD skal
+adj sb CURWD ræth
+sb adj PREV2WD ær
+adj sb SURROUNDTAG art STAART
+adj vb PREVWD sare
+adj vb WDPREVTAG pron wissæ
+vb adv CURWD therath
+adv vb PREVWD øgen
+pron adv PREVWD hus
+adv vb LBIGRAM henne saa
+pron adv WDAND2AFT ther STAART
+adv vb PREVBIGRAM prop sb
+NOUN sb NEXT1OR2OR3TAG STAART
+NOUN vb PREV1OR2OR3TAG STAART
+adv vb WDAND2BFR ther saa
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+art konj SURROUNDTAG STAART pron
+sb vb NEXTTAG pron
+vb prop SURROUNDTAG sb sb
+sb adj NEXTTAG sb
+sb vb PREVTAG sb
+sb prop PREV1OR2WD herræ
+NOUN vb PREV1OR2OR3TAG vb
+adv pron WDNEXTTAG ther pron
+pron præp NEXT1OR2TAG sb
+vb pron WDPREVTAG vb thith
+konj præp NEXTTAG vb
+vb sb PREVWD then
+præp pron PREV2WD nw
+vb sb PREVWD til
+sb vb SURROUNDTAG vb STAART
+vb pron NEXT1OR2WD heller
+sb adj PREVWD sa
+vb præp LBIGRAM STAART wed
+vb sb NEXT1OR2WD war
+sb vb PREV1OR2WD ath
+vb pron CURWD jæch
+vb sb NEXTWD och
+adv pron NEXTBIGRAM adv vb
+sb pron WDPREVTAG vb hwerandræ
+pron adv NEXTWD han
+præp pron WDNEXTTAG i adv
+vb præp WDPREVTAG vb wedh
+NOUN sb NEXT1OR2OR3TAG vb
+vb præp CURWD imellom
+pron adv WDPREVTAG vb ther
+pron præp NEXT1OR2WD laa
+pron sb WDPREVTAG pron man
+pron sb WDPREVTAG adj man
+art konj NEXTWD konningen
+vb sb PREVWD hans
+sb vb PREVWD ey
+art konj SURROUNDTAG STAART art
+vb adj WDAND2TAGBFR vb war
+adv pron SURROUNDTAG STAART adj
+adv art WDAND2TAGAFT thy adv
+vb sb PREVWD jen
+adj adv RBIGRAM borte then
+sb adj NEXTTAG sb
+vb adj SURROUNDTAG præp sb
+adj adv PREVBIGRAM art vb
+adj vb SURROUNDTAG præp STAART
+præp pron NEXTTAG vb
+konj præp NEXTTAG vb
+adv vb PREVWD thette
+pron sb SURROUNDTAG adj vb
+præp pron NEXTTAG præp
+adv adj NEXTTAG art
+adj adv WDAND2TAGBFR vb alth
+sb vb PREV1OR2WD jech
+præp sb PREVBIGRAM præp art
+adv pron WDPREVTAG art ther
+vb adv SURROUNDTAG STAART vb
+pron sb WDAND2AFT how STAART
+præp konj WDNEXTTAG at pron
+pron num NEXTWD morigen
+sb vb PREVTAG prop
+vb konj LBIGRAM STAART emen
+adj vb RBIGRAM føræ STAART
+præp pron NEXTWD mægh
+konj sb NEXT1OR2TAG STAART
+NOUN vb NEXT1OR2OR3TAG sb
+art adv NEXTTAG konj
+adv pron WDNEXTTAG som vb
+prop vb NEXTTAG pron
+sb vb PREV1OR2WD wi
+sb vb PREVBIGRAM adv adv
+adj rom WDNEXTTAG iii sb
+adv pron PREVBIGRAM adj sb
+vb sb NEXTWD hawer
+vb præp WDAND2TAGBFR vb wed
+vb sb PREVWD sin
+vb sb SURROUNDTAG præp vb
+sb vb NEXTWD fra
+sb vb PREVWD han
+sb vb NEXTBIGRAM art sb
+sb adj PREVWD saa
+adv art WDNEXTTAG thy sb
+adv adj PREV1OR2OR3TAG præp
+vb sb PREV1OR2WD jeth
+sb vb PREVWD hanum
+sb vb PREV1OR2WD thu
+sb vb PREVBIGRAM sb vb
+adj vb WDPREVTAG adj kieræ
+adv vb PREV1OR2WD man
+præp pron NEXTWD herræ
+vb prop PREV1OR2WD her
+adv sb NEXTTAG prop
+sb vb PREV1OR2WD jckj
+sb vb PREV1OR2WD hawer
+sb vb WDAND2BFR STAART æræ
+vb adj PREV2WD ær
+sb adj PREVBIGRAM adj adv
+adv pron NEXT2WD hawer
+præp pron NEXTBIGRAM pron vb
+pron præp NEXTTAG art
+sb pron LBIGRAM ther man
+præp sb NEXTBIGRAM adv sb
+præp adj RBIGRAM modh STAART
+PROPN sb PREV1OR2TAG STAART
+art vb NEXTTAG STAART
+vb sb PREVWD til
+vb sb PREVWD pa
+vb sb PREVWD myn
+vb sb RBIGRAM fræst STAART
+vb sb WDNEXTTAG talæ vb
+vb sb PREVBIGRAM STAART adj
+sb vb CURWD ær
+vb sb CURWD rad
+sb vb PREVWD ther
+sb vb PREV1OR2WD aldrig
+sb vb PREVBIGRAM pron adv
+sb adj PREV2WD the
+adv pron NEXTWD for
+adj vb SURROUNDTAG art adj
+adv vb NEXTWD han
+præp pron NEXTTAG vb
+vb præp WDAND2AFT wedh STAART
+pron sb WDAND2AFT how STAART
+vb num NEXTBIGRAM sb vb
+num adj PREVTAG art
+vb sb RBIGRAM nade STAART
+vb sb NEXT1OR2WD hawer
+vb sb PREV1OR2WD stoor
+vb adj WDNEXTTAG stoor sb
+vb adj NEXTBIGRAM vb vb
+sb vb NEXTWD samen
+sb vb PREVWD at
+sb vb PREVWD mæg
+sb vb PREVWD mægh
+sb vb NEXT1OR2WD heræ
+sb vb PREV1OR2WD megh
+vb adj NEXTWD man
+vb adj CURWD wælkomen
+sb adj PREVTAG sb
+sb adj PREVWD alt
+sb adj PREVBIGRAM pron vb
+adv pron NEXTBIGRAM vb vb
+pron adv WDPREVTAG pron ther
+vb adj NEXTBIGRAM sb pron
+adj sb PREVWD vdhen
+adj sb SURROUNDTAG præp vb
+adj vb RBIGRAM stor STAART
+adj vb NEXTBIGRAM pron adv
+adv vb NEXTWD appa
+adv vb PREVBIGRAM STAART art
+adv vb WDAND2BFR for saa
+præp pron PREVTAG konj
+pron adv PREVBIGRAM vb art
+vb præp WDPREVTAG sb wed
+vb pron LBIGRAM STAART eehwad
+art konj NEXTTAG prop
+vb pron CURWD wort
+art konj SURROUNDTAG STAART art
+pron sb RBIGRAM man STAART
+adv art NEXT1OR2WD tha
+adj prop PREVBIGRAM STAART sb
+adj num NEXTWD dag
+adv sb SURROUNDTAG art STAART
+adj konj NEXT1OR2TAG prop
+vb sb NEXTWD giøræ
+vb sb PREVWD thieræ
+vb sb PREVWD konningens
+vb sb NEXT1OR2WD oc
+vb sb NEXT1OR2WD tog
+vb sb NEXT1OR2WD mon
+vb sb PREV1OR2WD worde
+vb sb PREV1OR2WD fæk
+vb sb PREV1OR2WD to
+vb sb CURWD slekt
+vb sb CURWD tiener
+vb sb CURWD wanneth
+præp pron PREVBIGRAM STAART vb
+sb vb PREVWD thik
+sb vb PREVWD thet
+vb sb SURROUNDTAG art vb
+vb sb LBIGRAM thet hoff
+sb vb PREVWD hanom
+sb vb RBIGRAM radhæ STAART
+sb vb CURWD weddæ
+sb vb WDAND2TAGBFR vb tro
+præp pron NEXTTAG vb
+vb adj PREVWD hierthet
+vb adj PREVWD saa
+vb adj PREVWD sa
+vb adj RBIGRAM reen STAART
+vb adj WDNEXTTAG bedher vb
+vb adj WDPREVTAG vb død
+vb adj PREV1OR2WD weræ
+vb adj CURWD daweligh
+sb adj RBIGRAM kiøn STAART
+sb adj PREVBIGRAM vb adj
+adv pron NEXTWD megh
+adv pron NEXT2WD wel
+adj sb RBIGRAM dødh STAART
+sb adj NEXTTAG sb
+adj sb PREVTAG num
+adj sb WDPREVTAG pron wredhæ
+adj sb WDPREVTAG pron seel
+adj sb PREVBIGRAM præp adj
+adj vb NEXTWD myt
+adj vb RBIGRAM lange STAART
+adj vb RBIGRAM føre STAART
+adj vb PREVBIGRAM adj vb
+adj vb NEXT2WD then
+adj vb PREV2WD for
+vb adv PREVWD wedh
+vb adv CURWD vdhi
+vb adv CURWD soo
+vb adv CURWD omsider
+adv vb NEXTWD ther
+adv vb LBIGRAM jech sa
+adv vb WDPREVTAG prop saa
+adv vb NEXTBIGRAM pron adv
+adv vb SURROUNDTAG pron art
+adv vb WDAND2TAGBFR prop saa
+vb adv PREVBIGRAM prop vb
+pron adv NEXT1OR2WD talæ
+præp pron NEXTWD ere
+præp pron PREVWD skullæ
+pron præp NEXT1OR2WD laa
+vb præp LBIGRAM STAART wed
+sb prop PREV1OR2WD konningh
+pron præp NEXT2WD och
+præp pron NEXT1OR2WD edher
+vb prop PREVWD widrik
+vb præp WDNEXTTAG jnden art
+vb prop PREV1OR2WD konningh
+vb præp WDPREVTAG vb wed
+vb præp CURWD imellom
+præp konj SURROUNDTAG STAART adj
+vb præp WDAND2TAGBFR vb wedh
+præp konj SURROUNDTAG STAART sb
+adj adv WDAND2TAGBFR vb alth
+art konj NEXTWD gud
+præp vb LBIGRAM jech aa
+adv art NEXTBIGRAM vb præp
+konj præp NEXTTAG vb
+adj pron NEXT1OR2WD sa
+præp sb WDNEXTTAG vnder vb
+pron num NEXTWD morigen
+præp sb PREVBIGRAM præp art
+konj sb PREVTAG adj
+art pron NEXTBIGRAM vb adv
+num vb RBIGRAM otte STAART
+pron rom WDNEXTTAG vi sb
+vb sb NEXTWD skiee
+sb lat PREV1OR2OR3TAG lat
+sb lat NEXT1OR2TAG lat
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+sb vb NEXTTAG pron
+sb vb PREV1OR2WD han
+art konj SURROUNDTAG STAART pron
+adv pron WDNEXTTAG ther pron
+sb vb NEXTTAG art
+sb adj SURROUNDTAG art sb
+sb lat NEXT1OR2TAG lat
+konj præp NEXTTAG vb
+sb vb PREVBIGRAM STAART adv
+adv pron PREV1OR2TAG art
+lat sb NEXT1OR2TAG vb
+vb sb PREVWD til
+pron sb WDPREVTAG pron man
+sb vb PREVBIGRAM pron sb
+præp pron NEXTTAG adv
+adv pron WDNEXTTAG som vb
+sb vb PREVWD at
+sb adj PREVWD sa
+pron lat NEXT1OR2TAG lat
+præp konj LBIGRAM STAART af
+pron sb WDPREVTAG adj man
+sb vb PREVBIGRAM art sb
+sb adj SURROUNDTAG vb sb
+adv pron SURROUNDTAG STAART adv
+pron adv WDPREVTAG vb ther
+sb vb PREVBIGRAM pron adv
+sb adj SURROUNDTAG adv sb
+sb vb SURROUNDTAG vb STAART
+vb sb PREVWD then
+prop sb NEXT1OR2OR3TAG sb
+sb konj WDAND2TAGAFT men vb
+præp lat NEXTTAG lat
+sb vb PREVWD hwn
+vb sb NEXTWD thær
+sb vb PREVWD ath
+præp pron PREVBIGRAM STAART vb
+adj adv WDNEXTTAG alt præp
+adv sb NEXT1OR2TAG prop
+adv konj NEXT1OR2WD .
+adj vb RBIGRAM føræ STAART
+adv vb SURROUNDTAG pron STAART
+art vb NEXTTAG STAART
+præp konj WDAND2BFR STAART at
+lat sb PREV1OR2TAG præp
+vb præp WDAND2TAGBFR vb wedh
+sb adj SURROUNDTAG STAART sb
+pron adv PREVTAG adv
+lat vb NEXT1OR2TAG pron
+sb vb PREVWD jech
+vb sb CURWD læst
+vb adj PREV1OR2WD war
+adj sb RBIGRAM leedh STAART
+adj adv WDAND2TAGBFR art alt
+adv art WDNEXTTAG theræ sb
+lat adv NEXT1OR2TAG vb
+adv pron SURROUNDTAG sb adv
+adj vb PREVWD ath
+pron adv RBIGRAM ther han
+vb præp WDAND2AFT wedh STAART
+sb vb SURROUNDTAG adv præp
+sb vb PREVWD ey
+vb adj PREV1OR2WD ær
+lat vb PREV1OR2TAG pron
+vb præp WDAND2TAGBFR vb wed
+sb vb PREVBIGRAM konj sb
+sb adj PREVWD war
+adj vb NEXTWD medh
+præp pron PREVWD skullæ
+pron adv NEXTTAG art
+vb adv WDAND2TAGBFR vb saa
+art num WDAND2AFT ien for
+adv lat PREVTAG lat
+lat vb NEXT1OR2TAG adv
+sb vb PREVWD jckj
+vb sb PREVWD aff
+adv pron PREVBIGRAM STAART pron
+vb adj PREV1OR2WD worte
+præp pron PREVTAG konj
+pron sb RBIGRAM man STAART
+adj adv WDAND2TAGBFR pron alt
+prop sb NEXT1OR2OR3TAG prop
+sb vb PREVWD thu
+sb vb PREVWD them
+sb vb PREVWD man
+sb vb NEXT1OR2WD wy
+sb vb CURWD siddher
+vb sb WDNEXTTAG talæ vb
+vb adj PREV1OR2WD wortæ
+vb adj CURWD død
+vb adj CURWD soræ
+adj sb PREV1OR2WD medh
+pron adv NEXTTAG STAART
+præp pron PREVBIGRAM STAART præp
+adj adv WDAND2TAGBFR vb alt
+pron præp CURWD met
+præp adv CURWD wdhen
+vb num WDNEXTTAG otte sb
+konj adv CURWD eller
+rom pron CURWD vi
+sb vb PREVWD hanum
+sb vb PREVWD ther
+adv pron SURROUNDTAG sb vb
+sb vb PREVWD hanom
+sb vb LBIGRAM the æræ
+sb vb PREV1OR2WD skal
+vb sb PREVWD jen
+sb vb PREV1OR2WD ywan
+vb sb PREVTAG rom
+vb sb PREVWD pa
+vb sb PREVWD myn
+sb adj NEXT1OR2WD ære
+sb adj PREVBIGRAM adj adv
+adv pron NEXTWD hanum
+adj vb PREVWD at
+adj vb RBIGRAM stoor STAART
+adj vb PREV1OR2WD wil
+adj sb RBIGRAM ræt STAART
+sb prop PREVWD herræ
+vb adv RBIGRAM wel STAART
+præp pron PREVWD mowe
+adv vb LBIGRAM han saa
+adv konj NEXT1OR2WD fornefnde
+sb lat NEXTTAG lat
+lat adv PREV1OR2OR3TAG adv
+adv lat NEXT1OR2OR3TAG lat
+præp konj RBIGRAM at the
+konj præp NEXTTAG vb
+vb pron LBIGRAM ther man
+pron vb WDAND2TAGAFT wort præp
+vb lat NEXTTAG lat
+lat adj PREVBIGRAM sb vb
+lat sb PREV1OR2TAG adj
+sb konj LBIGRAM STAART men
+art pron CURWD thes
+sb vb NEXTWD thæræ
+sb vb PREVWD vndher
+sb vb PREVWD tha
+sb vb PREVWD jnthet
+sb vb LBIGRAM j ere
+sb vb LBIGRAM i æræ
+sb vb PREV1OR2WD megh
+sb vb PREVBIGRAM adv sb
+sb vb PREVBIGRAM STAART sb
+vb sb NEXTWD faa
+vb sb PREVWD hans
+vb sb NEXT1OR2WD ørtigh
+vb sb PREV1OR2WD sin
+sb vb NEXTWD illæ
+vb sb NEXT2WD seyer
+sb adv PREVWD wil
+vb sb CURWD skiel
+sb adj NEXTWD ose
+sb adj NEXTWD skiel
+sb adj PREVWD hin
+sb adj LBIGRAM fornefnde Ewich
+sb adj WDNEXTTAG død adv
+sb adj PREV2WD ære
+vb adj CURWD wisæ
+adv pron NEXTWD for
+adv pron NEXTWD foræ
+adv pron SURROUNDTAG STAART adj
+adj vb NEXTWD thet
+adj vb PREVWD tha
+adj vb WDPREVTAG adj kieræ
+adj vb PREV1OR2WD ther
+adj vb CURWD vnde
+sb prop NEXT1OR2WD doter
+sb prop CURWD rom
+pron adv NEXTWD som
+pron adv LBIGRAM STAART thær
+pron adv WDPREVTAG vb sum
+adv vb NEXT1OR2WD tha
+præp pron NEXTWD bode
+adv vb PREV1OR2WD man
+præp pron NEXTWD æræ
+præp pron PREVBIGRAM STAART adv
+adv konj PREV1OR2WD /
+præp pron SURROUNDTAG vb præp
+sb lat NEXTTAG lat
+pron sb RBIGRAM man ær
+vb prop NEXTWD lille
+pron sb WDAND2AFT how STAART
+vb prop PREVWD herre
+vb prop PREVWD hiedher
+art num NEXTTAG STAART
+vb prop PREV1OR2WD her
+vb præp WDPREVTAG vb wed
+sb num NEXTWD mark
+præp sb PREV1OR2WD medh
+konj præp NEXTWD thette
+lat vb PREV1OR2WD oc
+adv sb NEXT1OR2TAG prop
+præp adj RBIGRAM modh STAART
+lat adv NEXT1OR2TAG adv
+lat adv CURWD oc
+prop lat NEXTTAG lat
+lat sb NEXT1OR2TAG adv
+sb vb NEXTWD eij
+sb vb NEXTWD alle
+sb vb NEXTWD offthe
+sb vb PREVWD sannen
+sb vb PREVWD seg
+sb vb PREVWD illæ
+sb vb PREVWD scal
+sb vb RBIGRAM sagh ær
+sb vb WDPREVTAG sb draffwer
+sb vb WDPREVTAG sb æræ
+sb vb NEXT1OR2WD Clare
+sb vb PREV1OR2WD wær
+sb vb PREV1OR2WD wort
+sb vb PREV1OR2WD scalt
+sb vb PREV1OR2WD bædræ
+sb vb PREV2WD mowe
+sb vb PREV2WD hwo
+sb vb WDAND2BFR the æræ
+vb sb NEXTWD haffwer
+vb sb PREVWD sijn
+vb sb PREVWD paa
+vb sb RBIGRAM ridh STAART
+vb sb WDNEXTTAG jomfrwens sb
+vb sb WDPREVTAG adv wand
+vb sb NEXT2WD fornefnde
+vb sb CURWD nadhæ
+vb sb CURWD rad
+vb sb CURWD roo
+vb sb CURWD saar
+vb sb CURWD arfkøp
+vb sb CURWD gledæ
+vb sb WDAND2BFR for æræ
+vb sb WDAND2TAGBFR vb bøør
+sb adj NEXTWD gærning
+sb adj PREVWD ose
+sb adj PREVWD saa
+adj vb PREV1OR2WD nw
+sb adj PREVWD bodhæ
+sb adj PREVWD myghet
+sb adj RBIGRAM bold STAART
+sb adj LBIGRAM meth fager
+sb adj LBIGRAM aff fremmede
+sb adj NEXT1OR2WD tu
+sb adj NEXT1OR2WD see
+sb adj SURROUNDTAG pron sb
+adj sb PREV2WD for
+sb vb PREVWD som
+sb adj CURWD dyghær
+sb adj CURWD skyldug
+sb adj CURWD litæl
+sb adj CURWD kristen
+vb adj PREV1OR2WD est
+vb adj CURWD frii
+adv pron NEXTWD them
+adv pron PREVWD gudh
+adv pron RBIGRAM thær thet
+adv pron NEXT1OR2WD tre
+adv pron WDAND2AFT ther hawer
+adv pron WDAND2AFT ther ridder
+adj sb NEXTWD oc
+adj sb NEXTWD ,
+adj vb PREVWD eij
+adj vb RBIGRAM føre STAART
+adj sb NEXTWD /
+adj sb SURROUNDTAG præp STAART
+sb vb PREV1OR2WD saræ
+adj vb WDPREVTAG sb før
+adj vb NEXTBIGRAM adj pron
+sb prop PREVWD dronning
+adv konj WDPREVTAG prop oc
+sb prop PREVWD astradh
+sb prop PREVWD her
+sb prop RBIGRAM frederigh STAART
+pron adv PREVTAG adv
+pron adv PREVWD som
+vb adv NEXT1OR2WD ær
+pron adv RBIGRAM ther allæ
+pron adv LBIGRAM STAART thy
+adv art WDAND2AFT thy tha
+sb adv PREV1OR2WD skulle
+sb adv WDAND2TAGAFT tidh pron
+adv vb PREVTAG prop
+adv vb NEXTWD hwn
+sb pron CURWD annedh
+sb pron CURWD wart
+præp pron RBIGRAM j ere
+adv konj NEXTWD wi
+præp pron NEXT1OR2WD edher
+adv konj NEXT1OR2WD /
+præp pron NEXT1OR2WD herræ
+præp pron NEXT1OR2WD mæg
+præp pron WDAND2BFR tha j
+pron sb PREVBIGRAM konj art
+adj adv RBIGRAM borte then
+pron præp NEXTWD theræ
+art num NEXTWD aar
+adj adv WDNEXTTAG alt adv
+pron præp NEXTWD hendhe
+vb prop PREVWD hiedhe
+adj adv WDPREVTAG pron alth
+vb præp LBIGRAM STAART wed
+art konj NEXTTAG prop
+adj adv NEXT1OR2WD til
+vb præp WDPREVTAG vb wedh
+præp vb LBIGRAM jech aa
+art konj SURROUNDTAG STAART art
+sb num NEXTWD ørtigh
+lat sb NEXT1OR2TAG adj
+sb vb NEXTBIGRAM adj sb
+vb lat PREVBIGRAM lat lat
+vb sb NEXT1OR2WD ændæ
+præp sb NEXTBIGRAM adv sb
+adv adj RBIGRAM alt thet
+adv præp NEXTWD .
+adj lat NEXT1OR2TAG lat
+adv præp WDPREVTAG sb vden
+sb konj WDPREVTAG sb mæn
+lat adj PREV1OR2TAG præp
+konj adj WDPREVTAG art fyrste
+sb art WDNEXTTAG den sb
+pron lat PREVTAG lat
+konj sb PREVTAG adv
+prop adj CURWD galen
+sb vb SURROUNDTAG prop STAART
+lat num WDNEXTTAG ni sb
+sb vb NEXTWD theræ
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+sb lat NEXT1OR2TAG lat
+art konj SURROUNDTAG STAART pron
+konj præp NEXTTAG vb
+adv pron PREV1OR2TAG art
+sb lat PREV2TAG lat
+pron lat NEXT1OR2TAG lat
+vb lat NEXTTAG lat
+pron sb WDPREVTAG pron man
+adv pron WDNEXTTAG som vb
+præp pron NEXTTAG adv
+adv pron WDNEXTTAG ther pron
+pron adv PREVTAG vb
+adv konj PREV1OR2WD .
+adj adv WDNEXTTAG alt præp
+sb konj WDAND2TAGAFT men vb
+lat vb PREV1OR2TAG pron
+adj lat PREVTAG lat
+sb vb NEXTTAG art
+vb sb PREVWD til
+adv sb NEXTTAG prop
+præp konj LBIGRAM STAART af
+præp konj WDNEXTTAG at pron
+pron sb WDPREVTAG adj man
+præp lat NEXTTAG lat
+præp vb WDAND2BFR STAART wedh
+adj prop PREVTAG prop
+pron adv RBIGRAM ther han
+adv konj WDAND2TAGBFR prop oc
+adv pron WDNEXTTAG som adv
+prop lat PREVTAG lat
+adv lat PREVBIGRAM lat lat
+sb vb WDAND2BFR STAART æræ
+pron præp WDAND2AFT i STAART
+præp pron NEXTBIGRAM pron vb
+adv pron SURROUNDTAG STAART adj
+præp pron PREVWD skullæ
+vb sb PREVWD sin
+sb adj SURROUNDTAG art sb
+lat sb NEXT1OR2TAG præp
+pron præp NEXT1OR2WD oc
+lat sb PREV1OR2TAG præp
+vb lat PREVBIGRAM lat lat
+sb vb PREV1OR2WD jech
+sb vb PREVBIGRAM sb vb
+adv pron NEXTWD hanum
+vb adj PREV1OR2WD ær
+præp pron PREVWD ath
+præp pron PREVBIGRAM STAART vb
+lat adv NEXT1OR2TAG præp
+sb vb SURROUNDTAG sb pron
+vb sb PREVWD aff
+vb adj WDNEXTTAG stoor sb
+adj vb PREVWD at
+adj vb PREVWD ath
+pron art NEXT1OR2WD breff
+sb vb PREV2WD ath
+vb sb PREVWD then
+sb adj SURROUNDTAG vb sb
+sb vb LBIGRAM then ær
+sb adj SURROUNDTAG art sb
+adv konj WDNEXTTAG oc prop
+pron adv WDPREVTAG adv sum
+præp pron WDAND2BFR tha j
+adv vb PREV2WD ther
+præp konj PREVWD .
+adj adv CURWD lengher
+præp konj RBIGRAM at the
+adj adv WDAND2TAGBFR art alt
+pron sb WDAND2TAGBFR vb man
+adv art WDNEXTTAG thy sb
+adv pron SURROUNDTAG STAART adv
+sb præp CURWD vnder
+sb vb PREV1OR2WD man
+sb vb PREVBIGRAM art sb
+sb vb NEXTBIGRAM pron præp
+vb sb PREVWD hans
+vb sb PREVWD jen
+vb sb WDNEXTTAG talæ vb
+adv konj NEXT1OR2WD fornefnde
+adv konj PREV1OR2WD /
+art konj SURROUNDTAG STAART art
+præp vb NEXTWD thet
+vb præp WDAND2TAGBFR vb wed
+pron art WDAND2TAGAFT thette adj
+prop vb PREVTAG pron
+sb prop PREVBIGRAM prop sb
+sb vb PREVWD nw
+sb vb PREVWD at
+sb vb PREVWD thik
+vb sb PREVWD for
+vb sb PREV1OR2WD gør
+vb sb NEXTBIGRAM vb sb
+vb sb NEXTBIGRAM vb vb
+adv pron PREVBIGRAM adj sb
+vb adj PREV2WD worte
+adv konj NEXTWD giuer
+adj vb CURWD bære
+adj vb CURWD redhe
+vb sb PREVWD til
+præp pron NEXTWD æræ
+præp pron NEXT1OR2WD ere
+præp pron PREV1OR2WD hwadh
+adj adv WDAND2TAGBFR pron alt
+konj præp WDPREVTAG adj at
+art num WDPREVTAG sb ien
+lat prop PREV1OR2OR3TAG prop
+prop lat NEXT1OR2TAG lat
+vb prop PREVWD jnnen
+lat adv NEXTTAG vb
+sb vb NEXTWD alle
+sb vb RBIGRAM radæ STAART
+sb vb RBIGRAM sagh ær
+sb vb PREVBIGRAM pron sb
+vb sb PREV1OR2WD sijn
+sb vb NEXTBIGRAM pron adj
+sb vb WDAND2TAGBFR vb tro
+vb sb PREV1OR2WD roser
+sb adj CURWD wat
+adv pron NEXTWD for
+adv pron PREVWD gudh
+vb adj PREVWD sa
+adj vb SURROUNDTAG adv pron
+vb adj PREV1OR2WD wortæ
+adv konj WDAND2AFT oc j
+adv konj WDAND2BFR j oc
+pron adv LBIGRAM STAART thy
+pron adv WDPREVTAG vb som
+sb prop PREVWD sancte
+adv vb RBIGRAM saa han
+adv vb LBIGRAM ther saa
+adv vb NEXT1OR2WD ther
+præp pron PREVWD mowe
+præp pron PREVWD maa
+præp pron NEXT1OR2WD mægh
+art konj SURROUNDTAG STAART pron
+præp konj WDNEXTTAG at adj
+pron præp WDAND2TAGBFR prop i
+konj præp NEXT1OR2WD sinnæ
+prop sb CURWD axel
+præp sb WDNEXTTAG widh adv
+adv sb WDPREVTAG adj her
+pron num WDNEXTTAG tw sb
+lat adv SURROUNDTAG adv STAART
+præp adj RBIGRAM før ath
+lat vb PREVTAG adv
+adv adj CURWD endelig
+sb lat PREVBIGRAM lat lat
+præp adj RBIGRAM modh STAART
+konj adj NEXT1OR2TAG STAART
+lat vb PREV1OR2TAG art
+adv lat PREVBIGRAM STAART lat
+præp num NEXTWD gord
+sb vb NEXTWD thik
+sb vb NEXTWD jek
+sb vb PREVWD war
+sb vb PREVWD thu
+sb vb PREVWD them
+sb vb PREVWD kan
+sb vb PREV1OR2WD hawdhæ
+sb vb PREV1OR2WD sculle
+sb vb PREV2WD wordher
+vb sb PREVTAG rom
+sb vb CURWD haff
+vb sb NEXTWD gør
+vb sb PREVWD thieræ
+vb sb PREVWD haffwer
+vb sb PREVWD manz
+vb sb RBIGRAM ære oc
+vb sb WDPREVTAG art bad
+vb sb WDPREVTAG adv lowæ
+vb sb PREVBIGRAM præp adj
+sb vb WDPREVTAG adj ær
+vb sb CURWD diskæ
+vb sb CURWD skathæ
+pron vb WDPREVTAG sb wor
+vb sb WDAND2TAGBFR vb bøør
+sb adj NEXTWD mandz
+sb adj PREVWD saa
+sb adj PREVWD alth
+adj adv SURROUNDTAG pron adj
+sb adj RBIGRAM hiel och
+sb adj LBIGRAM aff fremede
+sb adj LBIGRAM meth fager
+sb adj NEXT2WD gør
+sb adj CURWD samel
+sb adj CURWD glath
+adv pron PREVWD hwad
+adv pron PREVWD hwem
+adv pron PREVWD hoo
+adv pron NEXT1OR2WD tre
+adv pron NEXT1OR2WD haffdhe
+adv pron PREVBIGRAM præp adj
+vb adj PREVWD hin
+adv pron WDAND2AFT som aff
+vb adj WDNEXTTAG wessæ adv
+adv pron WDAND2AFT ther hawer
+vb adj WDPREVTAG adv beradh
+vb adj PREV1OR2WD er
+vb adj NEXT2WD .
+vb adj CURWD ligh
+adj sb NEXTWD faa
+adj sb NEXTWD eldær
+vb adj CURWD timelekhæ
+vb adj CURWD hallæ
+adj sb NEXTWD .
+adj sb PREVWD mark
+adj sb PREVWD lidhen
+adj sb WDNEXTTAG ræt adv
+adj sb PREVBIGRAM art pron
+adv konj NEXTWD beradh
+adj sb CURWD snillæ
+adv konj PREVWD giwet
+adj sb CURWD røn
+adv konj PREVWD wnt
+adv konj PREVWD frij
+adv konj RBIGRAM oc met
+adv konj NEXT1OR2WD .
+adv konj PREV1OR2WD fornefnde
+adj vb NEXTWD thet
+adj vb RBIGRAM lange STAART
+adj vb RBIGRAM føræ STAART
+adj vb LBIGRAM och føræ
+adj vb WDPREVTAG adj kieræ
+pron adv NEXTWD then
+adj vb CURWD varæ
+pron adv NEXTWD som
+pron adv NEXT1OR2WD kam
+konj adj NEXT1OR2OR3TAG adv
+sb prop PREVWD biscop
+sb prop PREV1OR2WD ,
+sb prop PREVBIGRAM prop præp
+sb prop SURROUNDTAG prop sb
+sb prop SURROUNDTAG prop prop
+adv vb NEXTWD tha
+adv vb PREVWD thette
+adv vb RBIGRAM sa thet
+adv vb NEXTBIGRAM pron præp
+præp pron NEXTWD herræ
+sb pron CURWD iek
+adv vb NEXT2WD mange
+præp pron NEXTBIGRAM præp pron
+pron sb LBIGRAM then man
+vb adv CURWD sielffwer
+pron sb WDNEXTTAG how vb
+pron sb CURWD sinne
+prop sb PREVBIGRAM adv adj
+pron præp NEXTWD thy
+art num NEXTWD aar
+adv art WDPREVTAG præp theræ
+adv præp WDPREVTAG sb vppa
+adj adv CURWD fuldwæl
+adv art WDAND2TAGAFT thy adv
+pron vb WDNEXTTAG wort vb
+vb præp LBIGRAM STAART wedh
+art konj NEXTWD konningen
+vb præp WDPREVTAG sb wed
+pron vb CURWD vor
+præp vb PREVWD jech
+præp vb WDPREVTAG pron fraa
+adv sb WDPREVTAG art her
+adj prop NEXT2TAG prop
+præp sb NEXT1OR2WD ther
+vb pron PREV1OR2WD met
+lat prop NEXT1OR2WD oc
+præp vb NEXTBIGRAM adv adv
+præp sb PREV1OR2WD medh
+lat sb SURROUNDTAG sb adv
+lat prop PREVBIGRAM sb vb
+præp vb WDAND2TAGBFR pron før
+vb adj WDPREVTAG vb før
+sb konj RBIGRAM men jech
+vb lat NEXTTAG lat
+prop vb NEXTBIGRAM pron prop
+lat adv NEXTTAG art
+adv sb PREV1OR2TAG lat
+pron adj NEXT1OR2WD oc
+adv num NEXTBIGRAM pron sb
+konj adv WDAND2AFT eller STAART
+num sb PREV2TAG præp
+lat rom WDNEXTTAG ix sb
+vb konj CURWD førstæ
+sb vb NEXTWD hilser
+prop vb PREV1OR2OR3TAG STAART
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+prop vb NEXT1OR2OR3TAG STAART
+sb lat NEXT1OR2TAG lat
+art konj SURROUNDTAG STAART pron
+adv pron WDNEXTTAG ther pron
+vb lat NEXTTAG lat
+konj præp NEXTTAG vb
+prop vb PREV1OR2OR3TAG vb
+pron lat NEXT1OR2TAG lat
+præp pron NEXTTAG adv
+vb sb PREVWD til
+adv pron WDNEXTTAG som vb
+pron sb WDPREVTAG pron man
+præp konj WDNEXTTAG at pron
+adv konj WDAND2TAGBFR prop oc
+adv pron PREVTAG art
+prop sb PREV1OR2OR3TAG pron
+pron sb WDPREVTAG adj man
+adv pron WDNEXTTAG som adv
+præp konj LBIGRAM STAART af
+sb lat PREVBIGRAM lat lat
+adj lat PREVTAG lat
+vb sb PREVWD hans
+pron adv SURROUNDTAG vb pron
+vb sb PREVWD then
+sb konj WDAND2TAGAFT men vb
+vb prop PREVWD aff
+adv sb NEXT1OR2TAG prop
+præp lat NEXTTAG lat
+konj sb CURWD mæn
+adj adv WDAND2TAGBFR art alt
+lat vb PREV1OR2TAG pron
+sb vb PREVBIGRAM STAART adv
+adv pron SURROUNDTAG STAART adj
+sb adj SURROUNDTAG art sb
+adv konj WDAND2TAGAFT oc prop
+vb sb SURROUNDTAG STAART vb
+sb vb WDAND2BFR STAART æræ
+adv pron SURROUNDTAG sb vb
+vb prop PREVWD j
+vb præp WDAND2TAGBFR vb wedh
+lat sb PREV1OR2TAG præp
+adv lat PREVTAG lat
+vb sb NEXT1OR2OR3TAG lat
+sb vb PREVBIGRAM art sb
+adv konj PREV1OR2WD breff
+pron adv RBIGRAM ther han
+præp pron PREVWD skullæ
+præp pron NEXTBIGRAM pron vb
+lat vb PREVTAG adv
+pron art NEXT1OR2WD breff
+vb sb NEXTWD oc
+vb sb PREVWD for
+vb sb PREVWD jen
+vb adj PREV1OR2WD ær
+sb adj PREVWD war
+adv konj NEXT1OR2WD .
+adv vb PREVBIGRAM STAART pron
+prop sb PREVTAG adv
+præp konj NEXTWD the
+sb pron LBIGRAM ther man
+vb sb NEXT1OR2WD war
+adv pron SURROUNDTAG sb adj
+præp pron PREVTAG konj
+prop sb PREV1OR2TAG adj
+adj lat SURROUNDTAG STAART lat
+adj vb RBIGRAM føræ STAART
+vb præp WDPREVTAG vb wed
+adj adv WDNEXTTAG alt præp
+lat sb NEXT1OR2TAG vb
+sb lat PREVBIGRAM lat lat
+konj adj CURWD førsthe
+prop lat PREVTAG lat
+vb sb NEXTWD eldær
+sb vb PREV1OR2WD haffde
+vb adj SURROUNDTAG præp sb
+vb sb NEXTWD ær
+sb vb PREVBIGRAM pron adv
+sb vb SURROUNDTAG adv art
+adv pron NEXT2WD hawer
+adv konj WDAND2AFT oc som
+adj vb PREVWD at
+sb prop PREVTAG prop
+pron sb PREV1OR2WD af
+lat adv PREV1OR2TAG pron
+num lat NEXTTAG lat
+vb sb PREVWD sin
+vb sb PREVWD myn
+vb sb SURROUNDTAG adj vb
+sb vb LBIGRAM i æræ
+sb vb CURWD hawer
+vb adj LBIGRAM STAART Allæ
+vb adj PREV2WD worte
+adv pron NEXTWD hanum
+adv pron PREVBIGRAM adj sb
+adv konj NEXTWD giuer
+sb prop PREVWD sancte
+sb prop PREV1OR2WD søster
+præp pron PREVWD skulle
+præp pron PREVBIGRAM STAART vb
+pron præp NEXTTAG prop
+pron præp CURWD meth
+præp konj PREVWD .
+prop sb PREV1OR2TAG art
+præp konj NEXT1OR2WD ær
+adv art WDNEXTTAG theræ sb
+art konj SURROUNDTAG STAART art
+adv præp NEXTBIGRAM sb sb
+pron art SURROUNDTAG præp pron
+vb lat PREV2TAG lat
+vb sb PREVTAG num
+sb vb PREVWD hanum
+vb sb PREVWD thieræ
+vb sb PREVWD myne
+sb vb SURROUNDTAG sb præp
+sb vb SURROUNDTAG sb STAART
+vb præp WDAND2AFT wedh STAART
+vb sb PREV1OR2WD gusz
+vb sb PREV1OR2OR3TAG rom
+vb adj CURWD soræ
+vb adj CURWD froo
+sb adj NEXTWD ose
+sb adj PREV1OR2WD wære
+sb adj SURROUNDTAG art sb
+sb adj CURWD saaræ
+adv pron PREVBIGRAM konj sb
+adv konj PREV1OR2WD .
+adv konj PREV1OR2WD /
+adv konj PREV1OR2WD fry
+adj vb PREVWD ath
+adj sb PREVWD vdhen
+adj vb PREV2WD for
+pron adv WDPREVTAG adv sum
+sb prop NEXTWD lille
+præp pron NEXT1OR2WD ere
+præp pron NEXTBIGRAM pron adv
+pron præp PREVTAG prop
+pron sb WDAND2TAGBFR vb man
+vb præp WDAND2TAGBFR vb wed
+adv art WDNEXTTAG thy sb
+art konj SURROUNDTAG STAART pron
+sb præp CURWD tyl
+sb konj LBIGRAM STAART men
+num art CURWD eet
+vb sb PREVWD ære
+vb sb PREVWD meth
+vb sb PREVWD thenne
+vb sb NEXT1OR2WD thær
+vb sb PREV1OR2WD paa
+sb vb PREVWD thaa
+sb vb PREVWD man
+sb vb LBIGRAM the redhæ
+sb vb WDPREVTAG vb æræ
+sb vb NEXT1OR2WD medh
+sb vb NEXT1OR2WD swo
+sb vb NEXTBIGRAM konj vb
+sb vb SURROUNDTAG vb pron
+vb adj SURROUNDTAG vb sb
+vb adj PREVWD ose
+vb adj PREVWD sa
+adj vb NEXTBIGRAM pron præp
+vb adj WDPREVTAG art rigestæ
+vb adj CURWD ærligh
+adv pron NEXTWD sa
+adv pron WDNEXTTAG som vb
+adv pron NEXT1OR2WD for
+adv pron NEXT1OR2WD ower
+adv konj NEXT1OR2WD arwinghe
+adv konj WDAND2AFT oc met
+adj sb NEXTBIGRAM adj STAART
+sb vb PREVWD jech
+adj vb RBIGRAM stoor STAART
+sb prop RBIGRAM skottelandh STAART
+vb prop PREVWD herre
+vb prop PREVWD her
+adv sb NEXTTAG prop
+vb prop PREVBIGRAM vb prop
+adv vb RBIGRAM sa thet
+adv vb LBIGRAM ther saa
+præp pron NEXTWD æræ
+præp pron PREVBIGRAM STAART adv
+adv pron WDNEXTTAG som præp
+præp konj NEXTWD han
+vb præp RBIGRAM wedh then
+adj adv WDNEXTTAG alt adv
+art num PREVWD .
+konj præp SURROUNDTAG adj pron
+vb pron LBIGRAM STAART hwilked
+art konj NEXTBIGRAM sb prop
+lat vb NEXTTAG pron
+lat vb PREVBIGRAM sb vb
+lat adv NEXT1OR2TAG art
+pron adj CURWD endelig
+præp adj RBIGRAM modh STAART
+pron prop CURWD engeland
+vb sb NEXTWD hawer
+vb sb NEXTWD scal
+vb sb NEXTWD haffwer
+vb sb NEXTWD frederik
+vb sb PREVWD medh
+vb sb PREVWD hans
+vb sb PREVWD then
+vb sb PREVWD sith
+vb sb PREVWD gode
+vb sb PREVWD jet
+vb sb RBIGRAM qwidhe STAART
+vb sb WDPREVTAG adj væræ
+vb sb NEXT1OR2WD haffdæ
+vb sb PREV1OR2WD dryk
+vb sb PREV1OR2WD sijn
+vb sb PREV1OR2WD met
+vb sb NEXT2WD eij
+vb sb NEXT2WD hwn
+vb sb CURWD døræn
+vb sb CURWD køb
+vb sb CURWD armen
+vb sb WDAND2TAGAFT bwndhen sb
+vb sb WDAND2TAGAFT bøør sb
+sb vb NEXTWD hinnæ
+sb vb WDNEXTTAG ære sb
+sb vb WDNEXTTAG gawe art
+sb vb PREV1OR2WD kwnde
+sb vb NEXTBIGRAM pron præp
+sb vb NEXTBIGRAM adj art
+sb vb SURROUNDTAG konj præp
+sb vb PREV2WD wordher
+sb vb CURWD baaren
+sb vb CURWD war
+sb vb WDAND2TAGBFR pron radhæ
+vb adj WDPREVTAG adv føræ
+vb adj PREV1OR2WD worder
+sb adj NEXTWD waræ
+vb adj PREV1OR2WD wort
+sb adj NEXTWD breff
+vb adj CURWD mørken
+sb adj NEXTWD man
+vb adj CURWD ollæ
+sb adj PREVWD scal
+vb adj WDAND2TAGBFR vb redh
+sb adj RBIGRAM warm STAART
+sb adj LBIGRAM meth fager
+sb adj PREV1OR2WD mæn
+sb adj PREV1OR2WD wæræ
+sb adj CURWD myest
+sb adj CURWD kere
+adv pron NEXTWD them
+adv pron PREVWD hwem
+adv pron NEXT1OR2WD haffdhe
+adv pron WDAND2AFT ther ridder
+adv konj RBIGRAM oc alt
+adv konj WDPREVTAG lat oc
+adv konj NEXT1OR2WD jnnen
+adv konj NEXT1OR2WD fornefnde
+adj sb NEXTWD faa
+adv konj NEXT1OR2WD arwinge
+adj sb NEXTWD agher
+adv konj PREV1OR2WD bothe
+adj vb NEXTWD paa
+adj sb WDPREVTAG sb døth
+adv konj PREVBIGRAM prop prop
+adj vb RBIGRAM lange STAART
+adj sb PREV2WD medh
+pron adv LBIGRAM STAART thy
+adv konj WDAND2AFT oc j
+adj vb LBIGRAM ther stoor
+adj sb CURWD fowel
+pron adv LBIGRAM them ther
+adv konj WDAND2BFR met oc
+adj vb PREV1OR2WD foræ
+adj sb CURWD bwsk
+adj vb NEXTBIGRAM pron adv
+pron adv WDPREVTAG adv ther
+adv konj WDAND2TAGBFR konj oc
+pron adv WDPREVTAG vb ther
+adj vb CURWD wndfongen
+adj vb CURWD brænd
+pron adv PREVBIGRAM præp vb
+adj vb CURWD fallæn
+sb prop LBIGRAM aff babilon
+sb prop PREV1OR2WD herræ
+sb prop PREV1OR2WD Her
+vb sb NEXTBIGRAM prop prop
+sb prop PREV1OR2WD Jegh
+sb prop CURWD rud
+vb prop PREVWD biscop
+vb prop NEXTBIGRAM sb adj
+adv vb NEXTWD tha
+adv vb RBIGRAM sa ther
+adv vb WDAND2BFR for saa
+sb adv LBIGRAM STAART tidh
+sb adv CURWD poo
+adv præp PREV1OR2TAG konj
+pron præp NEXTWD hendhe
+pron præp NEXTWD løben
+prop sb PREV1OR2WD Roskilde
+pron præp PREVBIGRAM vb sb
+sb pron NEXTWD kere
+prop sb NEXTBIGRAM konj adj
+lat sb NEXTBIGRAM sb sb
+pron præp CURWD tijl
+præp pron PREVWD om
+præp pron PREV1OR2WD hwi
+præp konj WDNEXTTAG at adj
+adv art WDNEXTTAG theræ vb
+konj præp WDPREVTAG art ath
+adv art WDAND2AFT thy tha
+konj præp NEXTBIGRAM vb præp
+konj præp WDAND2BFR saa at
+art konj SURROUNDTAG STAART prop
+pron vb WDNEXTTAG wor adv
+adv præp PREV1OR2WD .
+pron vb WDPREVTAG sb wort
+prop vb PREVTAG konj
+lat prop WDNEXTTAG per prop
+pron vb CURWD vor
+præp sb WDPREVTAG art vnder
+lat prop NEXT1OR2WD oc
+prop vb PREVWD at
+præp sb PREV1OR2WD medh
+prop vb PREV2WD herræ
+pron num NEXTWD morigen
+adv adj PREV1OR2WD ær
+pron num WDNEXTTAG tw sb
+lat adv PREVTAG adv
+vb sb NEXT2TAG lat
+lat adj NEXTWD och
+sb art WDNEXTTAG den sb
+konj adj WDAND2TAGAFT fyrste pron
+præp lat WDPREVTAG lat fore
+lat sb NEXT1OR2TAG præp
+sb lat PREVBIGRAM lat lat
+sb vb PREVWD them
+sb prop PREV1OR2WD Jech
+adj konj LBIGRAM thet første
+lat konj CURWD num
+præp num NEXTWD gord
+art vb PREV1OR2WD haffde
+vb sb NEXTWD worte
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+sb lat NEXT1OR2TAG lat
+art konj SURROUNDTAG STAART pron
+adv pron PREVTAG sb
+konj præp NEXTTAG vb
+præp pron NEXTTAG adv
+pron sb WDPREVTAG pron man
+adv adj RBIGRAM alt thet
+adv sb NEXTTAG prop
+sb lat PREVBIGRAM lat lat
+adj vb PREVWD at
+pron lat NEXT1OR2TAG lat
+lat vb PREV1OR2TAG pron
+adj vb SURROUNDTAG adv pron
+vb sb PREVWD til
+pron sb WDPREVTAG adj man
+sb vb SURROUNDTAG adv pron
+vb lat PREVTAG lat
+præp lat NEXTTAG lat
+adj sb SURROUNDTAG præp STAART
+adv pron PREVTAG art
+adj prop PREVTAG prop
+sb konj WDAND2TAGAFT men vb
+adv pron PREVBIGRAM STAART pron
+præp konj LBIGRAM STAART af
+adv konj PREV1OR2WD .
+adv konj WDAND2TAGBFR prop oc
+adj lat PREVBIGRAM lat lat
+adv lat PREVTAG lat
+adj vb PREVWD the
+præp vb WDAND2BFR STAART wedh
+lat vb PREVTAG adv
+adv pron SURROUNDTAG STAART adj
+pron præp CURWD met
+adv adj WDPREVTAG adv alt
+adv pron WDNEXTTAG som vb
+adv pron WDAND2AFT ther hawer
+sb vb NEXTBIGRAM art sb
+adj sb SURROUNDTAG adj STAART
+lat sb PREV1OR2OR3TAG art
+præp konj WDNEXTTAG at art
+vb adj WDAND2TAGBFR vb war
+pron adv NEXTTAG STAART
+adv vb SURROUNDTAG pron STAART
+vb adv RBIGRAM thæræ STAART
+præp pron PREVWD ath
+præp konj WDNEXTTAG at pron
+adj vb NEXTBIGRAM præp pron
+pron art NEXT1OR2WD breff
+prop lat PREVTAG lat
+adj vb RBIGRAM føræ STAART
+adj vb SURROUNDTAG pron pron
+adj sb NEXTWD .
+adv pron WDNEXTTAG som adv
+adj vb SURROUNDTAG sb adv
+lat adv PREV1OR2TAG pron
+sb vb RBIGRAM kieræ STAART
+præp pron PREVWD skullæ
+sb vb CURWD skien
+vb sb PREVWD then
+vb sb CURWD legaten
+adj vb RBIGRAM føre STAART
+adj sb SURROUNDTAG præp vb
+adv konj NEXT1OR2WD met
+pron adv RBIGRAM som han
+adv vb PREVBIGRAM STAART pron
+vb præp WDAND2TAGAFT wed sb
+adv art WDNEXTTAG thy sb
+lat sb WDNEXTTAG . lat
+art konj SURROUNDTAG STAART art
+sb præp CURWD wid
+pron art PREV1OR2WD met
+lat vb NEXT1OR2TAG adv
+num adj NEXT1OR2TAG STAART
+sb vb PREVWD war
+vb sb WDPREVTAG pron talæ
+adv konj NEXTWD giuer
+adv konj WDNEXTTAG oc prop
+adv konj NEXT1OR2WD fornefnde
+adj vb PREV1OR2TAG konj
+adv konj NEXT1OR2WD .
+præp pron NEXTWD mægh
+præp pron NEXT1OR2WD mæg
+sb pron CURWD jcki
+konj præp WDPREVTAG adj at
+vb adv WDAND2TAGBFR vb saa
+adv art WDNEXTTAG theræ sb
+adv adj WDNEXTTAG alt pron
+sb vb WDPREVTAG vb æræ
+sb vb PREV1OR2WD nw
+adj vb NEXTWD thet
+adj vb RBIGRAM ledhæ STAART
+adj vb NEXT1OR2WD allæ
+adj sb PREVWD hans
+vb adj CURWD forscrefne
+adv konj PREV1OR2WD /
+præp pron NEXTWD herræ
+pron præp NEXTWD bor
+adj prop CURWD klare
+pron præp WDAND2AFT i STAART
+præp sb CURWD wnder
+prop pron LBIGRAM STAART Wy
+art vb NEXTTAG STAART
+num rom CURWD c
+sb vb NEXTWD jech
+sb vb PREVWD man
+sb vb LBIGRAM i æræ
+sb vb WDPREVTAG sb æræ
+sb vb NEXTBIGRAM art adv
+sb vb WDAND2BFR STAART æræ
+sb adj RBIGRAM saræ STAART
+sb adj CURWD ræt
+adj vb RBIGRAM stor STAART
+adj vb PREV1OR2WD maa
+adj vb SURROUNDTAG sb pron
+adj sb NEXTBIGRAM adv sb
+vb adj PREVWD then
+adv pron NEXTWD hanum
+adv pron WDPREVTAG sb thær
+adv pron NEXT2WD kan
+adv konj PREV1OR2WD fry
+adv konj WDAND2AFT oc som
+sb prop PREV1OR2WD farnefnde
+pron adv WDPREVTAG vb som
+pron adv PREVBIGRAM vb sb
+præp pron PREVWD skulle
+adv præp CURWD vdi
+vb præp CURWD yuær
+konj præp NEXT1OR2WD thette
+præp konj PREVWD .
+adj adv WDAND2TAGBFR vb alth
+vb adv CURWD soo
+adj prop PREV2WD ,
+lat sb PREV1OR2TAG præp
+sb prop PREVBIGRAM prop præp
+lat prop NEXT1OR2TAG pron
+vb pron WDNEXTTAG wore sb
+lat adv NEXT1OR2TAG pron
+konj adv WDPREVTAG sb eller
+adv num PREV1OR2TAG konj
+adj præp CURWD gien
+sb rom CURWD iiii
+sb vb PREVWD hanum
+sb vb PREV1OR2WD hwo
+sb vb PREVBIGRAM pron adv
+vb sb NEXTWD thær
+vb sb PREVWD hans
+vb sb PREVWD til
+vb sb RBIGRAM qwidhe STAART
+vb sb PREV1OR2WD paa
+vb sb PREV1OR2WD gør
+sb adj WDNEXTTAG rættæ sb
+sb adj NEXT1OR2WD mandz
+sb adj CURWD mijnne
+sb adj CURWD redæ
+sb adj CURWD kristen
+adj vb NEXTWD meth
+adj vb NEXTWD maa
+adj vb PREVWD thu
+adj vb NEXTBIGRAM pron adv
+adj vb SURROUNDTAG adv adj
+adj vb CURWD tenkt
+adj vb CURWD rændhæ
+adj sb PREVWD vdhen
+adj sb PREV1OR2WD sijn
+adj sb PREV1OR2WD theris
+adj sb PREV1OR2WD jen
+sb adj SURROUNDTAG art sb
+sb vb PREVBIGRAM art sb
+adj sb PREV2WD saa
+adj sb CURWD howmodh
+vb adj WDNEXTTAG stoor sb
+adv pron NEXTWD sægh
+vb adj NEXT2WD .
+adv pron NEXTWD vndher
+adv pron NEXTWD mægh
+adv pron RBIGRAM som for
+adv pron NEXT1OR2WD haffdhe
+adv konj PREVWD breff
+adv konj NEXT1OR2WD till
+sb prop PREV1OR2WD søster
+pron adv NEXT1OR2WD jen
+pron adv NEXT1OR2WD laa
+pron adv WDAND2BFR i som
+præp pron RBIGRAM i edher
+adv vb RBIGRAM saa the
+præp pron PREVBIGRAM STAART præp
+adv vb PREVBIGRAM STAART art
+adv vb PREV2WD man
+sb pron CURWD somt
+pron sb WDAND2TAGAFT man prop
+præp vb PREVWD iorth
+vb præp LBIGRAM STAART wedh
+vb præp WDPREVTAG vb wed
+adj prop NEXTWD ,
+præp adj NEXTWD ath
+pron num NEXTBIGRAM sb sb
+prop adj PREVBIGRAM præp prop
+konj adj NEXT1OR2TAG præp
+præp adj RBIGRAM modh STAART
+adj lat NEXTBIGRAM lat lat
+præp num NEXTWD gord
+sb vb NEXTWD ey
+vb sb PREVWD sin
+sb vb NEXTWD tegh
+sb vb PREVWD jckj
+sb vb PREVWD jnthet
+vb adj PREV2WD war
+sb vb PREVWD ower
+sb vb PREVWD gud
+sb vb NEXT1OR2WD andhen
+sb vb PREVBIGRAM prop adv
+sb vb PREVBIGRAM konj vb
+sb vb NEXT2WD æræ
+sb vb CURWD baaren
+sb vb CURWD begynte
+sb vb WDAND2BFR j ere
+vb sb PREVWD all
+vb sb PREVWD jeth
+vb sb PREVWD myn
+sb vb PREVBIGRAM pron sb
+vb sb RBIGRAM kærne STAART
+sb adj NEXTBIGRAM sb STAART
+sb vb SURROUNDTAG sb STAART
+adj sb WDNEXTTAG dieffwelsens sb
+sb prop PREVWD .
+sb vb PREVWD ath
+sb vb PREVBIGRAM adv sb
+vb sb PREVWD manz
+vb sb PREV1OR2WD meth
+vb sb PREV1OR2WD sijn
+vb sb PREV2WD war
+vb sb CURWD forman
+adj sb PREV1OR2TAG rom
+sb adj PREVWD alt
+adj vb NEXTWD them
+sb adj RBIGRAM hiel och
+adj vb NEXTWD thæræ
+adj sb NEXTWD agher
+sb adj LBIGRAM war lyws
+adj vb RBIGRAM swigæ STAART
+adj sb NEXTWD bær
+sb adj LBIGRAM meth fager
+adj vb NEXT1OR2WD fornefnde
+adj sb WDNEXTTAG hwndredæ sb
+sb adj WDNEXTTAG gode sb
+adj vb CURWD wndfongen
+adj sb NEXT1OR2WD eij
+sb adj NEXT1OR2WD illæ
+adj vb CURWD neffnæ
+sb adj PREV1OR2WD hiel
+adj sb PREV1OR2WD ære
+sb adj NEXT2WD gør
+adj sb PREV1OR2WD haffwe
+sb adj CURWD sist
+adj sb PREV1OR2WD syer
+adj sb NEXTBIGRAM adj adv
+adj sb PREV2WD fast
+adj sb CURWD halft
+vb adj WDNEXTTAG rætæ sb
+vb adj WDNEXTTAG wisæ sb
+vb adj PREV1OR2WD giorde
+vb adj CURWD sma
+vb adj WDAND2TAGAFT føræ vb
+adv pron NEXTWD eij
+adv pron NEXTWD hinnæ
+adv pron NEXTWD thw
+adv pron NEXTWD myn
+adv pron RBIGRAM som STAART
+adv pron RBIGRAM ther wi
+adv pron RBIGRAM ther man
+adv pron LBIGRAM allæ ther
+adv pron NEXT1OR2WD haude
+adv konj NEXTWD mine
+adv konj PREVWD abbatissa
+adv konj PREVWD gard
+adv konj NEXT1OR2WD theris
+adv konj NEXT1OR2WD jek
+adv konj PREV1OR2WD ,
+adv konj PREV1OR2WD vden
+adv konj WDAND2AFT oc j
+sb prop NEXTWD swenssøn
+sb prop PREVWD ,
+sb prop PREVWD Wy
+sb prop PREV1OR2WD Doctor
+sb prop SURROUNDTAG prop pron
+sb prop CURWD hellebrand
+sb prop CURWD fieldskrepper
+pron adv PREV1OR2WD a
+pron adv WDAND2TAGAFT som adj
+pron adv WDAND2TAGBFR pron ther
+adv pron NEXT1OR2WD taler
+præp pron NEXTWD megh
+præp pron NEXTWD bode
+præp pron NEXTWD æræ
+adv vb NEXTWD appa
+præp pron NEXTWD herrær
+adv vb PREVWD dog
+præp pron PREVWD lader
+adv vb PREVBIGRAM prop sb
+præp pron PREVWD mowæ
+adv vb SURROUNDTAG sb pron
+præp pron RBIGRAM j ere
+sb pron NEXTWD mans
+præp pron NEXT1OR2WD aff
+sb adv RBIGRAM nedh STAART
+sb pron CURWD myk
+præp pron NEXT1OR2WD jech
+sb pron CURWD swm
+præp pron NEXTBIGRAM pron adv
+sb pron CURWD sijt
+præp pron WDAND2AFT j i
+pron sb RBIGRAM man STAART
+pron sb LBIGRAM af man
+prop sb PREVTAG art
+pron sb WDPREVTAG pron how
+adv præp WDNEXTTAG vden sb
+prop sb CURWD klenodia
+præp vb PREVWD hws
+art num WDPREVTAG prop een
+adv præp PREVBIGRAM konj sb
+adj adv NEXTBIGRAM pron præp
+præp vb RBIGRAM wedh thet
+konj præp WDAND2TAGBFR vb at
+præp konj PREVWD thy
+art num SURROUNDTAG adv STAART
+vb prop PREVWD pa
+vb præp WDPREVTAG sb wed
+præp vb WDNEXTTAG wedh pron
+adv præp CURWD æfter
+præp konj RBIGRAM af han
+vb prop CURWD nis
+vb præp CURWD mett
+adj prop PREVBIGRAM adj prop
+pron præp NEXTWD theræ
+præp konj WDAND2TAGBFR prop at
+adv art WDAND2TAGAFT thy præp
+art konj NEXTTAG prop
+vb præp CURWD vndær
+art konj NEXTBIGRAM sb prop
+pron præp PREVBIGRAM vb sb
+adv adj CURWD langhe
+vb præp CURWD mellem
+pron vb WDNEXTTAG wor vb
+lat sb PREVTAG num
+præp sb RBIGRAM widh oc
+lat sb NEXT1OR2TAG art
+sb vb NEXTWD them
+pron art WDNEXTTAG thettæ sb
+præp sb RBIGRAM igift STAART
+pron art CURWD thy
+adv sb PREV1OR2WD then
+præp sb WDPREVTAG art vnder
+lat vb PREV1OR2WD ath
+vb pron RBIGRAM an STAART
+sb konj WDPREVTAG sb mæn
+konj sb NEXT1OR2TAG adv
+lat vb NEXT1OR2OR3TAG konj
+lat adj NEXT1OR2TAG adv
+vb pron WDAND2TAGAFT vor sb
+lat prop PREVWD ,
+sb konj CURWD emæth
+lat adv PREVTAG adv
+adj pron CURWD migh
+adv num PREVBIGRAM sb sb
+num sb NEXT1OR2TAG adv
+adv prop PREVWD her
+adv sb NEXT1OR2TAG prop
+num vb WDPREVTAG sb otte
+lat num WDNEXTTAG ni sb
+num lat NEXTTAG lat
+sb vb NEXTWD megh
+konj præp NEXT1OR2OR3TAG STAART
+præp pron NEXTTAG vb
+sb lat NEXTTAG lat
+art konj SURROUNDTAG STAART pron
+adv pron PREV1OR2TAG art
+konj præp NEXTTAG vb
+sb vb NEXTTAG art
+lat sb PREV1OR2OR3TAG adv
+sb vb SURROUNDTAG adv pron
+pron sb WDPREVTAG pron man
+vb sb PREVWD til
+sb lat PREVBIGRAM lat lat
+lat sb NEXT1OR2TAG sb
+pron lat NEXTTAG lat
+sb adj SURROUNDTAG art sb
+præp pron NEXTTAG adv
+adv pron WDNEXTTAG ther pron
+lat sb PREV1OR2OR3TAG pron
+vb lat PREVTAG lat
+adv pron WDNEXTTAG som vb
+pron adv PREVTAG vb
+adv pron WDNEXTTAG som adv
+adv sb NEXTTAG prop
+sb konj WDAND2TAGAFT men vb
+præp lat NEXTTAG lat
+pron adv NEXTWD han
+adv konj PREV1OR2WD .
+pron sb WDPREVTAG adj man
+vb præp WDAND2AFT wedh STAART
+lat sb NEXT1OR2TAG vb
+sb lat NEXTBIGRAM lat lat
+sb vb PREV1OR2WD han
+pron præp CURWD met
+lat sb PREV1OR2TAG præp
+adj lat PREV1OR2TAG lat
+sb vb PREVWD at
+sb vb PREV1OR2WD hwn
+sb vb PREVBIGRAM art sb
+sb vb PREVBIGRAM pron sb
+adv pron SURROUNDTAG STAART adj
+adj vb RBIGRAM føræ STAART
+adv vb PREVBIGRAM STAART pron
+præp konj LBIGRAM STAART af
+adj adv WDNEXTTAG alt præp
+lat adv NEXT1OR2TAG præp
+prop lat NEXTTAG lat
+adv lat NEXT1OR2TAG lat
+sb vb PREV1OR2WD hawer
+sb vb PREVBIGRAM STAART adv
+pron præp PREV1OR2OR3TAG prop
+pron art NEXT1OR2WD breff
+sb lat PREV1OR2TAG lat
+art vb NEXTTAG STAART
+sb adj PREV1OR2WD war
+adv vb SURROUNDTAG pron STAART
+præp pron PREVBIGRAM STAART vb
+pron præp WDAND2AFT i STAART
+vb præp WDAND2TAGBFR vb wedh
+sb vb WDAND2BFR STAART æræ
+vb sb PREVWD jen
+adv konj PREV1OR2WD /
+adj vb PREVWD ath
+præp konj RBIGRAM at the
+præp konj WDAND2BFR STAART at
+vb præp WDAND2TAGBFR vb wed
+sb vb SURROUNDTAG sb pron
+adv konj NEXT1OR2WD met
+sb prop SURROUNDTAG prop sb
+adv konj WDAND2TAGBFR prop oc
+sb vb PREVBIGRAM pron adv
+vb adv WDAND2TAGBFR vb saa
+adj adv WDNEXTTAG alt adv
+lat prop PREV1OR2TAG sb
+vb sb PREV1OR2WD een
+vb sb PREVBIGRAM præp adj
+sb adj SURROUNDTAG pron sb
+adv pron PREVBIGRAM adj sb
+adv pron SURROUNDTAG STAART adv
+adj sb PREVBIGRAM art adj
+pron adv NEXTTAG STAART
+præp pron PREVWD ath
+art num NEXTWD ørtigh
+adv art WDNEXTTAG theræ sb
+konj præp NEXTTAG vb
+præp konj PREVWD .
+art konj SURROUNDTAG STAART art
+adv sb WDNEXTTAG her sb
+pron art WDAND2TAGAFT thette adj
+sb vb PREVWD hanum
+sb vb PREVWD man
+sb vb WDPREVTAG vb æræ
+sb vb PREVBIGRAM sb konj
+vb sb PREVTAG num
+vb sb NEXTWD ær
+vb sb PREVWD sin
+vb sb PREVWD myn
+vb sb PREVWD vdhen
+sb adj NEXTWD met
+vb adj PREVWD aff
+vb adj PREV1OR2WD worte
+adv konj NEXT1OR2WD .
+adj sb SURROUNDTAG præp STAART
+adj vb WDPREVTAG adj kieræ
+præp pron PREVWD skullæ
+adv art WDNEXTTAG thy sb
+konj adv WDNEXTTAG eller sb
+sb vb PREVBIGRAM adv sb
+præp adj RBIGRAM modh STAART
+vb sb PREVWD hans
+sb vb PREVWD jech
+vb sb PREVWD mandz
+sb vb PREVBIGRAM konj vb
+vb sb PREVWD myne
+sb vb PREVBIGRAM art adv
+vb sb NEXT1OR2WD war
+sb vb NEXTBIGRAM art adj
+vb sb PREV1OR2WD paa
+sb adj NEXTWD skiel
+adv pron PREVWD gudh
+vb adj WDNEXTTAG før præp
+adv konj WDPREVTAG prop oc
+adj vb NEXTWD medh
+adj vb PREV2WD som
+vb adj NEXTBIGRAM sb STAART
+adj vb CURWD redhæ
+pron adv NEXT1OR2TAG art
+adv pron CURWD thær
+sb vb NEXTBIGRAM pron adj
+adv pron PREVBIGRAM STAART pron
+adv vb NEXTWD han
+præp pron PREVWD maa
+præp pron LBIGRAM som i
+adv pron WDNEXTTAG som præp
+pron sb NEXTWD oc
+vb prop PREV1OR2WD j
+præp konj PREVWD thy
+vb præp LBIGRAM STAART wedh
+vb præp WDPREVTAG vb wed
+pron præp NEXTTAG prop
+pron præp CURWD tijl
+adj adv PREVWD skal
+lat sb CURWD .
+sb konj LBIGRAM STAART men
+adv sb PREVBIGRAM sb præp
+vb num NEXTWD dage
+sb konj WDPREVTAG sb men
+pron num WDNEXTTAG tw sb
+lat adv NEXT1OR2TAG vb
+prop lat PREVTAG lat
+sb vb NEXTWD thik
+vb sb NEXTWD thær
+sb vb PREVWD thu
+sb vb LBIGRAM j ere
+vb sb PREVWD jeth
+sb vb PREV1OR2WD kwnde
+vb sb RBIGRAM fræst STAART
+sb vb PREV1OR2WD ridder
+vb sb PREV1OR2WD fornefnde
+sb vb PREV1OR2WD hwo
+sb vb CURWD ær
+sb vb CURWD wijl
+sb vb CURWD standhæ
+sb vb CURWD sænde
+sb adj NEXTWD man
+pron sb WDPREVTAG adj man
+adj sb PREVWD vdhen
+sb adj PREVWD mæn
+sb adj PREVWD alt
+sb adj PREV1OR2WD wordher
+sb adj PREV1OR2WD scal
+adv pron NEXTWD hinnæ
+adv pron NEXT1OR2WD them
+adv pron NEXT1OR2WD ower
+vb adj PREV1OR2WD wortæ
+adv konj NEXT1OR2WD till
+adj sb WDAND2BFR for død
+sb prop PREVWD sancte
+sb prop PREVWD hiedhe
+sb prop NEXT1OR2WD biscop
+adj vb PREVWD at
+sb prop PREV1OR2WD Jech
+adj vb PREVWD hawer
+sb prop PREVBIGRAM vb prop
+adj vb RBIGRAM føre STAART
+adj vb WDNEXTTAG war sb
+adj vb PREVBIGRAM vb konj
+pron adv PREVTAG adv
+adv pron PREV1OR2WD til
+pron adv LBIGRAM STAART thy
+pron adv NEXT2WD laa
+adv vb NEXTWD appa
+adv vb NEXTBIGRAM sb prop
+adv vb PREV2WD man
+præp pron SURROUNDTAG STAART vb
+præp konj LBIGRAM breff at
+pron sb PREV1OR2WD af
+vb præp RBIGRAM før æn
+vb præp WDAND2TAGBFR pron wedh
+adv præp PREV1OR2WD .
+præp vb WDAND2BFR thær aa
+præp sb PREV1OR2WD medh
+sb vb PREVBIGRAM præp sb
+sb vb RBIGRAM radhæ STAART
+adv sb PREV1OR2TAG lat
+lat vb NEXT1OR2TAG art
+lat pron NEXT1OR2TAG vb
+adv num PREV1OR2WD .
+konj adj PREVWD then
+lat num NEXT1OR2WD oc
+vb sb PREV1OR2TAG rom
+vb sb PREVWD meth
+vb sb PREVWD thin
+vb sb PREVWD thieræ
+vb sb PREVWD met
+vb sb RBIGRAM dwalæ STAART
+vb sb NEXT1OR2WD tog
+vb sb NEXT1OR2WD penning
+vb sb PREV1OR2WD alle
+vb sb PREV1OR2WD gør
+sb adj SURROUNDTAG vb sb
+sb adj PREVBIGRAM vb sb
+vb sb PREV1OR2WD bodhe
+vb sb CURWD skibed
+vb sb CURWD røsten
+vb sb CURWD forman
+sb vb NEXTWD bode
+sb vb NEXTWD barn
+sb vb PREVWD førræ
+sb vb PREVWD kam
+sb vb RBIGRAM sagh ær
+sb vb PREV1OR2WD ørs
+sb vb PREV2WD naar
+sb vb WDAND2BFR ath æræ
+sb adj NEXTWD tiidh
+sb adj WDNEXTTAG krogeth adv
+sb adj SURROUNDTAG STAART sb
+sb adj PREV1OR2WD wære
+sb adj CURWD sammel
+sb adj CURWD fogræ
+sb adj CURWD sma
+vb adj PREVWD medh
+adv pron PREVWD aff
+pron art CURWD thy
+adv pron NEXT1OR2WD tre
+vb adj PREVWD hin
+adv pron PREVBIGRAM sb sb
+vb adj NEXT1OR2WD ære
+vb adj PREV1OR2WD bodhæ
+adv pron WDAND2AFT som haffde
+adj sb NEXTWD /
+adj sb NEXTWD rath
+adj sb WDPREVTAG sb døth
+sb adj SURROUNDTAG art sb
+adj sb NEXT1OR2WD faa
+adj sb WDAND2TAGBFR pron ræt
+adv konj NEXTWD giuer
+adv konj PREVWD giwet
+adv konj NEXT1OR2WD myne
+adv konj PREV1OR2WD bothe
+adv konj PREV1OR2WD gothe
+adv konj WDAND2AFT oc til
+adj vb RBIGRAM stoor STAART
+adv konj WDAND2AFT oc myn
+adj vb LBIGRAM ther stoor
+adv konj WDAND2BFR j oc
+adj vb WDPREVTAG adj kiere
+adj vb CURWD wndfongen
+adj vb CURWD liger
+sb prop PREVWD j
+sb prop NEXT1OR2WD dotter
+sb prop PREV1OR2WD konningh
+pron adv LBIGRAM them ther
+pron adv NEXT1OR2WD skulle
+adj adv WDAND2TAGBFR pron alt
+vb adv RBIGRAM wel STAART
+vb adv CURWD fræm
+vb adv CURWD ildhæ
+sb pron CURWD annedh
+sb adv LBIGRAM STAART tidh
+adv vb NEXTWD iech
+sb pron CURWD Jech
+adv vb NEXTWD tha
+præp pron NEXTWD bode
+adv vb NEXTWD ther
+præp pron PREVWD hwadh
+adv vb PREVWD øwen
+præp pron PREVWD mowe
+adv vb RBIGRAM saa the
+præp pron PREVWD om
+præp pron PREVWD skwllæ
+præp konj NEXTWD iæk
+art num NEXT1OR2WD oc
+pron sb LBIGRAM then man
+art num PREV1OR2OR3TAG num
+pron sb WDAND2AFT how STAART
+pron præp NEXT1OR2WD oc
+vb præp LBIGRAM STAART wed
+pron præp PREV1OR2WD ær
+vb pron LBIGRAM STAART Jæk
+adv art PREV1OR2WD met
+præp vb WDNEXTTAG foræ adv
+pron vb WDNEXTTAG wor adv
+præp sb PREVWD mange
+pron vb WDPREVTAG sb wort
+præp sb PREVBIGRAM præp art
+præp sb CURWD wndher
+vb num NEXTWD dawe
+lat sb PREV1OR2TAG art
+adv sb PREVWD then
+prop adj PREV1OR2WD och
+adj sb NEXTTAG prop
+pron num WDAND2BFR STAART annen
+konj sb PREV1OR2OR3TAG num
+pron art SURROUNDTAG præp pron
+adv num NEXTWD myn
+lat rom WDNEXTTAG vi sb
+konj adj NEXTWD hwn
+vb sb NEXTWD agher
