@@ -1,0 +1,1933 @@
+propr sb PREV1OR2OR3TAG præp
+ATI konj PREV1OR2TAG ZD
+propr sb NEXT1OR2OR3TAG præp
+propr sb PREV1OR2OR3TAG pron
+sb adj NEXTTAG sb
+propr sb PREV1OR2OR3TAG sb
+propr sb NEXT1OR2OR3TAG v
+sb propr PREVTAG propr
+sb v NEXTTAG pron
+propr sb PREV1OR2OR3TAG ubestpron
+præp adv NEXTTAG præp
+sb propr CURWD Danmark
+adv adj SURROUNDTAG ubestpron sb
+adj v PREVWD at
+præp konj NEXTBIGRAM pron v
+sb v PREVTAG ATI
+sb propr NEXTTAG sb
+propr sb PREVTAG adj
+adv konj NEXTTAG pron
+propr sb NEXTTAG ZH
+adj sb PREVTAG præp
+pron adv RBIGRAM selv om
+sb propr CURWD USA
+propr sb PREV1OR2TAG num
+ATI konj NEXTTAG pron
+konj ATI NEXTTAG v
+sb propr CURWD Europa
+sb propr NEXTTAG propr
+propr sb NEXTBIGRAM propr propr
+adj adv NEXTTAG præt
+konj adv PREVTAG v
+præp konj LBIGRAM selv om
+v sb NEXTWD som
+sb v PREVWD skal
+sb v PREVWD der
+adj adv NEXTTAG adv
+adv adj SURROUNDTAG præp sb
+adj adv NEXTTAG v
+adj propr PREVTAG propr
+sb propr NEXT1OR2TAG ZA
+adv præp NEXT1OR2OR3TAG num
+sb v NEXTTAG ubestpron
+v præt PREV1OR2WD har
+adj sb PREVBIGRAM pron adj
+v sb NEXTBIGRAM pron v
+propr adj PREV1OR2OR3TAG ubestpron
+præp konj LBIGRAM , om
+adv konj SURROUNDTAG ZD sb
+sb propr RBIGRAM B .
+sb v PREVWD kan
+adv præp NEXT2TAG ZP
+ATI konj NEXTTAG sb
+v ENDING PREVTAG ZA
+sb propr PREVTAG XF
+sb adj PREVBIGRAM v adv
+præp konj LBIGRAM som om
+sb propr CURWD SF
+sb propr CURWD Aarhus
+sb interj WDAND2BFR STAART Nej
+sb adj PREVBIGRAM adj konj
+ubestpron adv PREVWD i
+XS sb NEXTTAG ZH
+sb v PREVBIGRAM STAART pron
+adj adv RBIGRAM svært ved
+v sb PREVTAG præp
+adv adj WDNEXTTAG saadan ubestpron
+v adj PREVTAG præp
+konj adv WDPREVTAG pron da
+konj præp PREVTAG sb
+ubestpron ENDING PREVTAG ZA
+sb v PREVBIGRAM v konj
+præp adv WDNEXTTAG efter v
+v sb NEXTTAG v
+interj sb PREV1OR2OR3TAG v
+sb propr CURWD Paris
+sb v SURROUNDTAG sb adv
+adj adv WDNEXTTAG mindre adj
+propr sb SURROUNDTAG v ZD
+sb v PREVWD kunne
+sb v SURROUNDTAG adv adv
+adj propr PREVBIGRAM præp sb
+præt adv WDPREVTAG adv vist
+pron propr WDNEXTTAG Hans propr
+præp pron NEXTTAG v
+sb propr WDNEXTTAG EF ZD
+sb adj PREVWD mere
+adv adj WDNEXTTAG mere sb
+adj adv NEXT1OR2TAG part
+adv adj WDAND2AFT klart at
+sb præt PREVWD blev
+adv præp WDNEXTTAG paa præp
+adv præp CURWD igennem
+v adj PREVWD nogle
+v præt PREV1OR2WD er
+præp v WDAND2TAGAFT ved adv
+ubestpron adv NEXTWD for
+sb propr CURWD Danmarks
+propr sb NEXTTAG ZH
+propr sb SURROUNDTAG konj sb
+adv adj NEXTBIGRAM sb ZD
+præp adv RBIGRAM for meget
+sb præt PREVWD blive
+adj v PREV1OR2WD vil
+propr XF NEXT1OR2TAG XF
+præp konj PREVWD Selv
+v adj PREVBIGRAM præp pron
+konj adv NEXT1OR2TAG STAART
+sb propr PREVBIGRAM ZD propr
+sb propr CURWD CD
+præp adv LBIGRAM alt for
+sb præt PREVWD blevet
+adj v PREV1OR2WD kan
+v sb PREV1OR2WD en
+propr v PREVTAG pron
+v sb PREVBIGRAM ZD ATI
+ATI konj NEXTTAG sb
+adj præt PREV1OR2WD har
+v præt PREV1OR2WD havde
+sb propr NEXTBIGRAM konj propr
+sb propr CURWD Danmark
+propr sb PREVTAG præt
+propr sb PREVBIGRAM adv v
+sb adj WDNEXTTAG Dansk sb
+sb adj NEXTBIGRAM konj adj
+propr sb PREVBIGRAM ATI v
+adv adj RBIGRAM mere end
+præp adv LBIGRAM er for
+adj adv NEXTWD paa
+præp adv NEXTBIGRAM konj v
+adj adv NEXTWD efter
+adj adv SURROUNDTAG sb konj
+adj adv SURROUNDTAG v adj
+adj v PREVWD der
+adj propr PREVWD som
+v adj PREV1OR2WD er
+adv præp WDNEXTTAG for præp
+præp konj NEXT1OR2WD man
+konj adv NEXTTAG v
+adv konj SURROUNDTAG ZD ubestpron
+sb propr RBIGRAM P .
+sb propr SURROUNDTAG propr v
+sb propr CURWD NATO
+propr sb NEXTTAG ZH
+sb propr CURWD Vejle
+propr sb SURROUNDTAG ZI ZI
+propr XF NEXTBIGRAM ZI ZD
+propr sb SURROUNDTAG STAART ZD
+sb adj SURROUNDTAG adv ZP
+sb v PREVWD skulle
+sb v SURROUNDTAG STAART adv
+præp adv CURWD udenfor
+præp adv CURWD forbi
+adj sb SURROUNDTAG præp konj
+adj sb SURROUNDTAG adj adj
+sb adv WDAND2BFR STAART Siden
+sb præt PREVWD bliver
+v sb NEXTBIGRAM adv v
+sb XF NEXTTAG XF
+sb XF SURROUNDTAG STAART ZP
+adv præp NEXTTAG pron
+adv præp RBIGRAM til i
+præp sb PREVTAG præp
+sb propr RBIGRAM H .
+sb propr WDNEXTTAG EF v
+sb propr WDNEXTTAG Svend propr
+sb propr CURWD Japan
+propr sb NEXTBIGRAM konj sb
+propr sb PREVWD Københavns
+propr sb SURROUNDTAG adj konj
+sb v SURROUNDTAG STAART sb
+adv adj RBIGRAM lidt af
+adv adj NEXTBIGRAM sb v
+adv adj WDNEXTTAG meget sb
+propr v NEXTTAG pron
+præp konj SURROUNDTAG ZD adv
+v præt PREVWD have
+konj præp WDNEXTTAG indtil adv
+v propr PREVBIGRAM sb propr
+ATI konj NEXTTAG ubestpron
+adv sb PREV1OR2OR3TAG pron
+sb v PREVBIGRAM pron adv
+præt adv WDNEXTTAG vist adv
+interj sb PREV1OR2OR3TAG præp
+sb propr NEXT1OR2TAG XF
+sb propr RBIGRAM EF .
+sb propr RBIGRAM Cup -
+sb propr WDNEXTTAG FN v
+sb propr PREV1OR2WD General
+sb propr CURWD Lyngby
+sb propr WDAND2TAGBFR sb Hafnia
+propr sb PREVBIGRAM STAART adv
+propr sb PREVBIGRAM konj adv
+propr sb CURWD Rock
+sb v PREV2WD hvor
+sb v PREV2WD naar
+adv adj RBIGRAM meget af
+adv adj CURWD lettere
+præp adv NEXTWD for
+præp adv NEXTWD som
+adj sb NEXTTAG v
+v sb PREVTAG adj
+adj sb SURROUNDTAG adv præp
+adj v PREVWD ikke
+v adj PREVWD en
+adj præt PREVWD havde
+pron adv RBIGRAM der ,
+adv v PREVBIGRAM STAART pron
+adv konj CURWD end
+pron adv WDPREVTAG ZD selv
+præp v WDPREVTAG ubestpron ved
+v præp WDNEXTTAG ved sb
+sb propr PREVWD Nr.
+sb propr PREVWD Af
+sb propr LBIGRAM i Nakskov
+sb propr LBIGRAM i London
+sb propr LBIGRAM i Skælskør
+sb propr WDNEXTTAG SAS v
+sb propr NEXTBIGRAM ZD ZD
+sb propr SURROUNDTAG ZD ZP
+sb propr SURROUNDTAG propr propr
+sb propr SURROUNDTAG sb sb
+sb propr CURWD Skandia
+sb propr CURWD Tove
+sb propr CURWD Karlsvognen
+sb propr CURWD Sovjet
+sb propr CURWD Baltica
+sb propr CURWD Ledreborg
+sb propr CURWD Stewart
+sb propr CURWD DR
+sb propr CURWD Maiden
+sb propr CURWD Bush
+sb propr CURWD SU
+sb propr CURWD Berlingske
+sb propr CURWD Zagreb
+sb propr CURWD Silkeborg
+sb propr CURWD GiroBank
+sb propr CURWD USA
+sb propr CURWD Clinton
+sb adj NEXTWD Vis
+sb adj NEXT2TAG ZH
+sb adj CURWD langtidsledige
+propr sb PREVWD EFs
+propr sb PREVBIGRAM ZH konj
+propr sb SURROUNDTAG STAART num
+propr sb SURROUNDTAG ubestpron sb
+sb v PREV1OR2WD maa
+sb adj PREVWD være
+sb v PREVBIGRAM adv konj
+adv adj WDAND2TAGAFT let v
+sb v PREVBIGRAM ATI ZI
+adv adj NEXTTAG ZH
+adv adj RBIGRAM meget ,
+adj adv WDAND2TAGBFR sb meget
+adv adj RBIGRAM Saadan en
+adv adj RBIGRAM meget at
+adv adj RBIGRAM meget andet
+adv adj LBIGRAM er utroligt
+adv adj WDPREVTAG adv naturligt
+adj adv WDPREVTAG pron saakaldt
+adv adj SURROUNDTAG ubestpron konj
+adj adv PREVBIGRAM adv konj
+præp adv NEXTWD igen
+adj adv WDAND2TAGAFT særlig sb
+præp adv NEXTWD sent
+præp adv RBIGRAM for faa
+præp adv WDNEXTTAG igennem præp
+præp adv NEXTBIGRAM v pron
+adv konj LBIGRAM STAART For
+adj sb NEXT1OR2TAG ZA
+adj sb PREVWD danske
+sb adv PREVWD hun
+sb adv WDNEXTTAG ovre præp
+adj v PREVWD man
+adj v WDNEXTTAG kendte pron
+adj v NEXT1OR2WD op
+v sb PREVTAG ZH
+v sb PREVWD et
+propr XF PREVWD of
+præp konj WDPREVTAG præp om
+propr XF NEXTBIGRAM XF ZI
+adv præp WDPREVTAG sb til
+adj præt PREVWD faa
+v part NEXTBIGRAM sb v
+v præt PREV1OR2WD blev
+v præt PREV1OR2WD bliver
+præt adj NEXTBIGRAM sb ZD
+sb XS SURROUNDTAG STAART ZP
+konj præp WDPREVTAG pron før
+konj adv SURROUNDTAG STAART adv
+adv konj NEXTBIGRAM propr v
+pron adv RBIGRAM der og
+konj præp NEXTBIGRAM sb ZD
+præp v PREVWD Jeg
+adv sb PREV1OR2OR3TAG præp
+sb num PREVWD Aar
+XS propr NEXT1OR2TAG propr
+propr præp RBIGRAM F .
+sb pron WDAND2BFR STAART Mine
+præp pron PREVTAG v
+ENDING v RBIGRAM s .
+ENDING ubestpron NEXTTAG sb
+adj ENDING PREVTAG ZA
+sb propr NEXTWD netop
+sb propr NEXTWD siden
+sb propr NEXTWD &amp;
+sb propr NEXTWD 2
+sb propr NEXTWD Kommune
+sb propr PREVWD &amp;
+sb propr PREVWD Familien
+sb propr PREVWD El
+sb propr RBIGRAM VM i
+sb propr LBIGRAM af HIV
+sb propr LBIGRAM STAART O
+sb propr LBIGRAM STAART Bassam
+sb propr WDNEXTTAG Shell v
+sb propr WDNEXTTAG DGI v
+sb propr WDNEXTTAG Anne propr
+sb propr WDNEXTTAG OL præp
+sb propr WDNEXTTAG EF konj
+sb propr WDPREVTAG præp Charlottenlund
+sb propr NEXT1OR2WD 16
+sb propr NEXT1OR2WD kommet
+sb propr PREV1OR2WD Camilo
+sb propr PREV1OR2WD Da
+sb propr PREV1OR2WD Afdeling
+sb propr PREVBIGRAM num ZD
+sb propr CURWD Suchinda
+sb propr CURWD Hekmatyar
+sb propr CURWD BRF
+sb propr CURWD Bournonvilles
+sb propr CURWD Inger
+sb propr CURWD Alberte
+sb propr CURWD Husseini
+sb propr CURWD Burjatien
+sb propr CURWD Lin
+sb propr CURWD Moskva
+sb propr CURWD Danmark
+sb propr WDAND2TAGBFR sb SDS
+propr sb PREVTAG part
+propr sb PREVWD Andersens
+propr sb RBIGRAM Inger -
+propr sb NEXT1OR2WD !
+sb adj NEXTWD Skær
+propr sb PREVBIGRAM STAART v
+sb adj NEXT1OR2WD røde
+sb adj PREV1OR2WD blive
+propr sb SURROUNDTAG præp ZH
+sb adj PREVBIGRAM adj ZD
+propr sb NEXT2WD 1
+propr sb CURWD Jorden
+sb v PREVBIGRAM STAART sb
+v sb NEXTTAG v
+adv præp NEXTTAG sb
+præp adj NEXTTAG sb
+propr sb CURWD Hospital
+sb adj NEXTBIGRAM sb præt
+adj sb PREVBIGRAM adv v
+sb v PREVWD maatte
+sb adj NEXTBIGRAM sb ZQ
+sb adj SURROUNDTAG adv ZI
+sb adj CURWD urørlig
+sb adj CURWD nødvendig
+sb v PREVWD Side
+sb v PREVWD Jeg
+sb v RBIGRAM ejes af
+sb v CURWD optræde
+adj adv PREVBIGRAM propr adv
+adv adj NEXTWD for
+adj adv WDPREVTAG adv bare
+adj adv SURROUNDTAG adv pron
+adj adv CURWD konkret
+adj adv WDAND2AFT rigtigt STAART
+adj adv WDAND2TAGBFR ubestpron bedre
+adv adj WDNEXTTAG yderligere sb
+præp adv NEXTWD til
+adv adj WDNEXTTAG direkte sb
+præp adv NEXTWD ind
+adv adj WDNEXTTAG lidt sb
+præp adv PREVWD følge
+præp adv RBIGRAM af og
+adv adj CURWD smaa
+præp adv RBIGRAM før ,
+præp adv RBIGRAM langs .
+præp adv RBIGRAM for lidt
+præp adv LBIGRAM Gang til
+præp adv LBIGRAM blevet for
+præp adv LBIGRAM STAART Ialt
+præp adv SURROUNDTAG konj ZP
+præp adv NEXTBIGRAM konj adv
+adj sb NEXTWD Skyld
+adj sb PREVWD dette
+adj sb PREVBIGRAM sb ZH
+adj sb PREVBIGRAM pron part
+adj sb PREVBIGRAM præp num
+sb propr NEXT2TAG ZH
+sb adv WDNEXTTAG hamrende adj
+sb adv WDNEXTTAG knapt num
+adj sb PREVBIGRAM sb propr
+sb adv NEXT1OR2WD placeret
+adj sb SURROUNDTAG v præp
+sb præt PREV2WD ville
+sb adv CURWD indimellem
+adj sb SURROUNDTAG adj konj
+sb adj NEXT1OR2WD økonomiske
+sb adv CURWD daarligst
+sb præt WDNEXTTAG beskyttet præp
+sb adv WDAND2BFR STAART Kort
+sb præt PREV1OR2WD føler
+sb præt CURWD lakeret
+adj v NEXTWD Arbejdet
+adj v PREVWD skal
+adj v PREVWD Han
+v sb NEXTWD hver
+adj part WDNEXTTAG foretrukne sb
+v sb PREVWD Som
+v sb PREVWD som
+v sb WDPREVTAG adj Skær
+v sb PREV1OR2WD var
+sb adv NEXTWD talt
+adj propr PREV1OR2WD Præsident
+adj propr SURROUNDTAG adv adj
+sb num WDPREVTAG præp 1964
+propr v PREVWD Jensen
+propr adj PREVWD —
+sb num CURWD 240
+propr v PREVWD Jørgensen
+propr v NEXTBIGRAM adv adv
+v adj PREVWD meget
+v adj PREVWD hvor
+v adj PREVBIGRAM præp pron
+præp konj LBIGRAM , inden
+propr XF PREV1OR2WD the
+propr XF NEXT1OR2OR3TAG XS
+præp konj WDNEXTTAG Om pron
+adv præp PREVWD Løbet
+adv præp NEXT1OR2WD efter
+adj præt WDPREVTAG adv svækket
+adv præp SURROUNDTAG adj adv
+præp adv NEXTBIGRAM adj præp
+adv præp WDPREVTAG adv i
+v part WDNEXTTAG fortsatte sb
+part v PREVTAG konj
+v part SURROUNDTAG præp sb
+adv v PREVWD Jeg
+part v NEXTTAG adv
+v præt LBIGRAM ikke lykkedes
+XF propr SURROUNDTAG propr propr
+konj adv RBIGRAM end ikke
+pron adv PREV1OR2TAG ATI
+ubestpron num LBIGRAM i anden
+adj num NEXTWD Kr.
+adj XF NEXTTAG XF
+ubestpron num WDPREVTAG sb andet
+pron adv NEXTWD den
+adj num NEXT1OR2WD Kroner
+adj XF PREVBIGRAM v ZI
+sb XF PREV1OR2OR3TAG XF
+XF sb NEXTTAG ZD
+XF sb NEXT1OR2TAG sb
+XF propr NEXT2TAG pron
+adv præt PREVWD har
+pron propr SURROUNDTAG propr sb
+XS propr PREV1OR2TAG ZD
+adj ubestpron WDPREVTAG præp ens
+XS propr RBIGRAM A .
+sb propr NEXTWD 300
+propr sb PREV1OR2OR3TAG præp
+ATI konj PREV1OR2TAG ZD
+propr sb NEXT1OR2OR3TAG præp
+propr sb PREV1OR2OR3TAG pron
+sb adj NEXTTAG sb
+propr sb PREV1OR2OR3TAG sb
+propr sb NEXT1OR2OR3TAG v
+sb propr PREVTAG propr
+sb v NEXTTAG pron
+propr sb PREV1OR2OR3TAG ubestpron
+præp adv NEXTTAG præp
+sb propr CURWD Danmark
+adv adj SURROUNDTAG ubestpron sb
+adj v PREVWD at
+præp konj NEXTBIGRAM pron v
+sb v PREVTAG ATI
+sb propr NEXTTAG sb
+propr sb PREVTAG adj
+adv konj NEXTTAG pron
+propr sb NEXTTAG ZH
+adj sb PREVTAG præp
+pron adv RBIGRAM selv om
+sb propr CURWD USA
+propr sb PREV1OR2TAG num
+ATI konj NEXTTAG pron
+konj ATI NEXTTAG v
+sb propr CURWD Europa
+sb propr NEXTTAG propr
+propr sb NEXTBIGRAM propr propr
+adj adv NEXTTAG præt
+konj adv PREVTAG v
+præp konj LBIGRAM selv om
+v sb NEXTWD som
+sb v PREVWD skal
+sb v PREVWD der
+adj adv NEXTTAG adv
+adv adj SURROUNDTAG præp sb
+adj adv NEXTTAG v
+adj propr PREVTAG propr
+sb propr NEXT1OR2TAG ZA
+adv præp NEXT1OR2OR3TAG num
+sb v NEXTTAG ubestpron
+v præt PREV1OR2WD har
+adj sb PREVBIGRAM pron adj
+v sb NEXTBIGRAM pron v
+propr adj PREV1OR2OR3TAG ubestpron
+præp konj LBIGRAM , om
+adv konj SURROUNDTAG ZD sb
+sb propr RBIGRAM B .
+sb v PREVWD kan
+adv præp NEXT2TAG ZP
+ATI konj NEXTTAG sb
+v ENDING PREVTAG ZA
+sb propr PREVTAG XF
+sb adj PREVBIGRAM v adv
+præp konj LBIGRAM som om
+sb propr CURWD SF
+sb propr CURWD Aarhus
+sb interj WDAND2BFR STAART Nej
+sb adj PREVBIGRAM adj konj
+ubestpron adv PREVWD i
+XS sb NEXTTAG ZH
+sb v PREVBIGRAM STAART pron
+adj adv RBIGRAM svært ved
+v sb PREVTAG præp
+adv adj WDNEXTTAG saadan ubestpron
+v adj PREVTAG præp
+konj adv WDPREVTAG pron da
+konj præp PREVTAG sb
+ubestpron ENDING PREVTAG ZA
+sb v PREVBIGRAM v konj
+præp adv WDNEXTTAG efter v
+v sb NEXTTAG v
+interj sb PREV1OR2OR3TAG v
+sb propr CURWD Paris
+propr sb PREV1OR2OR3TAG pron
+propr sb PREV1OR2OR3TAG præp
+ATI konj PREV1OR2WD ,
+propr sb NEXT1OR2OR3TAG præp
+sb adj NEXTTAG sb
+propr sb PREV1OR2OR3TAG sb
+sb v NEXTTAG pron
+propr sb NEXT1OR2OR3TAG v
+sb propr PREVTAG propr
+præp adv NEXTTAG præp
+sb propr CURWD Danmark
+sb v PREVTAG ATI
+præp konj NEXTBIGRAM pron v
+adj sb PREVTAG præp
+propr sb PREVTAG adj
+adv adj SURROUNDTAG pron sb
+adv konj SURROUNDTAG ZD pron
+propr sb NEXTTAG ZH
+adj v PREVTAG ATI
+pron adv RBIGRAM selv om
+ATI konj NEXTTAG pron
+adv adj SURROUNDTAG præp sb
+v sb NEXTWD som
+præp konj LBIGRAM selv om
+propr sb PREVTAG v
+sb propr CURWD Europa
+sb propr NEXT1OR2TAG ZA
+sb propr SURROUNDTAG sb sb
+adv præp NEXT1OR2OR3TAG num
+konj ATI NEXTTAG v
+adj adv NEXTTAG præt
+sb v PREVWD kan
+adj adv NEXTTAG adv
+konj adv WDPREVTAG v da
+adv konj SURROUNDTAG ZD sb
+v præt PREV1OR2WD har
+sb propr RBIGRAM B .
+sb propr CURWD Danmarks
+sb v PREVWD skal
+propr sb PREVTAG num
+adj adv NEXTTAG v
+sb propr SURROUNDTAG ZD sb
+v sb PREVTAG præp
+sb propr NEXTBIGRAM konj propr
+sb adj PREVBIGRAM adj konj
+sb adj SURROUNDTAG adv ZD
+sb XF PREV1OR2TAG XF
+v adj SURROUNDTAG pron sb
+pron ENDING PREVTAG ZA
+sb v PREVWD der
+sb propr PREVBIGRAM sb propr
+sb propr SURROUNDTAG sb propr
+sb adj SURROUNDTAG adv ZP
+adj adv NEXTTAG præp
+sb præt PREV1OR2WD blev
+sb v SURROUNDTAG sb adv
+ubestpron adv NEXTWD for
+XS sb NEXTTAG ZH
+sb propr SURROUNDTAG v propr
+adj v PREV1OR2WD der
+præp konj LBIGRAM , om
+interj sb PREV1OR2TAG v
+sb propr CURWD SF
+præp adv LBIGRAM alt for
+præp adv WDNEXTTAG efter v
+sb propr CURWD Odense
+propr sb NEXTTAG ZH
+adj sb PREVBIGRAM pron adj
+adj adv NEXTTAG adj
+adv præp NEXT2TAG ZP
+v adj PREVTAG præp
+v ENDING PREVTAG ZA
+sb v PREVWD kunne
+sb v PREVBIGRAM v konj
+adj propr PREVTAG propr
+konj adv WDPREVTAG pron da
+adv konj NEXTBIGRAM pron v
+ubestpron adv PREVWD i
+præp adv NEXTBIGRAM konj v
+adj v PREVWD kan
+sb XF NEXTTAG XF
+præp konj LBIGRAM som om
+præp v WDAND2TAGAFT ved adv
+sb propr CURWD Danmark
+adj præt PREV1OR2WD har
+adv præt PREV1OR2WD har
+sb propr CURWD Berlingske
+sb v PREVWD skulle
+adv adj RBIGRAM mere end
+sb præt PREVWD blive
+adv præp WDNEXTTAG paa præp
+præp konj PREVWD Selv
+ATI konj NEXTTAG sb
+pron propr WDNEXTTAG Hans propr
+sb propr WDNEXTTAG EF v
+propr sb PREVTAG ZH
+propr sb SURROUNDTAG STAART ZD
+sb propr CURWD Hansen
+adv adj WDNEXTTAG mere sb
+konj præp WDNEXTTAG før sb
+sb propr PREVBIGRAM propr konj
+adv sb PREV1OR2OR3TAG pron
+adv adj WDNEXTTAG saadan pron
+v sb PREVBIGRAM v pron
+sb interj WDAND2BFR STAART Nej
+præt v CURWD holdt
+v præt PREV1OR2WD er
+præp pron NEXTTAG v
+sb propr RBIGRAM EF ,
+sb adj SURROUNDTAG pron adj
+sb præt PREVWD blevet
+adv præp WDNEXTTAG inden sb
+v præt PREVWD havde
+sb propr NEXTBIGRAM sb ZI
+sb propr SURROUNDTAG propr ZI
+sb propr NEXTBIGRAM propr ZD
+sb propr CURWD Kim
+sb adj WDNEXTTAG Dansk sb
+propr sb PREVWD Københavns
+sb v NEXTTAG ubestpron
+sb v PREVWD Han
+sb v PREVWD maa
+sb v PREVWD Det
+adv adj WDPREVTAG adv meget
+adj v PREV1OR2WD han
+præp konj LBIGRAM , før
+konj adv NEXTTAG ZP
+sb propr RBIGRAM EF .
+sb propr WDNEXTTAG Svend propr
+sb propr CURWD Unibank
+propr sb PREVTAG præt
+propr sb PREVBIGRAM ZH konj
+sb v PREVWD Jeg
+sb v SURROUNDTAG adv adv
+v sb NEXTBIGRAM adv v
+adv adj CURWD afgørende
+adj adv WDPREVTAG pron saa
+adj v PREV1OR2WD vil
+adj v CURWD døde
+sb num NEXTWD Kr.
+adv v PREVBIGRAM STAART pron
+adj num NEXT1OR2WD Kr.
+XS propr NEXT1OR2TAG propr
+præp sb PREVTAG præp
+adv pron WDNEXTTAG Selv v
+sb propr PREV1OR2OR3TAG XF
+sb propr SURROUNDTAG ZD ZP
+sb propr CURWD Baltica
+sb propr CURWD CD
+sb propr CURWD Japan
+sb propr NEXTBIGRAM konj propr
+sb propr CURWD Brøndby
+propr sb NEXTTAG ZH
+sb propr WDAND2TAGBFR ZD FN
+sb adj PREVWD helt
+sb v PREVWD jeg
+sb v SURROUNDTAG sb adj
+adj adv WDNEXTTAG meget adj
+sb adv RBIGRAM Siden har
+sb adv WDAND2BFR STAART Kort
+sb præt PREVWD bliver
+v sb NEXTTAG v
+ATI konj NEXTTAG sb
+sb num CURWD 1000
+v sb NEXTWD hver
+adv præp NEXTWD over
+propr v NEXTTAG pron
+v adj PREVBIGRAM præp pron
+propr adj PREVBIGRAM adj ZD
+sb propr SURROUNDTAG propr ZD
+v præt PREV1OR2WD har
+præp v RBIGRAM ved ,
+adv sb PREV1OR2OR3TAG præp
+præp v WDNEXTTAG ved adv
+v præp WDPREVTAG v ved
+præp pron PREVTAG v
+sb propr LBIGRAM STAART M
+sb propr WDPREVTAG præp London
+sb propr WDPREVTAG præp Lyngby
+sb propr CURWD Rom
+sb propr CURWD Bruce
+sb propr CURWD Betina
+sb propr CURWD Bush
+sb adj NEXT2TAG ZH
+propr sb PREVWD Aarhus
+propr sb WDPREVTAG propr Liv
+propr sb PREVBIGRAM adv adv
+adv adj NEXTBIGRAM sb ZP
+propr sb SURROUNDTAG STAART num
+sb v PREV2WD naar
+adv adj NEXT1OR2TAG ZH
+adv adj WDNEXTTAG muligt præp
+adv adj CURWD lettere
+adv adj CURWD smaa
+adv adj CURWD færdig
+præp adv NEXTWD ind
+adj adv LBIGRAM de mest
+præp adv RBIGRAM af og
+adj adv WDNEXTTAG meget adv
+adj sb PREVTAG v
+sb v PREVWD maatte
+sb præt PREVWD have
+sb propr NEXTWD Kommune
+adj sb PREVTAG num
+sb adv PREVWD hun
+adj sb PREVWD at
+adj v PREVBIGRAM STAART adv
+sb part CURWD tøvende
+sb XF SURROUNDTAG STAART ZP
+adv præp WDNEXTTAG siden sb
+v adj PREV1OR2WD nogle
+adv præp WDNEXTTAG fra præp
+adv præp WDAND2TAGBFR v til
+v part PREVTAG præp
+konj præp NEXT1OR2TAG num
+v præt PREVWD have
+konj præp WDNEXTTAG indtil adv
+pron adv RBIGRAM der ,
+ATI konj NEXTTAG propr
+XS propr RBIGRAM A .
+pron sb NEXTTAG ZH
+sb propr NEXTWD 18
+sb propr PREVWD spurgte
+sb propr RBIGRAM Bosnien ,
+sb propr RBIGRAM Bosnien .
+sb propr WDNEXTTAG SAS v
+sb propr PREV1OR2WD skriver
+sb propr NEXT2TAG ZH
+adv adj WDNEXTTAG lidt sb
+sb propr CURWD Anne
+sb propr CURWD Anna
+sb propr CURWD Place
+sb propr CURWD Esbjerg
+sb propr CURWD Libyen
+sb propr CURWD Proms
+sb propr CURWD Schlüter
+sb propr CURWD Clinton
+sb propr WDAND2TAGBFR sb Svendborg
+sb adj NEXTWD Forstand
+sb adj NEXTWD Vis
+sb adj PREVWD noget
+sb adj PREVWD være
+sb adj SURROUNDTAG adv konj
+adj v PREVWD ikke
+v adj PREV1OR2WD er
+sb adj CURWD nærværende
+propr sb PREV1OR2TAG ubestpron
+propr sb NEXTWD Ole
+sb v PREVWD han
+sb v WDNEXTTAG vises præp
+sb v PREV1OR2WD hen
+sb v SURROUNDTAG ZI propr
+sb v SURROUNDTAG STAART adv
+adv adj RBIGRAM lidt af
+adv adj RBIGRAM bedre til
+adv adj WDNEXTTAG Saadan pron
+adv adj CURWD positivt
+adv adj WDAND2BFR Det utroligt
+adv adj WDAND2TAGAFT enkelt pron
+præp adv NEXTWD sent
+præp adv LBIGRAM Tøj paa
+adj sb PREVWD Dansk
+sb adj WDNEXTTAG Dansk sb
+adj sb PREVWD hvor
+adj sb NEXTBIGRAM ZD sb
+sb adj PREVBIGRAM adj ZD
+sb adv LBIGRAM STAART Dels
+sb præt PREV2WD blev
+sb præt CURWD indkvarteret
+v sb PREVTAG ZH
+v sb PREVWD en
+sb num NEXTWD Mill.
+adv præp WDNEXTTAG forbi pron
+præp konj WDPREVTAG præp om
+præp konj WDAND2AFT om ikke
+adv v NEXTWD ud
+v propr PREVBIGRAM sb propr
+v præt PREV1OR2WD var
+v propr NEXTBIGRAM propr ZI
+konj adv LBIGRAM STAART Sidst
+præt adj PREVWD den
+adj præt CURWD orienteret
+sb adv SURROUNDTAG adv præt
+pron adv WDAND2TAGBFR ATI der
+præt adj RBIGRAM optaget af
+part v NEXTTAG pron
+adv konj NEXTBIGRAM propr v
+adj XF NEXTBIGRAM propr ZA
+adv præt NEXTWD sig
+adv præt WDNEXTTAG vist præp
+sb pron WDNEXTTAG Mine sb
+pron XF NEXTTAG XF
+interj sb NEXTTAG præp
+propr præp RBIGRAM F .
+sb propr NEXTWD Amt
+sb propr PREVWD Anna
+sb propr PREVWD Af
+adj propr PREVTAG propr
+sb propr PREVWD Bob
+sb propr RBIGRAM V )
+sb propr RBIGRAM Laura .
+sb propr LBIGRAM STAART O
+sb propr WDNEXTTAG EF adv
+sb propr WDNEXTTAG Bob propr
+sb propr WDNEXTTAG EF konj
+sb propr WDPREVTAG v Bolle
+sb propr WDPREVTAG præp NATO
+sb propr WDPREVTAG præp Skive
+sb propr WDPREVTAG konj ATP
+sb propr WDPREVTAG præp Gotland
+sb propr PREV1OR2WD General
+sb propr PREV1OR2WD Firma
+sb propr SURROUNDTAG ZI v
+sb propr PREV2WD aarige
+sb propr CURWD Scrooge
+sb propr CURWD ABS
+sb propr CURWD Matti
+sb propr CURWD Rungsted
+sb propr CURWD Fielfraz
+sb propr CURWD Soosaar
+sb propr CURWD Slagelse
+sb propr CURWD Brixtofte
+sb propr CURWD IOC
+sb propr CURWD Kina
+sb propr CURWD Hamburg
+sb propr CURWD UNHCR
+sb propr CURWD Continental
+sb propr CURWD PLO
+sb propr CURWD Amsterdam
+sb propr CURWD Washington
+sb propr WDAND2TAGBFR sb VM
+sb adj NEXTWD Museum
+sb adj PREVWD ser
+sb adj PREVWD lyde
+sb adj PREVBIGRAM adj konj
+adj sb NEXTBIGRAM konj sb
+sb adj WDNEXTTAG falske sb
+sb adj NEXTBIGRAM sb præt
+sb adj SURROUNDTAG v ATI
+sb adj SURROUNDTAG sb sb
+sb adj CURWD blinde
+sb adj CURWD rummelige
+sb adj CURWD farvet
+propr sb NEXTTAG ZH
+propr sb PREVWD Nielsens
+propr sb PREVWD FNs
+propr sb PREVWD Danmarks
+propr sb PREVWD Jels
+propr sb RBIGRAM PC '
+propr sb WDPREVTAG propr Hospital
+propr sb NEXT1OR2WD OG
+propr sb PREV1OR2WD Næstved
+propr sb SURROUNDTAG pron propr
+propr sb CURWD Hotel
+propr sb CURWD Gruppeformand
+sb v NEXTWD derefter
+sb v PREVWD jævnligt
+sb v SURROUNDTAG adv propr
+sb v SURROUNDTAG ZD adv
+sb v PREV2WD lod
+sb v CURWD rullede
+adv adj SURROUNDTAG konj sb
+adv adj RBIGRAM let at
+adv adj RBIGRAM let for
+adv adj LBIGRAM er godt
+adv adj WDNEXTTAG tidligere adj
+adv adj WDNEXTTAG almindelig adj
+adv adj WDPREVTAG adv mærkeligt
+adv adj NEXT1OR2WD dansk
+adj adv NEXTWD før
+adj adv NEXTWD forekommende
+adj adv PREVWD dem
+adj adv RBIGRAM saadan som
+adj adv WDNEXTTAG smaa num
+adj adv WDPREVTAG sb mere
+adj adv WDAND2BFR det bedre
+præp adv NEXTTAG ZH
+adj adv WDAND2TAGAFT klart sb
+adj adv WDAND2TAGAFT mere v
+præp adv NEXTWD var
+præp adv NEXTWD hjem
+præp adv RBIGRAM efter .
+præp adv RBIGRAM for langt
+præp adv LBIGRAM er for
+præp adv LBIGRAM lidt for
+præp adv WDNEXTTAG over præp
+præp adv SURROUNDTAG propr ZP
+præp adv WDAND2TAGBFR adv igennem
+adj sb PREVWD min
+adj sb PREVBIGRAM sb ZH
+sb adv CURWD negativt
+adj sb SURROUNDTAG pron pron
+sb adv CURWD jævnligt
+sb præt RBIGRAM formet som
+sb præt WDNEXTTAG produceret præp
+adj v PREVWD Hun
+adj v WDNEXTTAG øger sb
+adj v NEXT1OR2WD ind
+adj v NEXT1OR2WD alt
+adj v PREV1OR2WD Aar
+adj v PREV1OR2WD Dag
+adj v PREVBIGRAM konj sb
+v adj NEXTBIGRAM sb v
+adj v PREVTAG ATI
+adj v PREV1OR2WD maa
+v sb NEXTWD Det
+v sb PREV1OR2WD over
+v sb NEXTBIGRAM adv v
+v sb SURROUNDTAG adv ZD
+propr XF WDPREVTAG propr Inc.
+sb num NEXTWD Mm
+propr XF NEXT1OR2WD of
+sb num PREVBIGRAM num ZD
+sb part NEXTWD Ben
+propr XF NEXT1OR2WD t
+sb num CURWD 96
+propr XF PREV1OR2WD of
+sb num CURWD 87
+sb XF NEXTWD to
+adv præp PREVWD Løbet
+sb XF NEXT1OR2WD Lynn
+adj XF NEXTTAG XF
+adv præp RBIGRAM om i
+adv præp RBIGRAM for at
+v adj PREVWD meget
+adv præp WDNEXTTAG for præp
+v adj PREVWD hvor
+adv præp NEXTBIGRAM sb ZD
+v adj WDNEXTTAG kendte sb
+præp konj NEXTWD ellers
+præp konj WDNEXTTAG For præp
+v part WDAND2AFT fortsatte i
+præp konj WDAND2TAGAFT Om adv
+adv v NEXTWD af
+XF propr PREVTAG præp
+v præt PREVWD faa
+adv v PREVBIGRAM STAART propr
+v præt PREV1OR2WD blev
+konj præp NEXTWD i
+konj præp PREVBIGRAM pron sb
+konj adv WDNEXTTAG da adv
+adj præt PREVWD havde
+pron adv LBIGRAM — selv
+adv konj SURROUNDTAG ZD konj
+sb XS WDPREVTAG num vind.
+pron adv WDPREVTAG præt der
+v adv PREV1OR2WD sagde
+pron adv WDPREVTAG konj selv
+adv sb NEXT1OR2WD sig
+ATI konj NEXTTAG sb
+konj pron NEXTBIGRAM sb pron
+v præp WDAND2TAGAFT ved ATI
+propr XS WDPREVTAG ZD B
+propr interj RBIGRAM Næh .
+konj v NEXTTAG ATI
+sb pron WDAND2BFR STAART Al
+adj pron WDNEXTTAG ens sb
+interj sb PREV1OR2TAG pron
+præp sb PREVBIGRAM sb adv
+adv præp SURROUNDTAG sb sb
+ENDING v PREVTAG pron
+interj adj RBIGRAM Okay ,
+sb propr PREVTAG ZA
+propr sb PREV1OR2OR3TAG pron
+ATI konj PREV1OR2WD ,
+propr sb PREV1OR2OR3TAG præp
+propr sb NEXTTAG præp
+sb v NEXTTAG pron
+sb adj SURROUNDTAG pron sb
+propr sb PREV1OR2OR3TAG adj
+sb v PREVTAG ATI
+præp adv NEXTTAG præp
+adv adj NEXTTAG sb
+propr sb PREV1OR2OR3TAG konj
+sb propr PREVTAG propr
+præp konj NEXTBIGRAM pron v
+propr sb NEXTTAG ZH
+adv konj SURROUNDTAG ZD pron
+sb propr SURROUNDTAG sb sb
+pron adv RBIGRAM selv om
+ATI konj NEXTTAG pron
+konj ATI NEXTTAG v
+sb propr CURWD Europa
+adj adv NEXTTAG præt
+sb v PREVWD kan
+præp konj LBIGRAM selv om
+v sb NEXTWD som
+sb propr NEXT1OR2TAG ZA
+propr sb PREVTAG adv
+propr sb PREVBIGRAM sb ZD
+sb v PREV1OR2WD skal
+konj adv WDNEXTTAG da adv
+præp konj LBIGRAM , om
+sb adj PREVBIGRAM adj konj
+sb v PREVWD der
+konj adv WDNEXTTAG inden præp
+propr sb PREV1OR2OR3TAG num
+sb propr CURWD Danmarks
+sb præt PREV1OR2WD blev
+adv præp NEXT1OR2TAG num
+konj præp PREVTAG sb
+sb propr RBIGRAM B .
+adj adv NEXTTAG adv
+adj adv NEXTTAG adj
+sb propr SURROUNDTAG ZD propr
+propr sb SURROUNDTAG STAART v
+propr v NEXTTAG pron
+v sb NEXTBIGRAM pron v
+adj adv CURWD saa
+præp v WDAND2TAGAFT ved adv
+v præt PREV1OR2WD har
+præp pron NEXTTAG v
+pron ENDING PREVTAG ZA
+sb propr CURWD Hafnia
+sb propr CURWD Aarhus
+sb v PREVBIGRAM pron adv
+sb v PREVBIGRAM v konj
+adj adv NEXTTAG v
+adv adj WDNEXTTAG saadan pron
+v adj SURROUNDTAG pron sb
+adj v PREVTAG ATI
+pron propr NEXTTAG propr
+sb præt PREVWD har
+ubestpron adv NEXTWD for
+sb propr NEXTBIGRAM konj propr
+sb adj PREVWD mere
+adj adv NEXTTAG adj
+adv adj SURROUNDTAG v ATI
+præp adv WDNEXTTAG efter v
+XS sb NEXTTAG ZH
+sb propr SURROUNDTAG sb propr
+sb adj PREVBIGRAM adj ZD
+præp adv LBIGRAM alt for
+sb præt PREVWD blevet
+adv konj NEXTBIGRAM sb v
+konj adv NEXTTAG v
+ATI konj NEXTTAG sb
+propr sb SURROUNDTAG STAART ZD
+præp konj LBIGRAM som om
+v adj SURROUNDTAG adv sb
+v adj SURROUNDTAG præp sb
+interj sb PREV1OR2TAG v
+sb propr CURWD Odense
+sb propr CURWD Berlingske
+sb adj PREVWD meget
+adj adv NEXTTAG adj
+v sb PREVTAG præp
+sb interj WDAND2BFR STAART Nej
+sb propr PREVBIGRAM propr konj
+propr sb NEXTTAG ZH
+propr XF PREV1OR2OR3TAG XF
+sb propr CURWD SF
+sb v PREVWD kunne
+sb XF NEXTTAG XF
+præp konj PREVWD Selv
+adv konj NEXTBIGRAM pron v
+præp v WDNEXTTAG ved adv
+ubestpron adv PREVWD i
+propr sb PREVBIGRAM adv v
+sb v SURROUNDTAG adv sb
+adj adv NEXTWD efter
+adj adv CURWD mest
+adj v PREVWD der
+sb propr PREV1OR2OR3TAG XF
+sb propr CURWD Lyngby
+propr sb PREVBIGRAM sb ZH
+sb v SURROUNDTAG sb adv
+adv adj NEXTWD end
+adv præp NEXTTAG sb
+adv præp WDNEXTTAG paa præp
+v præt PREVWD havde
+adv præt WDNEXTTAG vist pron
+v ENDING LBIGRAM ' er
+propr sb PREVWD Københavns
+sb v PREV1OR2WD skulle
+v sb NEXTTAG v
+adv v PREVBIGRAM STAART pron
+konj adv NEXT1OR2TAG STAART
+konj adv WDPREVTAG v da
+præt sb NEXTTAG præt
+præp pron PREVTAG v
+sb propr RBIGRAM EF ,
+sb propr RBIGRAM EF .
+sb propr WDNEXTTAG EF v
+sb propr WDPREVTAG præp Paris
+propr sb SURROUNDTAG sb ZP
+adj adv WDNEXTTAG bare sb
+præp adv LBIGRAM er for
+sb adv LBIGRAM STAART Kort
+sb adv WDAND2BFR STAART Helt
+adv præp SURROUNDTAG v pron
+v præt PREV1OR2WD er
+XS propr RBIGRAM A .
+sb propr WDPREVTAG præp Vejle
+propr sb NEXT1OR2WD Jeg
+propr sb PREVBIGRAM STAART v
+sb adj RBIGRAM kons. )
+sb v PREVWD Vi
+adv adj PREV1OR2WD noget
+adj adv CURWD helt
+adj adv SURROUNDTAG sb konj
+præp adv RBIGRAM for meget
+præp adv CURWD udenfor
+adv præp NEXTBIGRAM præp ZP
+adj sb NEXTTAG v
+XS propr NEXT1OR2TAG propr
+sb propr WDNEXTTAG Svend propr
+sb propr SURROUNDTAG ZD num
+sb propr SURROUNDTAG ZI propr
+sb propr SURROUNDTAG propr propr
+propr sb SURROUNDTAG sb ZD
+sb propr CURWD Kina
+sb propr CURWD Kim
+sb propr CURWD SAS
+propr sb PREVWD Danmarks
+propr sb PREVBIGRAM ATI v
+sb adj SURROUNDTAG ZI sb
+sb v PREVWD maa
+sb v PREVWD ikke
+v adj PREV1OR2WD er
+adv adj CURWD aabent
+adv adj WDAND2TAGAFT svært v
+adv adj WDAND2TAGAFT meget pron
+adj adv PREVWD sig
+præp adv NEXTWD som
+v sb PREVBIGRAM v v
+adj v PREVWD Jeg
+adv præp WDAND2TAGBFR v til
+konj præp PREVTAG v
+adj præt WDPREVTAG v optaget
+ENDING adv NEXTTAG ZP
+sb propr RBIGRAM H .
+sb propr LBIGRAM STAART M
+sb propr CURWD Nakskov
+sb propr CURWD Tove
+sb propr CURWD Baltica
+propr sb NEXTTAG ZH
+sb propr CURWD Frederiksberg
+sb propr CURWD Texas
+sb propr CURWD Skagen
+sb propr CURWD London
+sb propr CURWD DR
+sb propr CURWD Bush
+sb propr WDAND2TAGBFR sb CD
+propr sb SURROUNDTAG ZI ZI
+propr XF PREVBIGRAM v ZI
+sb adj PREVWD saa
+sb adj SURROUNDTAG pron adj
+sb v PREVWD vil
+sb v PREVWD Det
+sb v PREVWD maatte
+adv adj WDNEXTTAG Saadan pron
+adj adv WDPREVTAG pron lidt
+sb adj SURROUNDTAG adv sb
+adj adv CURWD saa
+præp adv NEXTWD sent
+præp adv WDNEXTTAG før ZP
+præp adv NEXTBIGRAM konj v
+sb præt PREVWD blive
+sb adv LBIGRAM STAART Siden
+propr v PREVTAG ATI
+ATI konj NEXTTAG propr
+v sb NEXTWD De
+v sb PREV1OR2WD en
+adv præp WDNEXTTAG i præp
+propr adj CURWD Østre
+præp konj LBIGRAM , for
+konj præp NEXT1OR2WD at
+v part PREVTAG præp
+konj præp NEXT1OR2TAG ZP
+præp konj WDAND2TAGAFT Om adv
+konj præp WDPREVTAG adv inden
+adv konj LBIGRAM STAART For
+konj præp NEXT2TAG ZD
+v præt PREVWD have
+præp v PREVBIGRAM STAART pron
+konj adv WDPREVTAG pron da
+sb præp RBIGRAM F .
+præp sb NEXTTAG præp
+interj sb NEXTTAG præp
+pron sb NEXTTAG ZH
+sb propr NEXTWD &amp;
+sb propr PREVWD &amp;
+sb propr PREVWD Af
+sb propr RBIGRAM R .
+sb propr RBIGRAM Cup -
+sb propr RBIGRAM Bosnien .
+sb propr WDPREVTAG præp Hamburg
+sb propr WDPREVTAG præp Esbjerg
+sb propr PREVBIGRAM num propr
+sb propr NEXTBIGRAM propr ZD
+propr sb PREVWD er
+sb propr NEXT1OR2TAG ZA
+sb propr PREV2WD aarige
+sb propr NEXTBIGRAM propr ZP
+sb propr CURWD Unibank
+sb propr CURWD Silkeborg
+sb propr CURWD Proms
+sb propr CURWD Fanø
+sb propr CURWD Clinton
+propr sb NEXTTAG præt
+sb propr PREVBIGRAM propr konj
+propr sb NEXTWD af
+propr XF PREV1OR2TAG XF
+XF propr NEXT1OR2OR3TAG propr
+propr sb PREVWD Roskilde
+propr sb WDPREVTAG propr Hospital
+propr sb WDPREVTAG propr Stiftstidende
+propr sb SURROUNDTAG præt ZD
+propr sb CURWD Rock
+sb v NEXTWD alt
+sb v PREVWD Hun
+sb v PREVWD hun
+sb v PREVWD kun
+sb v WDNEXTTAG ankom præp
+sb v PREV2WD naar
+sb v PREV2WD lade
+v sb NEXTTAG v
+ATI konj NEXTTAG sb
+sb propr CURWD GiroBank
+adv adj RBIGRAM tydeligt ,
+adv adj RBIGRAM svært for
+adv adj WDAND2BFR ikke mere
+adj adv NEXTWD paa
+adj adv RBIGRAM tidligere .
+præp adv NEXTTAG ZH
+sb præt PREVWD bliver
+sb præt PREVWD have
+sb præt WDNEXTTAG startet præp
+sb adv PREVWD der
+propr v PREV1OR2WD under
+propr v PREVBIGRAM ZD ZI
+propr v PREVBIGRAM pron sb
+propr v SURROUNDTAG STAART adv
+v sb NEXTTAG ZH
+v sb NEXTBIGRAM adv v
+v sb SURROUNDTAG adv ZD
+adj v PREVWD han
+propr XF SURROUNDTAG ZI ZA
+adj v PREVWD man
+v adj WDPREVTAG adv stille
+v adj PREV1OR2WD nogle
+adv præp WDNEXTTAG for præp
+v adj PREV1OR2WD Par
+adv præp NEXT1OR2WD faa
+propr adj NEXT1OR2WD Det
+præp konj WDNEXTTAG For adv
+præp konj WDPREVTAG præp om
+adv konj NEXTWD han
+præp konj NEXT1OR2WD skal
+konj præp NEXTTAG num
+konj præp NEXTWD Eksempel
+v præt PREV1OR2WD har
+pron adv RBIGRAM der ,
+pron adv WDPREVTAG ZD selv
+pron adv WDPREVTAG konj selv
+konj adv RBIGRAM end ikke
+konj pron NEXTBIGRAM sb pron
+XF v RBIGRAM bli '
+sb propr NEXTWD nye
+sb propr NEXTWD Bank
+sb propr NEXTWD Pastorat
+sb propr PREVWD Anna
+sb propr PREVWD Hovedstaden
+sb propr PREVWD Le
+sb propr RBIGRAM N .
+sb propr LBIGRAM paa Tor
+sb propr LBIGRAM STAART O
+sb propr WDNEXTTAG FN v
+sb propr WDNEXTTAG NATO v
+sb propr WDNEXTTAG Christianshavn v
+sb propr WDPREVTAG præp Opel
+sb propr WDPREVTAG præp Zagreb
+sb propr WDPREVTAG præp Vojvodina
+sb propr WDPREVTAG præp Pattaya
+sb propr NEXT1OR2WD Teatret
+sb propr NEXT1OR2WD møder
+sb propr PREV1OR2WD Dr.
+sb propr PREV1OR2WD nær
+sb propr PREV1OR2WD rejse
+sb propr PREV1OR2WD National
+sb propr CURWD Matti
+sb propr CURWD Anne
+sb propr CURWD Rungsted
+sb propr CURWD BRF
+sb propr CURWD Tuborg
+sb propr CURWD EPA
+sb propr CURWD Køge
+sb propr CURWD Svendborg
+sb propr CURWD Sydafrika
+sb propr CURWD Brasilien
+sb propr CURWD Mouritz
+sb propr CURWD Skandinavien
+sb propr CURWD VW
+sb propr PREVBIGRAM adj propr
+sb propr CURWD Mastroianni
+sb propr NEXTBIGRAM konj propr
+sb propr CURWD Europa
+propr sb NEXTTAG ZH
+sb propr RBIGRAM Cup -
+sb propr CURWD Sydsjælland
+sb propr WDAND2TAGAFT KTAS adv
+sb propr WDAND2TAGAFT Bosnien pron
+propr sb PREVWD Andersens
+propr sb PREVWD FNs
+propr sb RBIGRAM PC '
+propr sb RBIGRAM Stift ,
+propr sb PREV1OR2WD s
+propr sb PREV1OR2WD Rock
+propr sb SURROUNDTAG STAART num
+sb propr CURWD Lancia
+sb adj PREVWD være
+sb adj SURROUNDTAG pron propr
+adj sb PREVWD som
+sb adj SURROUNDTAG sb sb
+sb adj CURWD konstruktiv
+sb adj CURWD kristne
+sb adj CURWD kraftigere
+sb v NEXTWD sig
+sb v NEXTWD jeg
+sb v PREVWD Side
+sb v PREVWD Han
+sb v PREVWD Her
+sb v PREVWD han
+sb v PREVWD kunne
+sb v RBIGRAM trues af
+sb v WDNEXTTAG hold adv
+sb v PREVBIGRAM ATI ZI
+sb v SURROUNDTAG ZD sb
+sb v SURROUNDTAG ZI sb
+sb v PREV2WD hvis
+sb v CURWD bekræftes
+sb v CURWD skændes
+sb v CURWD lurer
+adv adj NEXTWD Vildt
+adv adj RBIGRAM svært ,
+adv adj RBIGRAM kedeligt ,
+adv adj WDNEXTTAG enkelt v
+adv adj WDPREVTAG adv lettere
+adv adj NEXTBIGRAM sb konj
+sb v PREVBIGRAM sb adv
+adv adj CURWD sandsynligt
+adv adj CURWD nødvendigt
+adv adj WDAND2AFT lidt det
+adv adj WDAND2BFR er godt
+adv adj WDAND2TAGBFR ATI mere
+adj adv NEXTBIGRAM adj ZP
+adj adv PREVWD der
+adj adv RBIGRAM let ved
+adj adv RBIGRAM saadan som
+adj adv LBIGRAM ikke længere
+adj adv WDNEXTTAG tidligere ZD
+adj adv WDNEXTTAG bedst sb
+adj adv WDNEXTTAG smaa num
+adj adv PREVBIGRAM konj sb
+adj adv PREVBIGRAM adv ZD
+adj adv CURWD nok
+adj adv WDAND2TAGAFT bedre adv
+adj adv WDAND2TAGAFT lidt sb
+sb adj SURROUNDTAG adv sb
+præp adv NEXTWD igen
+præp adv LBIGRAM følge med
+præp adv LBIGRAM følger med
+præp adv LBIGRAM været for
+sb præt WDNEXTTAG opstaaet præp
+sb præt CURWD organiseret
+sb præt CURWD vaccineret
+sb adv PREVWD sig
+sb adv CURWD Underforstaaet
+sb adv CURWD individuelt
+adj sb PREVWD end
+propr v PREV1OR2WD kan
+sb propr NEXTBIGRAM propr præp
+adj sb PREVWD min
+adj sb NEXT1OR2WD Engelsk
+v sb NEXTWD hver
+adj sb NEXTBIGRAM præp ATI
+v sb PREVWD hvor
+sb propr NEXTWD Produktion
+sb v PREVBIGRAM adv sb
+v sb RBIGRAM Skær .
+propr XF NEXTTAG XF
+propr XF NEXT1OR2WD in
+adj XF PREV1OR2OR3TAG XF
+adj v NEXTWD sig
+propr XF PREV1OR2WD My
+adj v WDNEXTTAG kendte pron
+v adj PREVWD En
+adj v PREV1OR2WD mens
+v adj RBIGRAM sikre paa
+v adj WDNEXTTAG hele sb
+adj v WDAND2TAGBFR sb kendte
+adv præp NEXT1OR2TAG ubestpron
+v adj NEXT1OR2WD har
+sb XF NEXT1OR2WD Lynn
+adv præp RBIGRAM for at
+v part PREVWD mest
+v part WDPREVTAG pron dræbte
+adv v RBIGRAM saa ud
+propr v NEXTBIGRAM sb adv
+adv v LBIGRAM STAART Lav
+adv v SURROUNDTAG pron pron
+adj præt NEXTWD hinanden
+præt sb NEXTBIGRAM konj sb
+adv konj WDNEXTTAG saa sb
+konj adj PREVTAG præp
+v propr PREVBIGRAM v propr
+præp konj NEXTWD jeg
+v præt PREV1OR2WD blev
+præt adj WDNEXTTAG vellykket sb
+præp konj WDAND2TAGAFT For pron
+XF propr PREVTAG præp
+propr XF NEXT1OR2WD Will
+v propr NEXTBIGRAM propr ZI
+v adv WDNEXTTAG stille konj
+adj propr CURWD Royal
+v adv PREV1OR2WD sagde
+sb XS LBIGRAM STAART G
+sb XS WDPREVTAG num vind.
+præp v NEXTWD du
+præp v NEXT1OR2WD vi
+ubestpron num PREVTAG sb
+pron adv RBIGRAM der og
+konj adv PREVWD sgu
+ubestpron num WDPREVTAG præp anden
+ATI konj NEXT1OR2WD man
+adv sb PREVWD taler
+adv præt WDPREVTAG v vist
+XF sb PREV1OR2WD den
+konj v WDPREVTAG adv saa
+XF adj PREV1OR2WD er
+pron XF NEXTTAG XF
+adj pron WDNEXTTAG ens sb
+ubestpron adv PREVWD I
+præp pron PREVTAG konj
+ENDING v PREVTAG pron
+XF adv CURWD an
+pron præt PREVTAG v
+adv pron WDNEXTTAG Selv v
+adj konj WDPREVTAG sb nær
+sb propr NEXTWD Sofa
+propr sb PREV1OR2OR3TAG pron
+ATI konj PREV1OR2WD ,
+propr sb PREV1OR2OR3TAG sb
+propr sb PREV1OR2OR3TAG adj
+sb v NEXTTAG pron
+sb adj SURROUNDTAG pron sb
+propr sb NEXTTAG præp
+sb propr PREVTAG propr
+sb v PREVTAG ATI
+propr sb PREVTAG præp
+sb propr CURWD Danmark
+adv konj NEXTTAG pron
+præp konj NEXTBIGRAM pron v
+præp adv NEXTTAG præp
+sb propr SURROUNDTAG sb sb
+propr sb NEXTTAG ZH
+pron adv RBIGRAM selv om
+adv adj SURROUNDTAG pron sb
+adj adv NEXT1OR2TAG præt
+præp konj LBIGRAM selv om
+v sb NEXTWD som
+ATI konj NEXTTAG pron
+konj ATI NEXTTAG v
+adv præp NEXT1OR2TAG num
+sb v PREV1OR2WD skal
+sb propr CURWD Europa
+sb v PREVWD kan
+konj adv PREVTAG v
+adv adj SURROUNDTAG præp sb
+sb propr CURWD Danmarks
+propr sb SURROUNDTAG STAART v
+sb propr NEXT1OR2TAG ZA
+sb propr SURROUNDTAG sb propr
+sb propr PREVBIGRAM sb propr
+adj adv NEXTWD ved
+sb v PREVWD der
+adj adv NEXTTAG v
+adj adv NEXTTAG adv
+v præt PREV1OR2WD har
+sb propr RBIGRAM B .
+sb adj PREVBIGRAM adj konj
+sb v PREVWD kunne
+adv konj SURROUNDTAG ZD sb
+v ENDING PREVTAG ZA
+sb propr CURWD Aarhus
+propr sb PREV1OR2OR3TAG ATI
+v adj PREVTAG præp
+propr sb PREV1OR2TAG num
+XF v NEXT1OR2OR3TAG sb
+propr sb NEXTTAG ZH
+adv præp NEXTTAG sb
+præp adj NEXTTAG sb
+ubestpron adv NEXTWD for
+adv præp NEXTBIGRAM præp ZP
+sb interj WDAND2BFR STAART Nej
+sb propr PREV1OR2TAG XF
+propr XF NEXT1OR2OR3TAG XF
+sb propr CURWD Hafnia
+præp adv LBIGRAM alt for
+præp konj PREVWD Selv
+præp konj LBIGRAM , om
+interj sb PREV1OR2OR3TAG v
+sb propr CURWD Odense
+sb adj PREVWD saa
+v adj SURROUNDTAG pron sb
+konj adv WDPREVTAG pron da
+ubestpron adv PREVWD i
+propr sb PREVTAG adv
+sb adj PREVWD mere
+adj adv NEXTTAG adj
+præp adv WDNEXTTAG efter v
+sb præt PREVWD blev
+præp v WDAND2TAGAFT ved adv
+sb v SURROUNDTAG sb adv
+adv præp WDNEXTTAG paa præp
+præp pron NEXTTAG v
+sb propr NEXTBIGRAM konj propr
+sb propr CURWD SF
+sb adj PREVBIGRAM adj ZD
+sb adj SURROUNDTAG adv sb
+adj sb SURROUNDTAG præp pron
+propr XF PREVBIGRAM XF XF
+pron propr WDNEXTTAG Hans propr
+pron ENDING PREVTAG ZA
+sb propr CURWD Paris
+sb v PREVTAG ATI
+ATI konj NEXTTAG sb
+adj adv NEXTWD efter
+sb præt PREVWD blive
+propr v NEXTTAG pron
+adj v PREVWD der
+v adj PREV1OR2WD er
+adj v PREVTAG ATI
+sb propr WDNEXTTAG EF ZD
+sb propr NEXTBIGRAM sb ZI
+sb propr CURWD Hansen
+propr sb PREVTAG præt
+sb v PREV1OR2WD skulle
+sb v PREVBIGRAM sb adv
+adv adj WDNEXTTAG lidt sb
+adv adj WDNEXTTAG mere sb
+præp konj LBIGRAM som om
+sb propr CURWD Næstved
+propr sb PREVBIGRAM STAART v
+sb propr CURWD Danmark
+propr sb SURROUNDTAG STAART ZD
+sb adj PREVWD mest
+sb v PREVWD maa
+adj adv NEXTTAG adj
+sb præt PREVWD blevet
+v sb NEXTTAG v
+v sb NEXTWD Det
+adj sb NEXTTAG v
+sb XF NEXTTAG XF
+v præt PREV1OR2WD havde
+konj præp SURROUNDTAG sb sb
+ATI konj NEXTTAG sb
+præt adv PREVWD ganske
+præp sb NEXTTAG præp
+sb propr WDNEXTTAG Svend propr
+sb propr SURROUNDTAG propr ZI
+sb propr CURWD Moskva
+propr sb PREVTAG ubestpron
+propr sb PREV1OR2OR3TAG ZA
+adv adj RBIGRAM saadan en
+konj adv WDAND2TAGBFR pron før
+sb propr WDNEXTTAG FN v
+sb propr CURWD Silkeborg
+sb v NEXTTAG ubestpron
+adv adj NEXTBIGRAM konj num
+sb præt PREVWD bliver
+sb adv WDNEXTTAG Siden v
+adv præp NEXTTAG pron
+adv præp WDNEXTTAG for præp
+v præt WDAND2TAGAFT holdt præp
+XF propr PREV1OR2OR3TAG konj
+pron sb NEXTTAG ZH
+sb propr RBIGRAM EF .
+sb propr WDNEXTTAG EF v
+sb propr WDPREVTAG præp London
+sb propr WDPREVTAG præp Lyngby
+sb propr NEXTBIGRAM propr ZD
+sb propr CURWD Syrien
+sb adj CURWD flydende
+sb v PREVBIGRAM v konj
+sb v SURROUNDTAG adv propr
+adv adj SURROUNDTAG præp ZP
+adj adv NEXTTAG part
+adj adv PREVWD sig
+præp adv CURWD imellem
+v sb NEXTWD hver
+v sb PREV1OR2WD et
+v sb NEXTBIGRAM adv v
+v adj PREVBIGRAM præp pron
+adv præp RBIGRAM til i
+adv præp WDNEXTTAG i præp
+konj præp WDNEXTTAG indtil adv
+adv v PREVBIGRAM STAART pron
+pron adv WDPREVTAG konj selv
+adv v CURWD stille
+propr interj PREVWD —
+præt adv WDNEXTTAG vist adv
+adv pron WDNEXTTAG Selv v
+XS sb NEXTTAG ZH
+sb propr RBIGRAM G .
+sb propr WDNEXTTAG Berlingske sb
+sb propr PREVBIGRAM propr ZA
+sb propr CURWD Rom
+sb propr CURWD O
+sb propr CURWD Vejle
+sb propr WDAND2TAGBFR sb Bosnien
+propr sb NEXTTAG ZH
+propr sb PREVWD Københavns
+propr sb WDPREVTAG propr Stiftstidende
+propr sb PREVBIGRAM ZH konj
+sb adj PREVWD helt
+sb v PREVWD Det
+adv adj PREVWD lidt
+adj adv WDPREVTAG pron meget
+præp adv RBIGRAM af og
+propr v PREVBIGRAM pron sb
+v adj PREV1OR2WD Par
+sb adv LBIGRAM STAART Kort
+adj v PREVWD Jeg
+propr adj SURROUNDTAG ZI sb
+adj v PREVWD man
+præp konj WDNEXTTAG For adv
+sb XF PREV2TAG XF
+v part PREVBIGRAM præp pron
+konj adv NEXTTAG v
+v præt PREVWD have
+part v NEXTTAG pron
+præp v PREVBIGRAM STAART pron
+ATI konj NEXTTAG propr
+part adj PREVTAG ZH
+XF v NEXTTAG pron
+XF adj PREVTAG v
+interj sb PREV1OR2OR3TAG præp
+propr præp LBIGRAM STAART F
+XS propr NEXTWD .
+sb propr NEXTWD Kommune
+sb propr PREVWD Af
+sb propr RBIGRAM Cup -
+sb propr WDNEXTTAG CD v
+sb propr WDPREVTAG præp Kina
+sb propr WDPREVTAG præp Mellemøsten
+sb propr WDPREVTAG præp Esbjerg
+sb propr SURROUNDTAG ZD num
+sb propr CURWD Japan
+sb propr CURWD Bush
+sb propr CURWD Kim
+sb propr CURWD Interbank
+sb propr WDAND2BFR , Anne
+propr sb NEXTWD falder
+propr sb PREV1OR2WD hvis
+propr sb PREV1OR2WD have
+propr sb PREVBIGRAM konj v
+propr sb NEXTBIGRAM ZI pron
+sb adj PREVWD meget
+sb v SURROUNDTAG adv adv
+sb adj SURROUNDTAG adv ATI
+sb adj SURROUNDTAG pron propr
+sb adj CURWD smertestillende
+sb v PREVWD kunnet
+sb v PREVWD Vi
+sb v PREVWD Der
+adv adj PREVTAG ZH
+sb v PREVWD maatte
+adv adj RBIGRAM nemt at
+sb v WDNEXTTAG Brug sb
+adv adj RBIGRAM lidt af
+sb v SURROUNDTAG sb adj
+adv adj LBIGRAM ikke meget
+adv adj WDNEXTTAG mere præp
+sb v SURROUNDTAG ZD adv
+sb v PREV2WD naar
+adv adj PREV1OR2WD noget
+adj adv SURROUNDTAG pron adj
+sb v CURWD mislykkedes
+adv adj NEXT2WD naar
+adv adj WDAND2TAGBFR v haardt
+adj adv NEXTWD paa
+adj adv RBIGRAM tidligere .
+adj adv LBIGRAM eller mindre
+adj adv LBIGRAM helt klart
+adj adv WDNEXTTAG kort konj
+præp adv NEXTWD daarligt
+præp adv NEXTWD sent
+præp adv RBIGRAM for faa
+præp adv RBIGRAM for meget
+præp adv WDNEXTTAG igennem ZD
+adj sb PREVBIGRAM STAART adv
+v sb NEXTTAG v
+v sb NEXT1OR2WD var
+adv adj SURROUNDTAG STAART sb
+sb part CURWD delegerede
+adj v NEXTWD sig
+adj v PREV1OR2WD vil
+v adj PREVWD ganske
+v adj NEXTBIGRAM sb v
+sb XF PREVWD joint
+sb XF NEXTTAG XF
+præp konj NEXTWD han
+præp konj WDAND2TAGAFT For pron
+v sb PREVTAG præp
+sb XF SURROUNDTAG ZI propr
+adv præp WDPREVTAG sb til
+konj adv NEXTWD som
+v præt WDPREVTAG adv lykkedes
+konj adv RBIGRAM før ,
+adv konj LBIGRAM STAART For
+konj præp NEXT1OR2TAG num
+adv konj SURROUNDTAG ZD konj
+pron adv RBIGRAM der ,
+adv v RBIGRAM saa ud
+præp v RBIGRAM ved godt
+sb XS LBIGRAM / S
+præp v LBIGRAM jeg ved
+adv sb CURWD Bevis
+ubestpron num PREVTAG sb
+konj v PREVTAG propr
+ubestpron num PREV1OR2WD For
+konj v WDPREVTAG adv saa
+ENDING adv NEXTTAG ZP
+sb propr NEXTWD Teater
+sb propr NEXTWD Holding
+sb propr NEXTWD Sygehus
+sb propr PREVWD Politimester
+sb propr PREVWD Dr.
+sb propr PREVWD Kgs.
+sb propr PREVWD Byen
+sb propr PREVWD Mark
+sb propr PREVWD hedder
+sb propr RBIGRAM K .
+sb propr RBIGRAM PLO ,
+sb propr LBIGRAM af HIV
+sb propr LBIGRAM - Posten
+sb propr LBIGRAM STAART M
+sb propr WDNEXTTAG SAS v
+sb propr WDNEXTTAG Mark propr
+sb propr WDNEXTTAG EF adv
+sb propr WDNEXTTAG NATO v
+sb propr WDNEXTTAG Kgs. propr
+sb propr WDNEXTTAG EF konj
+sb propr WDNEXTTAG Danmarks sb
+sb propr WDPREVTAG præp Kabul
+sb propr WDPREVTAG præp Spies
+sb propr WDPREVTAG præp Østerbro
+sb propr WDPREVTAG præp Panama
+sb propr WDPREVTAG præp IOC
+sb propr WDPREVTAG præp Ørestaden
+sb propr PREV1OR2WD By
+sb propr PREV1OR2WD Larsen
+sb propr CURWD Sønderjylland
+sb propr CURWD GM
+sb propr CURWD Texas
+sb propr CURWD Chris
+sb propr CURWD DR
+sb propr CURWD Hamburg
+sb propr CURWD Vesteuropa
+sb propr CURWD Libyen
+sb propr CURWD Zagreb
+sb propr CURWD Lola
+sb propr CURWD UEFA
+sb propr CURWD Sovjetunionens
+sb propr CURWD Citroën
+sb propr WDAND2TAGBFR sb KTAS
+propr sb PREVWD Andersens
+propr sb PREVWD FNs
+propr sb PREVWD Danmarks
+propr sb NEXT1OR2WD blevet
+propr sb NEXT1OR2WD Poul
+propr sb NEXT1OR2WD OG
+propr sb PREV1OR2WD UEFA
+propr sb NEXT1OR2OR3TAG XS
+propr sb PREVBIGRAM sb adj
+propr sb CURWD Hotel
+sb adj LBIGRAM er beliggende
+sb adj CURWD tilbageholdende
+sb adj CURWD nødstedte
+sb adj CURWD anonym
+sb adj CURWD nærliggende
+sb v PREVWD skal
+v sb PREVBIGRAM v v
+sb v PREVWD kunne
+sb v PREVWD Han
+sb v PREVWD Hun
+sb v NEXT1OR2WD hen
+sb v PREV1OR2WD bør
+adv adj NEXTWD radikale
+sb v PREVBIGRAM adv konj
+v sb PREVWD om
+adv adj RBIGRAM tydeligt ,
+adv adj WDNEXTTAG meget sb
+adv adj WDNEXTTAG Saadan pron
+adv adj WDNEXTTAG fast sb
+adv adj WDNEXTTAG direkte sb
+sb v CURWD øges
+sb v CURWD sluttes
+adv adj SURROUNDTAG præp ZD
+adv adj NEXT2WD En
+adv adj CURWD afgørende
+adv adj CURWD smaa
+adv adj CURWD uheldigt
+adv adj WDAND2AFT mere et
+adj adv PREVWD der
+adj adv WDNEXTTAG fint præp
+adj adv WDPREVTAG v kraftigt
+adj adv WDPREVTAG sb bedre
+adj adv WDPREVTAG pron lidt
+adj adv NEXTBIGRAM num sb
+adj adv CURWD bare
+præp adv NEXTWD som
+præp adv NEXTWD hjem
+præp adv RBIGRAM for langt
+præp adv LBIGRAM paa langs
+præp adv LBIGRAM følge med
+præp adv LBIGRAM lidt for
+præp adv LBIGRAM Tøj paa
+præp adv LBIGRAM Gang til
+præp adv SURROUNDTAG propr ZP
+sb præt CURWD hævet
+sb præt CURWD lammet
+propr v NEXTBIGRAM adv præp
+propr v NEXT2TAG part
+adj sb NEXTBIGRAM ZD propr
+sb adv PREVWD der
+sb adv RBIGRAM etc .
+sb adv PREV2WD sagde
+v sb PREVWD som
+sb adv CURWD opad
+sb adv CURWD korrekt
+propr adj NEXTWD Ledelse
+adj v NEXT1OR2TAG ubestpron
+adj part WDNEXTTAG autoriserede sb
+adj v PREVWD kan
+propr XF PREVWD Black
+adj v PREVWD maa
+propr XF PREVBIGRAM ZD XF
+adj v WDNEXTTAG kendte pron
+propr XF WDAND2BFR STAART No
+adj v PREV1OR2WD han
+v adj PREVWD En
+sb XF NEXT2WD A
+præp konj LBIGRAM , for
+konj præp NEXT1OR2WD at
+konj præp NEXTWD Eksempel
+konj præp NEXT1OR2WD ,
+sb XF PREV1OR2OR3TAG XF
+adv præp NEXTWD at
+adv præp WDPREVTAG adv ved
+v propr PREVBIGRAM v propr
+adv præp NEXT1OR2WD alt
+adv præp NEXTBIGRAM adv adj
+v præt PREVWD har
+konj adv NEXTWD .
+konj adv PREVWD om
+adj præt WDAND2TAGAFT kendt konj
+adv konj NEXTTAG ubestpron
+konj adv RBIGRAM end ikke
+præp konj WDAND2AFT om skal
+adv konj NEXTTAG propr
+konj adv LBIGRAM , hvori
+adv v RBIGRAM saa paa
+konj adv WDNEXTTAG saa adj
+part v WDNEXTTAG lande præp
+pron adv RBIGRAM der og
+pron adv LBIGRAM — selv
+adv sb PREVWD taler
+sb XS LBIGRAM STAART G
+præp v WDAND2AFT Ved hvad
+sb XS WDPREVTAG ZD C
+præt sb NEXTTAG præt
+ubestpron num PREVWD i
+sb pron WDNEXTTAG I præp
+propr XS PREV1OR2TAG XS
+konj pron NEXTBIGRAM sb pron
+pron propr SURROUNDTAG propr sb
+konj v PREVTAG pron
+v adv WDAND2TAGBFR v saa
+propr XS WDPREVTAG ZD B
+pron XF NEXTTAG XF
+konj v PREVWD ikke
+XF v NEXT1OR2TAG adv
+XF adj PREV1OR2WD til
+præp pron PREV2TAG ZD
+sb v SURROUNDTAG ZD pron
+v præp WDNEXTTAG ved sb
+pron adj PREVTAG adv
+ENDING v PREVTAG pron
+sb propr NEXTWD mødtes
