@@ -1,0 +1,30 @@
+:np
+  determ = PRON_DEMO | PRON_UBST | PRON_INTER_REL ;
+  attr = ADJ | FORK | UL | FORK SYMBOL | FORK ADJ | NUM | NUM_ORD | V_PARTC_PAST | V_PARTC_PRES;
+  gen = N_GEN | EGEN_GEN | ADJ_GEN | PRON_POSS |
+  	PRON_DEMO_GEN | PRON_UBST_GEN | NUM_GEN |PRON_REC_GEN | PRON_INTER_REL_GEN;
+
+  DP =  FORK? determ+ | determ SKONJ determ | gen SKONJ* gen* ;
+  AP =  attr+|ADV? ADJ+ |ADV? attr TEGN ADV? attr|ADV? attr TEGN? ADV? attr? SKONJ ADV? attr ADV? attr?;
+  NP_G = DP AP* gen | DP* AP gen | EGEN gen;
+
+
+  kerne = N | EGEN+ | NUM | UL | FORK| XX SKONJ N ; 
+  NP ->  ADJ? DP? AP? kerne | ADJ? NP_G? AP? kerne| PRON_DEMO attr | NUM N N | PRON_UBST ADJ? N N | N EGEN+;
+
+  
+:np1
+  PP = PRÆP NP;
+  
+  NP1 -> NP PP;
+  
+
+:np2
+  PP = PRÆP NP;
+  
+  NP2 -> NP1 PP;
+
+
+
+
+
