@@ -14,9 +14,11 @@ The list below is ordered according to language and tool.
 
 de, en, nl
 
-## MULTEXT-East free lexicons 4.0
+### MULTEXT-East free lexicons 4.0
 
-## MULTEXT-East non-commercial lexicons 4.0
+### MULTEXT-East non-commercial lexicons 4.0
+
+## Sources per language
 
 ## bg Bulgarian
 ### lemmatiser
