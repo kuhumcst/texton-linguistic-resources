@@ -70,7 +70,7 @@ Controlled Language Checker. In *Proceedings of the
 8th Panhellenic Conference on Informatics (PCI’01)*,
 PCI’01, pages 80–89, November 8–10.
 
-**Cite**: *Petasis, G., Karkaletsis, V., Farmakiotou, D., Androutsopoulos,
+**Cite**: Petasis, G., Karkaletsis, V., Farmakiotou, D., Androutsopoulos,
 I., and Spyropoulos, C. D. (2003). A
 Greek Morphological Lexicon and Its Exploitation by
 Natural Language Processing Applications. In Yannis
@@ -106,10 +106,15 @@ https://github.com/estnltk/suffix-lemmatizer.
   
 ## fr French
 ### lemmatiser
-*Boris New and Christophe Pallier. (2005). Une Base de Données Lexicales Libre.*
+
+
+
+**Cite**: *Boris New and Christophe Pallier. (2005). Une Base de Données Lexicales Libre.*
+
 **Link**: [www.lexique.org](http://www.lexique.org/)
 
 *Limsi*
+
 **Link**: https://perso.limsi.fr/anne/OLDlexique.txt
 
 ## hu Hungarian
