@@ -31,6 +31,10 @@ The list below is ordered according to language and tool.
 
 ## Sources per language
 
+## af Afrikaans
+### lemmatiser
+**Link**: https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms
+
 ## bg Bulgarian
 ### lemmatiser
 *MULTEXT-East free lexicons 4.0*
@@ -122,6 +126,14 @@ https://github.com/estnltk/suffix-lemmatizer.
 *Limsi*
 
 **Link**: https://perso.limsi.fr/anne/OLDlexique.txt
+
+## hr Croatian
+### lemmatiser
+*The SETimes.HR+ Croatian dependency treebank*
+
+**Link**: http://nlp.ffzg.hr/
+
+**Link**: https://github.com/ffnlp/sethr
 
 ## hu Hungarian
 ### lemmatiser
