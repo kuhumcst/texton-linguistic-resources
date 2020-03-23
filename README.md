@@ -82,8 +82,14 @@ Science*, pages 401–419. Springer Berlin / Heidelberg.
 **Link**: https://www.ellogon.org/petasis/
 
 ## en English
+
 ### lemmatiser
 *CELEX*
+
+### Brill-tagger
+
+**Cite**:Eric Brill. 1992. A simple rule-based part of speech tagger. In *Proceedings of the third conference on Applied natural language processing (ANLC '92)*.
+Association for Computational Linguistics, Stroudsburg, PA, USA, 152-155. doi:10.3115/974499.974526
 
 ## es Spanish
 ### lemmatiser
@@ -127,9 +133,7 @@ https://github.com/estnltk/suffix-lemmatizer.
 
 **Link**: http://malfong.is/?pg=ordtidnibok
 
-**Cite**: *Jörgen Pind and Fririk Magnússon and Stefán Briem.
-(1991). IFD. the Icelandic Centre for Language Technology
-IFD.*
+**Cite**: *Jörgen Pind and Fririk Magnússon and Stefán Briem. (1991). IFD. the Icelandic Centre for Language Technology IFD.*
 
 ## it Italian
 ### lemmatiser
@@ -144,7 +148,7 @@ IFD.*
 **Licence**: Dual-licensed free software; you can redistribute it and/or modify it under the terms of the under the Creative Commons Attribution ShareAlike 2.0 License and the GNU Lesser General Public License. 
 
 ## la Latin
-### lemmatiser
+### lemmatiser, tagger
 *James Artz and Calliopi Dourou and J. F. Gentile and
 Kenny Hickman and Alex Lessie and Viet Luong and
 Meg Luthin and Molly Miller and Robin Ngo and Skylar
@@ -207,8 +211,7 @@ and Sergey Bochenkov. (2011). libturglem.*
 
 ## sv Swedish
 ### lemmatiser
-**Cite**: Språkrådet. (2007). Lexin. Institutet för språk och folkminnen
-and Kungliga Tekniska högskolan. 
+**Cite**: Språkrådet. (2007). Lexin. Institutet för språk och folkminnen and Kungliga Tekniska högskolan. 
 
 **Licence**: CC-BY (attribution)
 
