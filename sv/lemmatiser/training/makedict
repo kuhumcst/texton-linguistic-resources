@@ -1,0 +1,1 @@
+/opt/texton/bin/cstlemma -D -eU -y- -k -cFB? -i swedishroottable_suc2.sort -o ../notags/dict
