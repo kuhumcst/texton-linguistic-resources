@@ -46,7 +46,7 @@ while(<CITY>) {
 } end while
 close (CITY);
 
-open (COUNTRY,"contrynames") || die "Cannot open:  contrynames";
+open (COUNTRY,"countrynames") || die "Cannot open:  contrynames";
 while(<COUNTRY>) {
     @toks = split;
     $country{"$toks[0]"} = 1;
@@ -81,7 +81,12 @@ while(<STREET>) {
 } end while
 close (STREET);
 
-
+open (ORG,"organisation") || die "Cannot open: organisation";
+while(<ORG>) {
+    @toks = split;
+    $org{"$toks[0]"} = 1;
+} end while
+close (ORG);
 
 
 #-------------------------------------------------------------------------------
@@ -259,6 +264,10 @@ for($i=0; $i < @toks; $i++) {
       elsif($island{"$tmp"}){
            @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_ISLAND/g;
       }
+#--- ORG NAME
+      elsif($org{"$tmp"}){
+           @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_ORG/g;
+      }
 
 #-------------------------------------------------------------------------------
 # Without final -s
@@ -294,7 +303,10 @@ for($i=0; $i < @toks; $i++) {
       elsif($island{"$tmp"}){
            @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_ISLAND/g;
       }
-
+#--- ORG
+      elsif($org{"$tmp"}){
+           @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_ORG/g;
+      }
       else{
         $tmp = $oldtmp;
       }
@@ -568,7 +580,7 @@ for($i=0; $i < @toks; $i++) {
         $tok =~ s/NAME_COUNTRY/NAME_country/g;
         $certain = "1";
       } 
-	    elsif($tok =~ /NAME_COMP$/){
+	  elsif($tok =~ /NAME_COMP$/){
         $tok =~ s/NAME_COMP/NAME_organisation/g;  
         $certain = "1";
       }
@@ -585,6 +597,10 @@ for($i=0; $i < @toks; $i++) {
         $tok =~ s/NAME_ISLAND/NAME_place/;
         $certain = "1";
       } 
+	  elsif($tok =~ /NAME_ORG/){
+        $tok =~ s/NAME_ORG/NAME_organisation/g;  
+        $certain = "1";
+      }
       elsif($tok =~ /\/NAME_SING/){
         $tok =~ s/\/NAME_SING//
       }       
