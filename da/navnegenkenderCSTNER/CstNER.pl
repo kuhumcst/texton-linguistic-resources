@@ -46,7 +46,7 @@ while(<CITY>) {
 } end while
 close (CITY);
 
-open (COUNTRY,"countrynames") || die "Cannot open:  contrynames";
+open (COUNTRY,"countrynames") || die "Cannot open:  countrynames";
 while(<COUNTRY>) {
     @toks = split;
     $country{"$toks[0]"} = 1;
@@ -81,7 +81,7 @@ while(<STREET>) {
 } end while
 close (STREET);
 
-open (ORG,"organisation") || die "Cannot open: organisation";
+open (ORG,"organization") || die "Cannot open: organization";
 while(<ORG>) {
     @toks = split;
     $org{"$toks[0]"} = 1;
@@ -126,7 +126,8 @@ foreach $linie(@document_lines){
 
 
 #--- Paragraph initial words -> NAME_INIT
-  $linie =~ s/([\:\.][\s\t]+)([\p{Lu}]+[\p{L}\d\-\&]*)/$1$2\/\*INIT\*/g;
+#  $linie =~ s/([\:\.][\s\t]+)([\p{Lu}]+[\p{L}\d\-\&]*)/$1$2\/\*INIT\*/g;
+
 
 #--- Other uppercase NAME_CAND
   $linie =~ s/([\"\”\'\(\[])(\p{Lu})/$1 $2/g;                                 
@@ -322,7 +323,7 @@ for($i=0; $i < @toks; $i++) {
     @toks[$i] =~ s/NAME_CAND/NAME_MISC/g;
     
 #------------------------------------------------------------------------ 
-#	Unite tokens with name  tags
+#	Unite tokens with name tags
 #------------------------------------------------------------------------   
 
 
@@ -347,7 +348,7 @@ for($i=0; $i < @toks; $i++) {
       }
     } 
 
- 
+
    if(@toks[$i] =~ /^[A-ZÆØÅ]+[\-\d\wA-ZÆØÅ]+\/NAME_MISC$/){	
         if(@toks[$i-2] =~ /[Ff]orhold/){
           @toks[$i] =~ s/\/NAME_MISC//g;  
@@ -355,7 +356,7 @@ for($i=0; $i < @toks; $i++) {
     }
   
     if(@toks[$i] =~ /\/NAME\_[A-Z\_]+/){   
-      if(($i > 1)&& (@toks[$i-2] =~ /\/NAME\_[A-Z\_]+$/)){ 			
+      if(($i > 1)&& (@toks[$i-2] =~ /\/NAME\_[A-Z\_]+$/)){ 	  
         @toks[$i] = "@toks[$i-2] @toks[$i]";
         @toks[$i] =~ s/(.+)(\/NAME[A-Z\_]+) (.+)(\/NAME.+)/$1 $3$2$4/g; 
         @toks[$i] =~ s/(\/NAME_COMP)(\/NAME_[\_A-Z\/]*)/$1/g;
@@ -427,6 +428,34 @@ for($i=0; $i < @toks; $i++) {
         @toks[$i-1]  ="";
         @toks[$i-2]  ="";
       }
+#------------------------------------------------------------------------ 
+#	 Parties
+#------------------------------------------------------------------------   
+	  
+       if((@toks[$i] =~/Konservative/)||
+	      (@toks[$i] =~/Liberal Alliance/)||
+		  (@toks[$i] =~/Radikale Venstre/)||
+		  (@toks[$i] =~/Nye Borgerlige/)||
+		  (@toks[$i] =~/Nunatta Qitornai/)||
+		  (@toks[$i] =~/Inuit Ataqatigii/)||
+		  (@toks[$i] =~/Folkeparti/)){	
+            @toks[$i] =~ s/MISC/ORG/;
+		}
+#------------------------------------------------------------------------ 
+#	 Organisations
+#------------------------------------------------------------------------   
+
+       if((@toks[$i] =~/Universitet/)||
+	      (@toks[$i] =~/fonden/)||
+		  (@toks[$i] =~/forening/)||
+		  (@toks[$i] =~/styrelsen/)||
+	      (@toks[$i] =~/ministeriet/)||
+		  (@toks[$i] =~/Arktisk Råd/)||
+		  (@toks[$i] =~/Nordisk Atlantsamarbejde/)||
+		  (@toks[$i] =~/Nordisk Ministerråd/)||
+		  (@toks[$i] =~/Nordisk Råd/)){	
+            @toks[$i] =~ s/MISC/ORG/;
+		}
 #------------------------------------------------------------------------ 
 #	 Look on the subsequent words
 #------------------------------------------------------------------------   
@@ -528,7 +557,9 @@ for($i=0; $i < @toks; $i++) {
       $tok =~ s/(.+)(\/NAME[\_\/A-Z]+) (.+)(\/NAME[\_\/A-Z]+)/$1 $3$2$4/;
 
     #--------------------------------
-        
+ 
+
+	  
     if($tok =~ /\/NAME_PERS_FIRST/){	
         $tok =~ s/PERS_FIRST/person/;
         $certain = "2";
@@ -598,7 +629,7 @@ for($i=0; $i < @toks; $i++) {
         $certain = "1";
       } 
 	  elsif($tok =~ /NAME_ORG/){
-        $tok =~ s/NAME_ORG/NAME_organisation/g;  
+        $tok =~ s/NAME_ORG/NAME_organization/g;  
         $certain = "1";
       }
       elsif($tok =~ /\/NAME_SING/){
@@ -611,7 +642,7 @@ for($i=0; $i < @toks; $i++) {
 
 
      if($name =~/\/NAME_COMP/){
-       $cat = "organisation";
+       $cat = "organization";
        $certain = "1";
        $name =~ s/\/NAME_COMP//;
      }
