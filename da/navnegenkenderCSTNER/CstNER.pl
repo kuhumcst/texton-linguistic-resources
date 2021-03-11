@@ -268,7 +268,9 @@ for($i=0; $i < @toks; $i++) {
 #--- ORG NAME
       elsif($org{"$tmp"}){
            @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_ORG/g;
+		   @toks[$i] =~ s/(\p{Lu}+)\/NAME_[INITCAND]+/$1\/NAME_ORG/g;
       }
+	       
 
 #-------------------------------------------------------------------------------
 # Without final -s
@@ -314,6 +316,7 @@ for($i=0; $i < @toks; $i++) {
     }
 
    } 
+   
 
 #--- MISC_NAME if not on lists
     @toks[$i] =~ s/\/IGNORE_NAME_INIT//g;
@@ -321,6 +324,8 @@ for($i=0; $i < @toks; $i++) {
     @toks[$i] =~ s/\/NO_NAME_INIT//g;
     @toks[$i] =~ s/NAME_INIT/NAME_MISC_INIT/g;
     @toks[$i] =~ s/NAME_CAND/NAME_MISC/g;
+	
+	
     
 #------------------------------------------------------------------------ 
 #	Unite tokens with name tags
@@ -423,11 +428,26 @@ for($i=0; $i < @toks; $i++) {
         @toks[$i-3]  ="";
         @toks[$i-4]  ="";
       }
-      elsif(@toks[$i-2] =~ /De[nt]?/){
+	  elsif(@toks[$i-2] =~ /De[nt]?/){
         @toks[$i] = "@toks[$i-2] @toks[$i]";
         @toks[$i-1]  ="";
         @toks[$i-2]  ="";
       }
+	  elsif(@toks[$i-2] =~ /Nye?/){
+	    if(@toks[$i-4] =~ /De[nt]?/){  # Det Ny Teater
+		  @toks[$i] = "@toks[$i-4] @toks[$i-2] @toks[$i]";
+		  @toks[$i-1]  ="";
+          @toks[$i-2]  ="";
+		  @toks[$i-3]  ="";
+          @toks[$i-4]  ="";
+		}
+		else{
+          @toks[$i] = "@toks[$i-2] @toks[$i]"; 
+          @toks[$i-1]  ="";
+          @toks[$i-2]  ="";
+		}  
+      }
+
 #------------------------------------------------------------------------ 
 #	 Parties
 #------------------------------------------------------------------------   
@@ -546,8 +566,9 @@ for($i=0; $i < @toks; $i++) {
 #	  OUTPUT
 #------------------------------------------------------------------------ 
     foreach $tok(@toks){
+	
       $tok =~ s/\/NAME_VEJ//;
-      $tok =~ s/^(\p{Lu})\/NAME_.+$/$1/;  
+      $tok =~ s/^(\p{Lu})\/NAME_[CANDMISCINIT_]*$/$1/;  #eneklt store bogstaver der ikke er på listerne slippes
       $tok =~ s/\=/ /g;
       
       $tok =~ s/\*s\*/ /g;
@@ -558,7 +579,6 @@ for($i=0; $i < @toks; $i++) {
 
     #--------------------------------
  
-
 	  
     if($tok =~ /\/NAME_PERS_FIRST/){	
         $tok =~ s/PERS_FIRST/person/;
