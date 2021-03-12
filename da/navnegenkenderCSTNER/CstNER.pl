@@ -653,7 +653,8 @@ for($i=0; $i < @toks; $i++) {
         $certain = "1";
       }
       elsif($tok =~ /\/NAME_SING/){
-        $tok =~ s/\/NAME_SING//
+        $tok =~ s/\/NAME_SING\/NAME_SING//;
+        $tok =~ s/\/NAME_SING//;
       }       
 
      $cat = $tok;
