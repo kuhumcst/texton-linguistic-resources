@@ -632,7 +632,7 @@ for($i=0; $i < @toks; $i++) {
         $certain = "1";
       } 
 	  elsif($tok =~ /NAME_COMP$/){
-        $tok =~ s/NAME_COMP/NAME_organisation/g;  
+        $tok =~ s/NAME_COMP/NAME_organization/g;  
         $certain = "1";
       }
       elsif($tok =~ /\/NAME_STREET/){
