@@ -360,8 +360,8 @@ for($i=0; $i < @toks; $i++) {
  
     if(@toks[$i] =~ /\/NAME\_[A-Z\_]+/){  	
       unless(((@toks[$i-2] =~ /\/NAME\_ORG/)&&(@toks[$i] =~ /\/NAME\_PERS/))||
-	       ((@toks[$i-2] =~ /\/NAME\_PERS/)&&(@toks[$i] =~ /\/NAME\_ORG/))||
-		   ((@toks[$i-2] =~ /\/NAME\_ORG/)&&(@toks[$i] =~ /\/NAME\_ORG/))){
+	  	     ((@toks[$i-2] =~ /\/NAME\_PERS/)&&(@toks[$i] =~ /\/NAME\_ORG/))){
+
       if(($i > 1)&& (@toks[$i-2] =~ /\/NAME\_[A-Z\_]+$/)){ 	  # 2 NAMES samles til ét
         @toks[$i] = "@toks[$i-2] @toks[$i]";
         @toks[$i] =~ s/(\/NAME_ORG)\/NAME_ORG/$1/g;		
