@@ -233,7 +233,6 @@ for($i=0; $i < @toks; $i++) {
       else{
         $tmp = $oldtmp;
       }
- 
 #-------------------------------------------------------------------------------
 #	LISTS OF NAMES
 #-------------------------------------------------------------------------------
@@ -271,7 +270,6 @@ for($i=0; $i < @toks; $i++) {
 		   @toks[$i] =~ s/(\p{Lu}+)\/NAME_[INITCAND]+/$1\/NAME_ORG/g;
       }
 	       
-
 #-------------------------------------------------------------------------------
 # Without final -s
 #-------------------------------------------------------------------------------
@@ -280,7 +278,8 @@ for($i=0; $i < @toks; $i++) {
       $oldtmp = $tmp;
       $tmp =~ s/s$//;
 #--- PERS_NAME = FNAME or SNAME
-    if($fname{"$tmp"}){
+ 
+   if($fname{"$tmp"}){
           @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_PERS_FIRST/g;
     }
     elsif($sname{"$tmp"}){
@@ -325,7 +324,6 @@ for($i=0; $i < @toks; $i++) {
     @toks[$i] =~ s/NAME_INIT/NAME_MISC_INIT/g;
     @toks[$i] =~ s/NAME_CAND/NAME_MISC/g;
 	
-	
     
 #------------------------------------------------------------------------ 
 #	Unite tokens with name tags
@@ -359,11 +357,16 @@ for($i=0; $i < @toks; $i++) {
           @toks[$i] =~ s/\/NAME_MISC//g;  
         }    
     }
-  
-    if(@toks[$i] =~ /\/NAME\_[A-Z\_]+/){   
-      if(($i > 1)&& (@toks[$i-2] =~ /\/NAME\_[A-Z\_]+$/)){ 	  
+ 
+    if(@toks[$i] =~ /\/NAME\_[A-Z\_]+/){  	
+      unless(((@toks[$i-2] =~ /\/NAME\_ORG/)&&(@toks[$i] =~ /\/NAME\_PERS/))||
+	       ((@toks[$i-2] =~ /\/NAME\_PERS/)&&(@toks[$i] =~ /\/NAME\_ORG/))||
+		   ((@toks[$i-2] =~ /\/NAME\_ORG/)&&(@toks[$i] =~ /\/NAME\_ORG/))){
+      if(($i > 1)&& (@toks[$i-2] =~ /\/NAME\_[A-Z\_]+$/)){ 	  # 2 NAMES samles til ét
         @toks[$i] = "@toks[$i-2] @toks[$i]";
+        @toks[$i] =~ s/(\/NAME_ORG)\/NAME_ORG/$1/g;		
         @toks[$i] =~ s/(.+)(\/NAME[A-Z\_]+) (.+)(\/NAME.+)/$1 $3$2$4/g; 
+        @toks[$i] =~ s/(.+) (.+)(\/NAME_ORG)(\/NAME_PERS.+)/$1$3 $2$4/g; # org og pers skilles igen		
         @toks[$i] =~ s/(\/NAME_COMP)(\/NAME_[\_A-Z\/]*)/$1/g;
         @toks[$i] =~ s/NAME_SING\/NAME_MISC[\_INT]*/NAME_PERS_MAYBE/g; 
         @toks[$i] =~ s/(\/NAME_PERS_MAYBE)(\/NAME_PERS)_LAST/$2/g;
@@ -389,13 +392,14 @@ for($i=0; $i < @toks; $i++) {
         @toks[$i] =~ s/\/NAME_MISC[\_INIT]*(\/NAME_CITY[\_DKUL]+)/$1/g;
         @toks[$i-2]  ="";
         @toks[$i-1]  ="";
-      } 
+       } 
+	  } #unless
 
 #------------------------------------------------------------------------ 
 #	      Look at the preceding word
 #------------------------------------------------------------------------   
 
-      elsif((@toks[$i-2] =~ /&amp;/) && (@toks[$i-4] =~  /\/NAME\_[A-Z\_]+/)){	
+      if((@toks[$i-2] =~ /&amp;/) && (@toks[$i-4] =~  /\/NAME\_[A-Z\_]+/)){	
         @toks[$i] = "@toks[$i-4] @toks[$i-2] @toks[$i]";
         @toks[$i] =~ s/\/NAME_[A-Z\_\/]+ &amp; / &amp; /g;
         @toks[$i-1]  ="";
@@ -428,7 +432,7 @@ for($i=0; $i < @toks; $i++) {
         @toks[$i-3]  ="";
         @toks[$i-4]  ="";
       }
-	  elsif(@toks[$i-2] =~ /De[nt]?/){
+	  elsif(@toks[$i-2] =~ /De[nt]?/){	  
         @toks[$i] = "@toks[$i-2] @toks[$i]";
         @toks[$i-1]  ="";
         @toks[$i-2]  ="";
@@ -448,6 +452,7 @@ for($i=0; $i < @toks; $i++) {
 		}  
       }
 
+
 #------------------------------------------------------------------------ 
 #	 Parties
 #------------------------------------------------------------------------   
@@ -456,6 +461,7 @@ for($i=0; $i < @toks; $i++) {
 	      (@toks[$i] =~/Liberal Alliance/)||
 		  (@toks[$i] =~/Radikale Venstre/)||
 		  (@toks[$i] =~/Nye Borgerlige/)||
+		  (@toks[$i] =~/Borgerlige/)||
 		  (@toks[$i] =~/Nunatta Qitornai/)||
 		  (@toks[$i] =~/Inuit Ataqatigii/)||
 		  (@toks[$i] =~/Folkeparti/)){	
@@ -513,8 +519,8 @@ for($i=0; $i < @toks; $i++) {
     @toks[$i] =~ s/([Rr]estaurant)\/NAME[\_A-Z]+/$1\/NAME_COMP/;
     @toks[$i] =~ s/([Cc]af[ée])\/NAME[\_A-Z]+/$1\/NAME_COMP/;
     @toks[$i] =~ s/([Pp]izzeria)\/NAME[\_A-Z]+/$1\/NAME_COMP/;
-                
     } # if NAME
+
 
 #------------------------------------------------------------------------ 
 #	ADRESSES
@@ -566,7 +572,6 @@ for($i=0; $i < @toks; $i++) {
 #	  OUTPUT
 #------------------------------------------------------------------------ 
     foreach $tok(@toks){
-	
       $tok =~ s/\/NAME_VEJ//;
       $tok =~ s/^(\p{Lu})\/NAME_[CANDMISCINIT_]*$/$1/;  #eneklt store bogstaver der ikke er på listerne slippes
       $tok =~ s/\=/ /g;
@@ -575,7 +580,9 @@ for($i=0; $i < @toks; $i++) {
       $tok =~ s/\*t\*/\t/g;
       $tok =~ s/\*n\*/\n/g;
       $tok =~ s/\*r\*//g;
-      $tok =~ s/(.+)(\/NAME[\_\/A-Z]+) (.+)(\/NAME[\_\/A-Z]+)/$1 $3$2$4/;
+      unless(($tok =~ /NAME_ORG.+NAME_PERS/)||($tok =~ /NAME_ORG.+NAME_ORG/)||($tok =~ /NAME_NAME.+NAME_ORG/)){ # ORG og PERS samles ikke
+        $tok =~ s/(.+)(\/NAME[\_\/A-Z]+) (.+)(\/NAME[\_\/A-Z]+)/$1 $3$2$4/;
+	  }
 
     #--------------------------------
  
@@ -651,25 +658,24 @@ for($i=0; $i < @toks; $i++) {
 	  elsif($tok =~ /NAME_ORG/){
         $tok =~ s/NAME_ORG/NAME_organization/g;  
         $certain = "1";
+
       }
       elsif($tok =~ /\/NAME_SING/){
         $tok =~ s/\/NAME_SING\/NAME_SING//;
         $tok =~ s/\/NAME_SING//;
       }       
-
      $cat = $tok;
      $name = $tok;
      
-
 
      if($name =~/\/NAME_COMP/){
        $cat = "organization";
        $certain = "1";
        $name =~ s/\/NAME_COMP//;
      }
-     
-     
+          
        $name =~ s/\/NAME_.+//;
+
  #-------------------------------------------------    
      $cat =~ s/(.+)\/N[AMEUM]+\_([a-z\-]+)(.)*/$2/;
      $cat =~ s/\/NAME.+//;
@@ -686,7 +692,7 @@ for($i=0; $i < @toks; $i++) {
      else {if($certain eq 2) {$certain = "likely";}
      else                   {$certain = "uncertain";}}
      $tok =~ s/(.+\/NAME[A-Za-z\-\_]+)([\,\.\?\)\]\:\;\!\"\']*)/\[$name,$cat,$certain\]$2/g;
-       
+      
 #------------------------------------------------------------------------ 
 #	    Print options
 #------------------------------------------------------------------------       
