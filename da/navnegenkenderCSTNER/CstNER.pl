@@ -115,7 +115,6 @@ $flag = "stop";
 foreach $linie(@document_lines){
   $linie  =~ s/\/(\p{Lu}+\p{Ll}+)/\/ $1/;     
 
-
                         
 #--- Sentence initial words
   $linie =~ s/^([\"\”\'\(\[])([\p{Lu}]+[\p{L}\d\-\/\&\/]*)/$1 $2\/\*INIT\*/g;  		
@@ -133,7 +132,8 @@ foreach $linie(@document_lines){
   $linie =~ s/([\"\”\'\(\[])(\p{Lu})/$1 $2/g;                                 
   $linie =~ s/([\p{Lu}]+[\p{L}\d\-\&\.\'\´]*)([\"\”\)\]\,\;\:\!\?]+)/$1 $2/g;	
   $linie =~ s/([\p{Lu}]+[\p{L}\d\-\&]*)([\s\t\'\´\.]+)/$1\/NAME_CAND$2/g;  	
-                                                                            
+ 
+
 
 # -- \d\-\&\.\w -> i NAME_CAND last
   $linie =~ s/(\/NAME_CAND)([\p{L}\d\-\&\.]+)([\p{L}\d\-\&\.]+)/$2$3/g;
@@ -143,11 +143,14 @@ foreach $linie(@document_lines){
   $linie =~ s/\*INIT\*/NAME_INIT/g;
   $linie =~ s/NAME_INIT\/NAME_INIT/NAME_INIT/g;
 
-#--- X. -> NAME_SING
-  $linie =~ s/[\s\t](\p{Lu})[\/NAMEINITCAND\_]+\./ $1\.\/NAME_SING/g;
-  $linie =~ s/^(\p{Lu})[\/NAMEINITCAND\_]+\./ $1\.\/NAME_SING/g;
+# --- X. -> NAME_SING
+  $linie =~ s/[\s\t](\p{Lu})\/NAME_CAND\./ $1\.\/NAME_SING/g;
+  $linie =~ s/[\s\t](\p{Lu})\/NAME_INIT\./ $1\.\/NAME_SING/g;
+  $linie =~ s/^(\p{Lu})\/NAME_CAND\./ $1\.\/NAME_SING/g;
+  $linie =~ s/^(\p{Lu})\/NAME_INIT\./ $1\.\/NAME_SING/g;
 
-  
+
+ 
 # --- Street no.
   $linie  =~ s/(\d+) ([A-Z])\/NAME_CAND \, ([st\.\d]*) ([Tt]h\.*)/$1\=$2\=\,\=$3\=$4\/gadenr/g;
   $linie  =~ s/(\d+) ([A-Z])\/NAME_CAND\, ([st\.\d]*) ([Tt]h\.*)/$1\=$2\,\=$3\=$4\/STREETNO/g;
@@ -173,7 +176,7 @@ foreach $linie(@document_lines){
 
 
 for($i=0; $i < @toks; $i++) {
-  unless(@toks[$i] =~ /\*[nrst]\*/){      
+  unless(@toks[$i] =~ /\*[nrst]\*/){   
     $tmp = @toks[$i];
     $tmp =~ s/(.+)(\/NAME_INIT).*/$1/g;  
     $tmp =~ s/(.+)(\/NAME_CAND).*/$1/g;   
@@ -237,6 +240,7 @@ for($i=0; $i < @toks; $i++) {
 #	LISTS OF NAMES
 #-------------------------------------------------------------------------------
   if(@toks[$i]=~ /\/NAME/){
+  
 #--- PERS_NAME = FNAME or SNAME
     if($fname{"$tmp"}){
           @toks[$i] =~ s/([\p{Lu}]+[\p{L}\d\-\'\.\/\&\/]+)(\/NAME_[INITCAND]+)/$1\/NAME_PERS_FIRST/g;
@@ -315,7 +319,9 @@ for($i=0; $i < @toks; $i++) {
     }
 
    } 
-   
+ # --- XYZ organizations
+  @toks[$i] =~ s/(\p{Lu}+s?)\/NAME_CAND(\'?s?)/$1$2\/NAME_ORG_MAYBE/g;
+  @toks[$i] =~ s/(\p{Lu}+s?)\/NAME_INIT(\'?s?)/$1$2\/NAME_ORG_MAYBE/g;
 
 #--- MISC_NAME if not on lists
     @toks[$i] =~ s/\/IGNORE_NAME_INIT//g;
@@ -567,7 +573,6 @@ for($i=0; $i < @toks; $i++) {
     }
  } 
 } 
-
 #------------------------------------------------------------------------ 
 #	  OUTPUT
 #------------------------------------------------------------------------ 
@@ -655,7 +660,11 @@ for($i=0; $i < @toks; $i++) {
         $tok =~ s/NAME_ISLAND/NAME_place/;
         $certain = "1";
       } 
-	  elsif($tok =~ /NAME_ORG/){
+	  
+	  elsif($tok =~ /NAME_ORG_MAYBE/){	
+        $tok =~ s/NAME_ORG_MAYBE/NAME_organization/;
+        $certain = "2";
+      } elsif($tok =~ /NAME_ORG/){
         $tok =~ s/NAME_ORG/NAME_organization/g;  
         $certain = "1";
 
@@ -672,8 +681,7 @@ for($i=0; $i < @toks; $i++) {
        $cat = "organization";
        $certain = "1";
        $name =~ s/\/NAME_COMP//;
-     }
-          
+     }          
        $name =~ s/\/NAME_.+//;
 
  #-------------------------------------------------    
