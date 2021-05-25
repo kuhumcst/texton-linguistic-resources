@@ -152,14 +152,14 @@ foreach $linie(@document_lines){
 
  
 # --- Street no.
-  $linie  =~ s/(\d+) ([A-Z])\/NAME_CAND \, ([st\.\d]*) ([Tt]h\.*)/$1\=$2\=\,\=$3\=$4\/gadenr/g;
+  $linie  =~ s/(\d+) ([A-Z])\/NAME_CAND \, ([st\.\d]*) ([Tt]h\.*)/$1\=$2\=\,\=$3\=$4\/STREETNO/g;
   $linie  =~ s/(\d+) ([A-Z])\/NAME_CAND\, ([st\.\d]*) ([Tt]h\.*)/$1\=$2\,\=$3\=$4\/STREETNO/g;
   $linie  =~ s/(\d+[A-Z])\/NAME_CAND \, ([st\.\d]*) ([Tt]h\.*)/$1\=\,\=$2\=$3\/STREETNO/g;
   $linie  =~ s/(\d+[A-Z])\/NAME_CAND\, ([st\.\d]*) ([Tt]h\.*)/$1\,\=$2\=$3\/STREETNO/g;
   $linie  =~ s/(\d+) \, ([st\.\d]*) ([Tt]h\.*)/$1\=\,\=$2\=$3\/STREETNO/g;  
   $linie  =~ s/(\d+)\, ([st\.\d]*) ([Tt]h\.*)/$1\,\=$2\=$3\/STREETNO/g; 
   $linie  =~ s/(\d+) ([st\.\d]*) ([Tt]h\.*)/$1\=$2\=$3\/STREETNO/g; 
- 
+  
 #-------------------------------------------------------------------------------
 #  Split in tokens
 #-------------------------------------------------------------------------------
@@ -169,7 +169,7 @@ foreach $linie(@document_lines){
   $linie =~ s/ /\*SPLIT\*\*s\*\*SPLIT\*/g;
   @toks = split(/\*SPLIT\*/,$linie);
   $linie = "";
-  
+ 
 #-------------------------------------------------------------------------------
 #  Check each token
 #-------------------------------------------------------------------------------
@@ -191,7 +191,10 @@ for($i=0; $i < @toks; $i++) {
     unless(@toks[$i] =~ /^\p{Lu}/){        
        @toks[$i] =~ s/\/NAME_[INITCAND]+//g;
     }
-    @toks[$i] =~ s/\=/ /g;               
+	
+	if(@toks[$i] =~ /STREETNO/){
+	  @toks[$i] =~ s/\=/ /g;
+	}
     
 #-------------------------------------------------------------------------------
 #	  NO NAMES (ignore list or in document)
@@ -317,11 +320,15 @@ for($i=0; $i < @toks; $i++) {
         $tmp = $oldtmp;
       }
     }
-
    } 
+
  # --- XYZ organizations
-  @toks[$i] =~ s/(\p{Lu}+s?)\/NAME_CAND(\'?s?)/$1$2\/NAME_ORG_MAYBE/g;
-  @toks[$i] =~ s/(\p{Lu}+s?)\/NAME_INIT(\'?s?)/$1$2\/NAME_ORG_MAYBE/g;
+  @toks[$i] =~ s/(\p{Lu}+)\/NAME_CAND(\'e[nt])/$1$2\/NAME_MISC/g;
+  @toks[$i] =~ s/(\p{Lu}+)\/NAME_INIT(\'e[nt])/$1$2\/NAME_MISC/g;
+  @toks[$i] =~ s/(\p{Lu}+)\/NAME_CAND(\'?s?)/$1$2\/NAME_ORG_MAYBE/g;
+  @toks[$i] =~ s/(\p{Lu}+)\/NAME_INIT(\'?s?)/$1$2\/NAME_ORG_MAYBE/g;
+  @toks[$i] =~ s/(\p{Lu}+s?)\/NAME_CAND/$1\/NAME_ORG_MAYBE/g;
+  @toks[$i] =~ s/(\p{Lu}+s?)\/NAME_INIT/$1\/NAME_ORG_MAYBE/g;
 
 #--- MISC_NAME if not on lists
     @toks[$i] =~ s/\/IGNORE_NAME_INIT//g;
@@ -579,8 +586,10 @@ for($i=0; $i < @toks; $i++) {
     foreach $tok(@toks){
       $tok =~ s/\/NAME_VEJ//;
       $tok =~ s/^(\p{Lu})\/NAME_[CANDMISCINIT_]*$/$1/;  #eneklt store bogstaver der ikke er på listerne slippes
-      $tok =~ s/\=/ /g;
-      
+      if($tok =~ /NAME_STREET/){
+	    $tok =~ s/\=/ /g;
+      }
+	  $tok =~ s/\/STREETNO//g;
       $tok =~ s/\*s\*/ /g;
       $tok =~ s/\*t\*/\t/g;
       $tok =~ s/\*n\*/\n/g;
