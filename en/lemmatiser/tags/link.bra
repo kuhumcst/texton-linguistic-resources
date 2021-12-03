@@ -1,0 +1,130 @@
+{link.bra
+
+Copy or link flexrules for tagged files. Add dummies for ATI ENDING LEXICAL XF XS ZA ZQ}
+
+X=
+  ( do
+  =    
+    .   sys$(str$("ls . > ls.txt"))
+      & get$("ls.txt",STR):?lstxt
+      &     vap
+          $ ( ( 
+              =   
+                .     @( !arg
+                       :   "flexrules.dict_en_without_doubles.ph_"
+                           ?arg
+                           "_XC"
+                       )
+                    & !arg
+                  | 
+              )
+            . !lstxt
+            . \n
+            )
+        : ?cls
+      &     map
+          $ ( ( 
+              =   
+                .   !arg:(?t.?n)
+                  &     get
+                      $ (   str
+                          $ ( "parms.dict_en_without_doubles.ph_"
+                              !t
+                              "_XC"
+                            )
+                        , STR
+                        )
+                    : ?parms
+                  & ( !n
+                    . !t
+                    .     @( !parms
+                           :   ?
+                               "not part of the training data"
+                               ?
+                               "; diff% "
+                               ?nums
+                               \n
+                               ?
+                           )
+                        & str$(!nums " "):?nums
+                        & 100:?minnum
+                        & -1:?cutoff
+                        & 0:?mincutoff
+                        &   whl
+                          ' ( @(!nums:? #?x "." #?y " " ?nums)
+                            & 1+!cutoff:?cutoff
+                            &   get$(str$("[" !x "." !y "]"),JSN,MEM)
+                              : (,?num)
+                            & (   !num:<!minnum:?minnum
+                                & !cutoff:?mincutoff
+                              | 
+                              )
+                            )
+                        & (     !t
+                              : ( ADV
+                                | A
+                                | V
+                                | N
+                                )
+                            & !mincutoff
+                          | 0
+                          )
+                      | 0
+                    )
+              )
+            . !cls
+            )
+        : ?ns
+      & out$!ns
+      &   map
+        $ ( ( 
+            =   
+              .   !arg:(?n.?t.?b)
+                &     str
+                    $ ( "rm ./links/flexrules."
+                        !n
+                      )
+                  : ?command
+                & out$!command
+                & (~|sys$!command)
+                &     str
+                    $ ( "cp " !b "/flexrules.dict_en_without_doubles.ph_"
+                        !t
+                        "_XC ./links/flexrules."
+                        !n
+                      )
+                  : ?command
+                & out$!command
+                & (~|sys$!command)
+            )
+          . !ns
+          )
+      & out$DUN
+  )
+  ( new
+  =   
+    .   ~
+      |   (its.do)$
+  );
+
+r=
+  get'("link.bra",TXT)
+& rmv$(str$(link ".bak"))
+& ren$("link.bra".str$(link ".bak"))
+&   put
+  $ ( "{link.bra
+
+Copy or link flexrules for tagged files. Add dummies for ATI ENDING LEXICAL XF XS ZA ZQ}
+
+"
+    , "link.bra"
+    , NEW
+    , BIN
+    )
+& lst'(X,"link.bra",APP)
+& put'(\n,"link.bra",APP,BIN)
+& lst'(r,"link.bra",APP)
+& put$(str$("\nnew'" X ";\n"),"link.bra",APP,BIN)
+& ;
+
+new'X;
