@@ -63,6 +63,7 @@ Messrs.
 Mon.
 Mr.
 Mrs.
+ MT.
 Mt.
 N.V.
 No.
@@ -93,6 +94,7 @@ Terr.
 Thurs.
 Tues.
 Univ.
+Vol.
 Vols.
 Wed.
 Xm.
@@ -118,7 +120,7 @@ a.m.u.
 a.o.b.
 a.p.
 a.s.
-a.s.a.p.
+ a.s.a.p.
 a.u.
 a.v.
 abbr.
@@ -276,7 +278,7 @@ eph.
 equiv.
 esp.
 est.
-etc.
+ etc.
 ev.
 ex.
 excl.
@@ -301,7 +303,7 @@ figs.
 finn.
 fl.
 fla.
-floz.
+ floz.
 flt.
 foll.
 fr.
@@ -358,7 +360,6 @@ icel.
 ilgwu.
 ill.
 illus.
-in.
 inc.
 incl.
 ind.
@@ -376,17 +377,17 @@ jap.
 jer.
 jr.
 jt.
-k.k.k.
+ k.k.k.
 ka.
 kc.
-kg.
+ kg.
 kgb.
-kgm.
+ kgm.
 kl.
-km.
+ km.
 kn.
-kw.
-kwh.
+ kw.
+ kwh.
 ky.
 l.
 l.h.d.
@@ -431,13 +432,12 @@ mass.no.
 max.
 md.
 med.
-met.
 mev.
 mex.
 mg.
 mi.
 mich.
-min.
+ min.
 minn.
 misc.
 miss.
@@ -550,6 +550,7 @@ po.
 pol.
 pop.
 port.
+pp.
 prelim.
 priv.
 pro.
