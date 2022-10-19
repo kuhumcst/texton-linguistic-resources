@@ -322,6 +322,7 @@ for($i=0; $i < @toks; $i++) {
     }
    } 
 
+
  # --- XYZ organizations
   @toks[$i] =~ s/(\p{Lu}+)\/NAME_CAND(\'e[nt])/$1$2\/NAME_MISC/g;
   @toks[$i] =~ s/(\p{Lu}+)\/NAME_INIT(\'e[nt])/$1$2\/NAME_MISC/g;
@@ -370,13 +371,14 @@ for($i=0; $i < @toks; $i++) {
           @toks[$i] =~ s/\/NAME_MISC//g;  
         }    
     }
- 
-    if(@toks[$i] =~ /\/NAME\_[A-Z\_]+/){  	
+
+    if(@toks[$i] =~ /\/NAME\_[A-Z\_]+/){ 
       unless(((@toks[$i-2] =~ /\/NAME\_ORG/)&&(@toks[$i] =~ /\/NAME\_PERS/))||
 	  	     ((@toks[$i-2] =~ /\/NAME\_PERS/)&&(@toks[$i] =~ /\/NAME\_ORG/))){
 
       if(($i > 1)&& (@toks[$i-2] =~ /\/NAME\_[A-Z\_]+$/)){ 	  # 2 NAMES samles til ét
-        @toks[$i] = "@toks[$i-2] @toks[$i]";
+
+		@toks[$i] = "@toks[$i-2] @toks[$i]";
         @toks[$i] =~ s/(\/NAME_ORG)\/NAME_ORG/$1/g;		
         @toks[$i] =~ s/(.+)(\/NAME[A-Z\_]+) (.+)(\/NAME.+)/$1 $3$2$4/g; 
         @toks[$i] =~ s/(.+) (.+)(\/NAME_ORG)(\/NAME_PERS.+)/$1$3 $2$4/g; # org og pers skilles igen		
@@ -405,8 +407,13 @@ for($i=0; $i < @toks; $i++) {
         @toks[$i] =~ s/\/NAME_MISC[\_INIT]*(\/NAME_CITY[\_DKUL]+)/$1/g;
         @toks[$i-2]  ="";
         @toks[$i-1]  ="";
-       } 
-	  } #unless
+
+       }
+   
+	  } #unless 
+	 
+
+
 
 #------------------------------------------------------------------------ 
 #	      Look at the preceding word
@@ -445,10 +452,13 @@ for($i=0; $i < @toks; $i++) {
         @toks[$i-3]  ="";
         @toks[$i-4]  ="";
       }
-	  elsif(@toks[$i-2] =~ /De[nt]?/){	  
-        @toks[$i] = "@toks[$i-2] @toks[$i]";
-        @toks[$i-1]  ="";
-        @toks[$i-2]  ="";
+	  elsif(@toks[$i-2] =~ /De[nt]?/){	
+        unless((@toks[$i-2]=~/ORG/)&&(@toks[$i]=~/PERS/)){	  # Ny 17-10-2022 grundet Det Konservative Folkeparti Poul Schlüter
+          @toks[$i] = "@toks[$i-2] @toks[$i]";
+          @toks[$i-1]  ="";
+          @toks[$i-2]  ="";
+		}
+				
       }
 	  elsif(@toks[$i-2] =~ /Nye?/){
 	    if(@toks[$i-4] =~ /De[nt]?/){  # Det Ny Teater
@@ -469,7 +479,7 @@ for($i=0; $i < @toks; $i++) {
 #------------------------------------------------------------------------ 
 #	 Parties
 #------------------------------------------------------------------------   
-	  
+
        if((@toks[$i] =~/Konservative/)||
 	      (@toks[$i] =~/Liberal Alliance/)||
 		  (@toks[$i] =~/Radikale Venstre/)||
@@ -480,6 +490,7 @@ for($i=0; $i < @toks; $i++) {
 		  (@toks[$i] =~/Folkeparti/)){	
             @toks[$i] =~ s/MISC/ORG/;
 		}
+
 #------------------------------------------------------------------------ 
 #	 Organisations
 #------------------------------------------------------------------------   
@@ -579,11 +590,15 @@ for($i=0; $i < @toks; $i++) {
           @toks[$i] =~ s/\/NAME_MISC[\INIT]*//g;  
     }
  } 
+
 } 
+
+
 #------------------------------------------------------------------------ 
 #	  OUTPUT
 #------------------------------------------------------------------------ 
     foreach $tok(@toks){
+
       $tok =~ s/\/NAME_VEJ//;
       $tok =~ s/^(\p{Lu})\/NAME_[CANDMISCINIT_]*$/$1/;  #eneklt store bogstaver der ikke er på listerne slippes
       if($tok =~ /NAME_STREET/){
@@ -594,16 +609,22 @@ for($i=0; $i < @toks; $i++) {
       $tok =~ s/\*t\*/\t/g;
       $tok =~ s/\*n\*/\n/g;
       $tok =~ s/\*r\*//g;
-      unless(($tok =~ /NAME_ORG.+NAME_PERS/)||($tok =~ /NAME_ORG.+NAME_ORG/)||($tok =~ /NAME_NAME.+NAME_ORG/)){ # ORG og PERS samles ikke
+
+	 unless(($tok =~ /NAME_ORG.+NAME_PERS/)||($tok =~ /NAME_ORG.+NAME_ORG/)||($tok =~ /NAME_NAME.+NAME_ORG/)){ # ORG og PERS samles ikke
         $tok =~ s/(.+)(\/NAME[\_\/A-Z]+) (.+)(\/NAME[\_\/A-Z]+)/$1 $3$2$4/;
 	  }
 
     #--------------------------------
- 
-	  
-    if($tok =~ /\/NAME_PERS_FIRST/){	
-        $tok =~ s/PERS_FIRST/person/;
+
+    if(($tok =~ /\/NAME_PERS_FIRST/)&&($tok =~ /\/NAME_PERS_LAST/)){	#NY 13-10-2022
+        $tok =~ s/\/NAME_PERS_FIRST//;
+		$tok =~ s/NAME_PERS_LAST/NAME_person/;
         $certain = "2";
+      } 
+		
+    if($tok =~ /\/NAME_PERS_FIRST/){	
+        $tok =~ s/NAME_PERS_FIRST/NAME_person/;
+        $certain = "2";	
       }
     elsif($tok =~ /\/NAME_PERS_LAST/){
         $certain = "2";
@@ -676,31 +697,41 @@ for($i=0; $i < @toks; $i++) {
       } elsif($tok =~ /NAME_ORG/){
         $tok =~ s/NAME_ORG/NAME_organization/g;  
         $certain = "1";
-
       }
       elsif($tok =~ /\/NAME_SING/){
         $tok =~ s/\/NAME_SING\/NAME_SING//;
         $tok =~ s/\/NAME_SING//;
-      }       
+      }
+  
      $cat = $tok;
      $name = $tok;
-     
+  
 
      if($name =~/\/NAME_COMP/){
        $cat = "organization";
        $certain = "1";
        $name =~ s/\/NAME_COMP//;
-     }          
-       $name =~ s/\/NAME_.+//;
+     }
+     
+	 if(($cat =~/\/NAME_organization/)&&($cat =~/\/NAME_person/)){	#NY 13-10-2022
+       $cat = "organization";
+     } 	 
+
+       #$name =~ s/\/NAME_.+//;
+	   $name =~ s/\/NAME_[a-z\_A-Z]+//;
 
  #-------------------------------------------------    
+
      $cat =~ s/(.+)\/N[AMEUM]+\_([a-z\-]+)(.)*/$2/;
-     $cat =~ s/\/NAME.+//;
-     $name =~ s/(.+)\/NAME\_([a-z\-]+)(.)*/$1/;
+     $cat =~ s/\/NAME[a-zA-Z\_]+//;
+     $name =~ s/(.+)\/NAME[a-zA-Z\_]+(.)*/$1/;
      $num =~ s/(.+)\/NUM\_([a-z\-]+)(.)*/$1/;
-     $name =~ s/\/NAME_[a-z\-]+ / /;
+     $name =~ s/\/NAME_[a-zA-Z\-\_]+ / /;
      $name =~ s/\/NAME.+//;
      $name =~ s/_INIT//;     
+
+
+ 
      if($certain eq ""){
        $certain = "4";
      }     
