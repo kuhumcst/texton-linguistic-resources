@@ -1,400 +1,787 @@
-en hassuf 2 N_DEF_SING 1837.55086580087
-N_INDEF_SING er fhassuf 2 N_INDEF_PLU 1139.86999685951
-et hassuf 2 N_DEF_SING 750.053343837535
-ne hassuf 2 N_DEF_PLU 737.761904761905
-N_INDEF_SING e fdeletesuf 1 ADJ 427.200520993631
-ede hassuf 3 V_PAST 318.351246139481
-N_INDEF_SING 1 fchar NUM 275
-t deletesuf 1 V_PARTC_PAST 250.827990301275
-r deletesuf 1 V_PRES 248.437061936657
-r addsuf 1 V_INF 247.287206829591
-ens hassuf 3 N_DEF_SING_GEN 212
-N_INDEF_SING es fhassuf 2 V_PRES_PAS 187.212940327646
-ig hassuf 2 ADJ 174.965461760462
-ende hassuf 4 V_PARTC_PRES 174.008333333333
-EGEN s fdeletesuf 1 EGEN_GEN 169.644444444444
-ere hassuf 3 N_INDEF_PLU 146.193181818182
-ige hassuf 3 ADJ 138
-ske hassuf 3 ADJ 135.900641025641
-sk hassuf 2 ADJ 129.747357289662
-N_INDEF_SING 0 fchar NUM 124
-igt hassuf 3 ADV 109.116820657842
-ne addsuf 2 N_INDEF_PLU 107.346833288075
-ets hassuf 3 N_DEF_SING_GEN 97
-- hassuf 1 XX 92
-en addsuf 2 N_INDEF_SING 90.2087064170398
-rnes hassuf 4 N_DEF_PLU_GEN 74.6666666666667
-V_INF n faddsuf 1 N_INDEF_SING 70.6035387711704
-de addsuf 2 V_INF 69.8150998708893
-_ char ADV 64
-N_INDEF_SING te fhassuf 2 ADJ 55.4312169312169
-N_INDEF_SING t faddsuf 1 ADJ 55.9499309868375
-N_INDEF_SING s fdeletesuf 1 N_INDEF_SING_GEN 54.3738329238329
-lse hassuf 3 N_INDEF_SING 47
-N_INDEF_SING dt fhassuf 2 V_PARTC_PAST 45.1248200075786
-EGEN - fchar N_INDEF_SING 44
-eret hassuf 4 V_PARTC_PAST 43.5
-lser hassuf 4 N_INDEF_PLU 41
-N_INDEF_SING 2 fchar NUM 41
-EGEN ' fchar EGEN_GEN 35
-u deletepref 1 ADJ 31.1333333333333
-en addsuf 2 N_INDEF_SING 30.4
-N_INDEF_SING_GEN ers fhassuf 3 N_INDEF_PLU_GEN 30
-N_INDEF_SING 19 faddpref 2 NUM 29
-itet hassuf 4 N_INDEF_SING 27
-N_INDEF_SING elle fhassuf 4 ADJ 27
-lse addsuf 3 V_INF 26.2727272727273
-sen deletesuf 3 EGEN 26
-vis hassuf 3 ADV 26
-V_PARTC_PAST s faddsuf 1 N_DEF_SING 24.9583333333333
-ADJ te fdeletesuf 2 V_PAST 23.7952614379085
-nde addsuf 3 V_INF 23.1606182121972
-000 addsuf 3 NUM_ORD 23
-EN hassuf 2 N_DEF_SING 22
-vel haspref 3 ADJ 22
-der deletepref 3 ADV 22
-V_INF n fhassuf 1 N_DEF_SING 20.8333333333333
-ået hassuf 3 V_PARTC_PAST 20
+START:	Mon Feb 14 15:16:34 2022
+
+e char ADJ 8
+s char N_INDEF_SING 5
+en goodleft PRÆP 4
+n hassuf 1 N_DEF_SING 4
+v a fchar PRÆP 3
+r hassuf 1 V_PRES 3
+, goodright UNIK 2.5
+SLUT:	Mon Feb 14 15:16:34 2022
+
+A char EGEN 91.1666666666667
+START:	Mon Feb 14 15:16:48 2022
+
+r char N_INDEF_PLU 6
+t char ADJ 4
+v e fchar ADV 4
+, goodright UNIK 2.5
+SLUT:	Mon Feb 14 15:16:48 2022
+
+START:	Mon Feb 14 15:16:52 2022
+
+e char ADJ 13
+r hassuf 1 N_INDEF_PLU 7
+en goodleft PRÆP 6
+ADJ l fchar N_INDEF_SING 4
+v g fchar ADJ 3
+v i fchar N_INDEF_SING 3
+v l fchar N_INDEF_SING 2
+SLUT:	Mon Feb 14 15:16:52 2022
+
+START:	Mon Feb 14 15:16:56 2022
+
+e char ADJ 10
+r hassuf 1 V_PRES 5
+sb n fchar EGEN 4
+ADJ g fchar N_INDEF_SING 3
+en hassuf 2 N_DEF_SING 3
+ADJ j fchar N_INDEF_SING 2
+SLUT:	Mon Feb 14 15:16:56 2022
+
+EGEN s fdeletesuf 1 EGEN_GEN 97
+nde deletesuf 3 V_PARTC_PRES 87.4416666666667
+START:	Mon Feb 14 15:17:46 2022
+
+e char N_INDEF_SING 11
+en goodleft PRÆP 6
+v s fchar ADJ 5
+N_INDEF_SING t fhassuf 1 V_PARTC_PAST 4
+ADJ k fchar N_INDEF_SING 2
+SLUT:	Mon Feb 14 15:17:46 2022
+
+nes hassuf 3 N_DEF_PLU_GEN 83.55
+START:	Mon Feb 14 15:18:22 2022
+
+e char ADJ 26
+r hassuf 1 N_INDEF_PLU 15
+d char N_INDEF_SING 7
+n hassuf 1 N_DEF_SING 7
+t hassuf 1 ADJ 4
+N_INDEF_SING er fhassuf 2 V_PRES 4
+v k fchar N_INDEF_SING 3
+v i fchar PRÆP 3
+et hassuf 2 V_PARTC_PAST 3
+es hassuf 2 V_PRES_PAS 3
+V char ADJ 2
+SLUT:	Mon Feb 14 15:18:22 2022
+
+sk hassuf 2 ADJ 81.8181818181818
+- hassuf 1 XX 80
+ADJ n faddsuf 1 N_INDEF_SING 74.0243902439024
+H char EGEN 71.0688372093023
+et addsuf 2 N_INDEF_SING 68.9250277500278
+ne addsuf 2 N_INDEF_PLU 69.5417200429534
+L char EGEN 66.5
+_ char ADV 66
+V_PARTC_PAST et fgoodright ADJ 65.5646034816248
+sb , fgoodleft EGEN 57.8571428571429
+v s fchar N_INDEF_SING 54.2875
+eret hassuf 4 V_PARTC_PAST 54
+J char EGEN 51.75
+v 5 fchar NUM 45
+V_PARTC_PAST i fgoodright N_DEF_SING 44.8782652532652
+N_INDEF_SING s fdeletesuf 1 N_INDEF_SING_GEN 44.8630952380952
+W char EGEN 43
+C char EGEN 39.3333333333333
+EGEN et fhassuf 2 N_DEF_SING 43
+EGEN s fdeletesuf 1 EGEN_GEN 44.6511627906977
+N_INDEF_SING B fhaspref 1 EGEN 38.6666666666667
+ADJ r faddsuf 1 N_INDEF_SING 37.9190476190476
+V_PRES_PAS skal fgoodright V_INF_PAS 37.1301587301587
+ADJ Han fgoodright V_PAST 36.7777777777778
+meget goodright ADJ 36.7133603435146
+19 addpref 2 NUM 34
+N_INDEF_SING M fhaspref 1 EGEN 33
+lser hassuf 4 N_INDEF_PLU 32
+v l fchar N_INDEF_SING 31.2291666666667
+sb S fchar EGEN 31
+en addsuf 2 N_INDEF_SING 30.5637672145025
+N_INDEF_SING S fhaspref 1 EGEN 29.6666666666667
+'s hassuf 2 EGEN_GEN 29
+N_INDEF_SING kan fgoodright V_INF 27.7830567919742
+N_INDEF_SING ende fhassuf 4 ADJ 27
+N_INDEF_SING R fchar EGEN 27
+G char EGEN 26.5
+N_INDEF_PLU r faddsuf 1 V_INF 25.5571723243753
+START:	Mon Feb 14 15:39:53 2022
+
+e char ADJ 26
+r hassuf 1 N_INDEF_PLU 15
+d char N_INDEF_SING 7
+n hassuf 1 N_DEF_SING 7
+t hassuf 1 ADJ 4
+N_INDEF_SING er fhassuf 2 V_PRES 4
+v i fchar N_INDEF_SING 3
+et hassuf 2 V_PARTC_PAST 3
+es hassuf 2 V_PRES_PAS 3
+V char ADJ 2
+SLUT:	Mon Feb 14 15:39:54 2022
+
+der deletepref 3 ADV 25
+N_INDEF_SING N fhaspref 1 EGEN 24
+EGEN en fhassuf 2 N_DEF_SING 24
+EGEN - fchar N_INDEF_SING 29
+erne hassuf 4 N_DEF_PLU 23
+lt hassuf 2 ADJ 22.7713257965057
+ADJ ie fhassuf 2 N_INDEF_SING 22
+N_INDEF_SING e fdeletesuf 1 ADJ 22.1422764227642
+sen deletesuf 3 EGEN 22
+N_INDEF_SING det fgoodleft V_PAST 21.3411513043599
+itet hassuf 4 N_INDEF_SING 21
+ADJ B fchar EGEN 21
+ADJ jde fhassuf 3 N_INDEF_SING 20.8870967741935
+vel haspref 3 ADJ 20
+sb r fchar EGEN 20
 erer hassuf 4 V_PRES 20
-N_INDEF_SING re fhassuf 2 ADJ 19.8036057018395
-hed addsuf 3 ADJ 19.4153846153846
-ADJ n faddsuf 1 N_INDEF_SING 19.2981368563686
-lagt hassuf 4 V_PARTC_PAST 18
-V_PARTC_PAST lt fhassuf 2 ADV 17.8817810457516
-mt hassuf 2 ADJ 17.4015406162465
-N_INDEF_PLU t faddsuf 1 V_INF 17.3287970430108
-vt hassuf 2 ADV 17.0098039215686
-N_INDEF_SING ørt fhassuf 3 V_PARTC_PAST 17
-sat hassuf 3 V_PARTC_PAST 16.8245614035088
-N_INDEF_PLU e faddsuf 1 N_INDEF_SING 15.8705738705739
-et addsuf 2 N_INDEF_SING 20.5732763989443
-ER hassuf 2 N_INDEF_PLU 15
-N_INDEF_SING 4 fchar NUM 15
-N_DEF_PLU ine fhassuf 3 EGEN 14
-øs hassuf 2 ADJ 14
-der addpref 3 ADV 13.2203256907236
-V_PARTC_PRES å fchar ADJ 13.1666666666667
-ADV - fchar N_INDEF_SING 13
-ADJ tte fhassuf 3 N_INDEF_SING 13
-ET hassuf 2 N_DEF_SING 13
-tive hassuf 4 ADJ 13
+v 2 fchar NUM 20
+EGEN s fdeletesuf 1 EGEN_GEN 24
+NUM . fdeletesuf 1 NUM_ORD 21
+N_INDEF_SING T fhaspref 1 EGEN 19.6666666666667
+u deletepref 1 ADJ 19.5833333333333
+N_DEF_PLU r faddsuf 1 V_INF 19.5423793597707
+V_INF er fgoodright ADV 19.5003246938265
+N_INDEF_SING V fhaspref 1 EGEN 19.25
+N_INDEF_SING_GEN ers fhassuf 3 N_INDEF_PLU_GEN 19
+vt hassuf 2 ADJ 18
+sb I fchar EGEN 18
+N_INDEF_SING K fhaspref 1 EGEN 18
+N_INDEF_SING dt fhassuf 2 V_PARTC_PAST 17.7619047619048
+N_DEF_SING have fgoodright V_PARTC_PAST 16.5
+N_INDEF_PLU sig fgoodleft V_PRES 16.3086419753086
+V_PRES og fgoodleft N_INDEF_PLU 17.372717876159
+N_INDEF_PLU der fgoodright V_PRES 23.2003035468624
+sat hassuf 3 V_PARTC_PAST 16.1666666666667
+ede deletesuf 3 V_PAST 16
+op goodright PRÆP 15.2270906771136
+hed addsuf 3 ADJ 15.02
+ørt hassuf 3 V_PARTC_PAST 15
+sb s fchar EGEN_GEN 15
+v o fchar N_INDEF_SING 14.7142857142857
+N_INDEF_SING D fhaspref 1 EGEN 14.3333333333333
+ADJ pe fhassuf 2 N_INDEF_SING 14
+N_INDEF_PLU ære fhassuf 3 ADJ 14
+N_INDEF_SING øse fhassuf 3 ADJ 14
+ER hassuf 2 N_INDEF_PLU 14
+ænd hassuf 3 N_INDEF_PLU 14
+lagt hassuf 4 V_PARTC_PAST 14
+vis hassuf 3 ADV 14
+ADJ te fdeletesuf 2 V_PAST 13.8958333333333
+V_PRES af fgoodright N_INDEF_PLU 13.6246913580247
+N_INDEF_SING F fhaspref 1 EGEN 13.5
+ens addsuf 3 N_INDEF_SING 16.4720104600656
+ole hassuf 3 N_INDEF_SING 13.2857142857143
+lse addsuf 3 V_INF 13.1384615384615
+Nielsen goodleft EGEN 13.0030581039755
+ADJ ce fhassuf 2 N_INDEF_SING 13
+N_INDEF_SING P fchar EGEN 13
+EN hassuf 2 N_DEF_SING 13
+olk hassuf 3 N_INDEF_PLU 13
+N_DEF_SING blevet fgoodright V_PARTC_PAST 13
 hvo haspref 3 ADV 13
-V_PAST - fchar ADJ 12
-olk hassuf 3 N_INDEF_PLU 12
-N_INDEF_SING nge fhassuf 3 N_INDEF_PLU 12
-N_INDEF_SING å fhassuf 1 V_INF 11.9047619047619
-V_PARTC_PAST nt fhassuf 2 ADJ 11.1468253968254
-N_DEF_PLU nne fhassuf 3 EGEN 11
-N_DEF_PLU dne fhassuf 3 ADJ 11
-N_INDEF_SING øse fhassuf 3 ADJ 11
-N_DEF_PLU gne fhassuf 3 N_INDEF_PLU 11
-, char NUM 11
-hed hassuf 3 N_INDEF_SING 10
-EGEN ole fhassuf 3 N_INDEF_SING 10
-N_INDEF_SING ulde fhassuf 4 ADJ 10
-ænd hassuf 3 N_INDEF_PLU 10
-huse hassuf 4 N_INDEF_PLU 10
-ande hassuf 4 N_INDEF_PLU 10
-her deletepref 3 ADV 10
-øre hassuf 3 V_INF 10
-N_INDEF_SING mme fhassuf 3 ADJ 9.86666666666667
-ligt hassuf 4 ADJ 9.86244866244866
-N_INDEF_SING Ø fchar EGEN 9
-EGEN ste fhassuf 3 ADJ 9
-børn hassuf 4 N_INDEF_PLU 9
-EGEN Her fdeletepref 3 ADV 9
-N_INDEF_SING ers fhassuf 3 N_INDEF_PLU_GEN 9
-N_INDEF_SING r fdeletesuf 1 V_PRES 8.81581196581197
-este addsuf 4 ADJ 8.62362637362637
-ten addsuf 3 N_INDEF_SING 8.61792796438689
-ens addsuf 3 N_INDEF_SING 8.28487360012379
-ært hassuf 3 ADJ 8.05263157894737
+V_PRES_PAS kan fgoodright V_INF_PAS 12.6825396825397
+N_INDEF_SING så fgoodright ADJ 12.483733923677
+huse hassuf 4 N_INDEF_PLU 12
+v 4 fchar NUM 12
+her deletepref 3 ADV 12
+EGEN ' fhassuf 1 EGEN_GEN 12
+ået hassuf 3 V_PARTC_PAST 11.6666666666667
+V_PARTC_PAST på fgoodright N_DEF_SING 11.2941176470588
+V_INF af fgoodright ADJ 11.1181623931624
+ADJ nge fhassuf 3 N_INDEF_PLU 12.2222222222222
+ADJ M fchar EGEN 12
+hed hassuf 3 N_INDEF_SING 11
+mt hassuf 2 ADJ 11
+ET hassuf 2 N_DEF_SING 11
+børn hassuf 4 N_INDEF_PLU 11
+N_INDEF_SING = fgoodright XX 11
+pct. goodleft NUM 10.9908675799087
+ADJ nde faddsuf 3 V_INF 10.5977011494253
+ADJ mig fgoodleft V_PAST 10.320243204578
+sb B fchar EGEN 10.25
+v , fgoodleft N_INDEF_PLU 10.1123944361649
+EGEN - fchar N_INDEF_SING 10
+sme hassuf 3 N_INDEF_SING 10
+ADJ tte fhassuf 3 N_INDEF_SING 10
+iker hassuf 4 N_INDEF_SING 10
+møde hassuf 4 N_INDEF_SING 10
+fri hassuf 3 ADJ 10
+N_DEF_PLU gne fhassuf 3 N_INDEF_PLU 10
+N_INDEF_PLU et fgoodright N_INDEF_SING 9.60388007054674
+N_INDEF_SING mange fgoodright N_INDEF_PLU 9.88344087474522
+N_DEF_PLU den fgoodright ADJ 9.33333333333333
+V_PARTC_PAST nt fhassuf 2 ADJ 9.2
+ADJ inde fhassuf 4 N_INDEF_SING 9.16666666666667
+ADJ je fhassuf 2 N_INDEF_SING 9.05882352941176
+N_INDEF_PLU are fhassuf 3 ADJ 9
+N_DEF_PLU nne fhassuf 3 EGEN 9
+ADV - fchar N_DEF_SING 9
+Der deletepref 3 ADV 9
+ende deletesuf 4 V_PARTC_PRES 9
+ADJ ene faddsuf 3 N_INDEF_SING 8.95
+ørte hassuf 4 V_PAST 8.5
+v t fchar N_INDEF_SING 8.33333333333333
+N_INDEF_SING Ø fhaspref 1 EGEN 8.33333333333333
+N_INDEF_PLU man fgoodleft V_PRES 8.18732193732194
+V_PRES to fgoodright N_INDEF_PLU 8.73015773747481
+ad addsuf 2 ADV 8.00631487598568
 åd hassuf 2 N_INDEF_SING 8
-EGEN T fhassuf 1 ADJ 8
-V_PAST i fhaspref 1 V_PARTC_PAST 8
-N_INDEF_SING alt fhassuf 3 V_PARTC_PAST 8
-evet hassuf 4 V_PARTC_PAST 8
+lse hassuf 3 N_INDEF_SING 8
+ADJ ykke fhassuf 4 N_INDEF_SING 8
+sb O fchar EGEN 8
+Sch haspref 3 EGEN 8
+rsen hassuf 4 EGEN 8
+ADJ gade fhassuf 4 EGEN 8
+ets hassuf 3 N_DEF_SING_GEN 8
+V_PRES_PAS edes fhassuf 4 V_PAST_PAS 8
+N_INDEF_SING Han fgoodright V_PAST 7.88480392156863
+V_PAST var fgoodright ADV 7.61478434809654
+N_INDEF_SING vil fgoodright V_INF 7.41628264208909
+V_PARTC_PAST er fgoodleft N_DEF_SING 7.33333333333333
+' addsuf 1 EGEN 7.16666666666667
+V_PRES med fgoodright N_INDEF_PLU 7.125
+START:	Mon Feb 14 21:44:33 2022
+
+e char N_INDEF_SING 3552.88955949142
+en hassuf 2 N_DEF_SING 2076.15473644003
+er hassuf 2 N_INDEF_PLU 1228.98515295259
+START:	Mon Feb 14 21:45:07 2022
+
+e char N_INDEF_SING 3436.45722660737
+en hassuf 2 N_DEF_SING 2005.08823529412
+er hassuf 2 N_INDEF_PLU 1166.33492560407
+ne hassuf 2 N_DEF_PLU 772.339393939394
+et hassuf 2 N_DEF_SING 747.913437926139
+v i fchar N_INDEF_SING 741.885892265483
+START:	Mon Feb 14 21:46:43 2022
+
+e char N_INDEF_SING 3297.87331379515
+en hassuf 2 N_DEF_SING 1947.24462494028
+er hassuf 2 N_INDEF_PLU 1205.98758880456
+et hassuf 2 N_DEF_SING 738.697871572871
+START:	Mon Feb 14 21:49:04 2022
+
+e char N_INDEF_SING 3411.47902024782
+en hassuf 2 N_DEF_SING 2009.91532045191
+er hassuf 2 N_INDEF_PLU 1253.03183640853
+ne hassuf 2 N_DEF_PLU 776.794871794872
+v i fchar N_INDEF_SING 745.927797056744
+et hassuf 2 N_DEF_SING 739.289899749374
+sb a fchar EGEN 706.814932666329
+N_INDEF_SING at fgoodright V_INF 520.938391372495
+N_INDEF_SING e fhassuf 1 ADJ 459.58900048723
+v a fchar N_INDEF_SING 404.275891712347
+en goodright N_INDEF_SING 319.642241081442
+v 1 fchar NUM 282
+t deletesuf 1 V_PARTC_PAST 274.924194683171
+sb o fchar EGEN 266.905555555556
+r deletesuf 1 V_PRES 248.852434573855
+ens hassuf 3 N_DEF_SING_GEN 230
+N_INDEF_SING e faddsuf 1 ADJ 226.407016975383
+igt hassuf 3 ADJ 208
+en addsuf 2 N_INDEF_SING 201.055524843069
+N_INDEF_SING es fhassuf 2 V_PRES_PAS 199.851966873706
+ADJ de fdeletesuf 2 V_PAST 187.021304624168
+ADJ se fhassuf 2 N_INDEF_SING 185
+sb i fchar EGEN 140
+ADJ ere fhassuf 3 N_INDEF_PLU 131.633333333333
+v r fchar N_INDEF_SING 127.842197997696
+v 0 fchar NUM 122
+ets hassuf 3 N_DEF_SING_GEN 110
+- hassuf 1 XX 102
+sb , fgoodleft EGEN 94.8910256410256
+H char EGEN 83.0757145927359
+EGEN s fdeletesuf 1 EGEN_GEN 84.6808510638298
+nde deletesuf 3 V_PARTC_PRES 81.8239316239316
+ig hassuf 2 ADJ 80
+nes hassuf 3 N_DEF_PLU_GEN 79
+ne addsuf 2 N_INDEF_PLU 78.2029937090869
+et addsuf 2 N_INDEF_SING 73.3199498671724
+L char EGEN 72.5
+ADJ n faddsuf 1 N_INDEF_SING 69.5243902439024
+sk hassuf 2 ADJ 68.3333333333333
+v s fchar N_INDEF_SING 57.7065476190476
+N_INDEF_SING s fdeletesuf 1 N_INDEF_SING_GEN 57.5651856915015
+A char EGEN 56.8333333333333
+V_PARTC_PAST et fgoodright ADJ 56.7686305732484
+_ char ADV 54
+C haspref 1 EGEN 54
+N_INDEF_SING B fhaspref 1 EGEN 52.8888888888889
+J char EGEN 50
+eret hassuf 4 V_PARTC_PAST 45.5
+V_PARTC_PAST i fgoodright N_DEF_SING 45.3719047619048
+G char EGEN 45
+EGEN s fdeletesuf 1 EGEN_GEN 50
+år goodleft NUM 42.5296792192695
+W char EGEN 39
+ADJ r faddsuf 1 N_INDEF_SING 38.5833333333333
+EGEN et fhassuf 2 N_DEF_SING 38
+N_INDEF_SING S fhaspref 1 EGEN 36.6666666666667
+ADJ Han fgoodright V_PAST 35.2380952380952
+V_PRES_PAS skal fgoodright V_INF_PAS 35.0293995859213
+sb S fchar EGEN 35
+N_INDEF_PLU e faddsuf 1 N_INDEF_SING 34.9280128829681
+N_INDEF_SING M fhaspref 1 EGEN 34
+lser hassuf 4 N_INDEF_PLU 34
+v l fchar N_INDEF_SING 33.3333333333333
+v 2 fchar NUM 33
+meget goodright ADJ 32.1916615715512
+N_INDEF_SING kan fgoodright V_INF 29.632474420155
+ADJ ie fhassuf 2 N_INDEF_SING 28
+v 9 fchar NUM 28
+sb u fchar EGEN 26
+erer hassuf 4 V_PRES 26
+N_INDEF_SING N fhaspref 1 EGEN 25
+'s hassuf 2 EGEN_GEN 25
+dt hassuf 2 V_PARTC_PAST 24.8774940468124
+lt hassuf 2 ADJ 24.6602150537634
+itet hassuf 4 N_INDEF_SING 24
+N_INDEF_SING R fchar EGEN 24
+der haspref 3 ADV 24
+N_DEF_SING blev fgoodright V_PARTC_PAST 23
+rne hassuf 3 N_DEF_PLU 23
+N_INDEF_SING ende fhassuf 4 ADJ 22
+N_INDEF_SING_GEN ers fhassuf 3 N_INDEF_PLU_GEN 21
+000 addsuf 3 NUM_ORD 21
+nde addsuf 3 V_INF 20.5944531904373
+u deletepref 1 ADJ 20.5
+N_INDEF_SING D fchar EGEN 20.5
+N_INDEF_SING V fhaspref 1 EGEN 20.5
+V_INF er fgoodright ADV 20.2883984140329
+N_INDEF_SING P fchar EGEN 20
+olk hassuf 3 N_INDEF_PLU 20
+v 3 fchar NUM 20
+jde hassuf 3 N_INDEF_SING 19.5681592039801
+vt hassuf 2 ADJ 19
+N_INDEF_SING øse fhassuf 3 ADJ 19
+N_INDEF_SING blev fgoodright V_PARTC_PAST 19
+sb s fchar EGEN_GEN 19
+EN hassuf 2 N_DEF_SING 18
+hed addsuf 3 ADJ 17.6987179487179
+ået hassuf 3 V_PARTC_PAST 17.6666666666667
+en addsuf 2 N_INDEF_SING 17.6598345942143
+N_INDEF_SING Han fgoodright V_PAST 17.3140565246396
+V_PARTC_PAST på fgoodright N_DEF_SING 17.1366181410974
+sb . fchar EGEN 17
+ER hassuf 2 N_INDEF_PLU 17
+N_DEF_PLU r faddsuf 1 V_INF 16.7445887445887
+Th haspref 2 EGEN 16.6666666666667
+ADJ sig fgoodleft V_PAST 16.2278021013091
+N_INDEF_PLU sig fgoodleft V_PRES 15.9411764705882
+V_PRES og fgoodleft N_INDEF_PLU 17.1045950093938
+N_INDEF_PLU der fgoodright V_PRES 18.5485724114207
+op goodright PRÆP 15.147893544465
+vis hassuf 3 ADV 15
+ADV - fchar N_INDEF_SING 15
+mt hassuf 2 ADJ 14.7857142857143
+N_INDEF_PLU et fgoodright N_INDEF_SING 14.7272727272727
+ce hassuf 2 N_INDEF_SING 14
+sme hassuf 3 N_INDEF_SING 14
+ørt hassuf 3 V_PARTC_PAST 14
+lagt hassuf 4 V_PARTC_PAST 14
+' hassuf 1 EGEN_GEN 14
+NUM e fhassuf 1 ADJ 13.9756097560976
+ole hassuf 3 N_INDEF_SING 13.8333333333333
+N_DEF_SING blevet fgoodright V_PARTC_PAST 13.5
+v o fchar N_INDEF_SING 13.4230769230769
+V_PRES af fgoodright N_INDEF_PLU 13.0588235294118
+sb I fchar EGEN 13
+EGEN gen fhassuf 3 N_DEF_SING 13
+Nielsen goodleft EGEN 13
+N_INDEF_SING mange fgoodright N_INDEF_PLU 12.8597751063932
+du goodleft V_PRES 12.5369809106092
+lse addsuf 3 V_INF 12.4285714285714
+ens addsuf 3 N_INDEF_SING 12.0714922758401
+N_INDEF_SING Fr fhaspref 2 EGEN 12
+sen deletesuf 3 EGEN 12
+ænd hassuf 3 N_INDEF_PLU 12
+ADJ nge fhassuf 3 N_INDEF_PLU 12
+N_INDEF_SING huse fhassuf 4 N_INDEF_PLU 12
+ADJ han fgoodleft V_PAST 11.875
+EGEN lse fhassuf 3 N_INDEF_SING 11
+møde hassuf 4 N_INDEF_SING 11
+N_INDEF_SING K fhaspref 1 EGEN 11
+Fe haspref 2 EGEN 11
+Sch haspref 3 EGEN 11
+ET hassuf 2 N_DEF_SING 11
+v 5 fchar NUM 11
+hvo haspref 3 ADV 11
+sb B fchar EGEN 10.2
+iker hassuf 4 N_INDEF_SING 10
+øs hassuf 2 ADJ 10
+fri hassuf 3 ADJ 10
+ADJ M fchar EGEN 10
+ets hassuf 3 N_DEF_SING_GEN 10
+EGEN s fdeletesuf 1 EGEN_GEN 10
+V_INF S-T-A-R-T fgoodright EGEN 9.92307692307692
+N_INDEF_SING å fhassuf 1 V_INF 9.84615384615385
+N_DEF_PLU den fgoodright ADJ 9.83333333333333
+ADJ ham fgoodleft V_PAST 9.66666666666667
+v t fchar N_INDEF_SING 9.53448275862069
+V_INF af fgoodright ADJ 9.31655844155844
+ADJ øtte fhassuf 4 N_INDEF_SING 9.625
+hed hassuf 3 N_INDEF_SING 9
+uldt hassuf 4 ADJ 9
+N_INDEF_SING T fhaspref 1 EGEN 9
+ning hassuf 4 N_INDEF_SING 9
+ADJ gade fhassuf 4 EGEN 9
+øre hassuf 3 V_INF 9
+ørte hassuf 4 V_PAST 9
+her deletepref 3 ADV 9
+V_PRES_PAS kan fgoodright V_INF_PAS 8.83333333333333
+ADJ æde fhassuf 3 N_INDEF_SING 8.75
+v , fgoodleft N_INDEF_PLU 8.39425770308123
+sat hassuf 3 V_PARTC_PAST 8.2
+V_PAST t fhassuf 1 V_PARTC_PAST 8.17956349206349
+D hassuf 1 N_INDEF_SING 8
+ion hassuf 3 N_INDEF_SING 8
+E hassuf 1 ADJ 8
+ADJ B fchar EGEN 8
+N_DEF_PLU nne fhassuf 3 EGEN 8
+EGEN ten fhassuf 3 N_DEF_SING 8
+pct. goodleft NUM 8
+Her deletepref 3 ADV 8
 Der deletepref 3 ADV 8
-yder hassuf 4 V_PRES 8
-ørte hassuf 4 V_PAST 8
-0 hassuf 1 NUM 8
-1 hassuf 1 NUM 8
-2 hassuf 1 NUM 8
-3 hassuf 1 NUM 8
-4 hassuf 1 NUM 8
-5 hassuf 1 NUM 8
-6 hassuf 1 NUM 8
-7 hassuf 1 NUM 8
-8 hassuf 1 NUM 8
-9 hassuf 1 NUM 8
-NUM . fdeletesuf 1 NUM_ORD 8
-dst hassuf 3 ADV 7.80952380952381
-sat addsuf 3 ADV 7.65907579931791
-ADJ tre fhassuf 3 N_INDEF_PLU 7.22222222222222
-ring hassuf 4 N_INDEF_SING 7
-iker hassuf 4 N_INDEF_SING 7
-V_PAST ny fhaspref 2 ADJ 7
-V_PAST este fhassuf 4 ADJ 7
-dage hassuf 4 N_INDEF_PLU 7
-gde hassuf 3 V_PAST 7
-sens deletesuf 4 EGEN_GEN 7
-enes hassuf 4 N_DEF_PLU_GEN 7
-ADV hvor faddpref 4 PRÆP 6.90034423981159
-øst hassuf 3 ADV 6.75
-N_INDEF_SING st fdeletesuf 2 ADV 6.55974025974026
-ADV er faddsuf 2 N_INDEF_SING 8.34025974025974
-eres deletesuf 4 V_INF_PAS 6.33333333333333
-til addsuf 3 ADV 6.24265716834197
-ADJ te faddsuf 2 N_INDEF_SING 6.23593355001806
-ages hassuf 4 V_INF_PAS 6.13333333333333
-ste addsuf 3 ADJ 6.10209582084582
-NUM a fchar N_INDEF_SING 6
-ion hassuf 3 N_INDEF_SING 6
+ende deletesuf 4 V_PARTC_PRES 8
+vel haspref 3 ADJ 8.66666666666667
+sb . fgoodright V_IMP 8
+V_PRES_PAS de fgoodright ADJ_GEN 8
+V_PRES e fhassuf 1 V_PAST 7.96178343949045
+V_PAST r faddsuf 1 V_INF 9.09844353477185
+N_INDEF_SING ere fhassuf 3 ADJ 7.92307692307692
+ad addsuf 2 ADV 7.88686832542311
+N_INDEF_SING r fdeletesuf 1 V_PRES 7.84642857142857
+V_PARTC_PAST af fgoodright N_DEF_SING 7.66666666666667
+N_DEF_SING et fgoodright ADJ 8.60676257965426
+ADJ ykke fhassuf 4 N_INDEF_SING 7.5
+dansk goodright N_INDEF_SING 7.37834416730548
+V_PRES_PAS kunne fgoodright V_INF_PAS 7.13333333333333
+N_INDEF_PLU r faddsuf 1 V_INF 7.08735865583692
+ADJ je fhassuf 2 N_INDEF_SING 7.07142857142857
+N_INDEF_SING så fgoodright ADJ 7.65801975801976
+åde hassuf 3 N_INDEF_SING 7
+EGEN ske fhassuf 3 ADJ 7
+N_DEF_PLU ine fhassuf 3 EGEN 7
+ren hassuf 3 N_DEF_SING 7
+EGEN den fhassuf 3 N_DEF_SING 7
+N_DEF_PLU gne fhassuf 3 N_INDEF_PLU 7
+ampe hassuf 4 N_INDEF_PLU 7
+børn hassuf 4 N_INDEF_PLU 7
+NUM . fdeletesuf 1 NUM_ORD 7
+Han goodleft TEGN 7
+N_INDEF_PLU man fgoodleft V_PRES 6.89673590504451
+ets addsuf 3 N_INDEF_SING 6.79673590504451
+ADJ ene faddsuf 3 N_INDEF_SING 6.70382882882883
+' addsuf 1 EGEN 6.36507936507936
+ADJ er fhassuf 2 N_INDEF_SING 6
+tør hassuf 3 N_INDEF_SING 6
 EGEN dag fhassuf 3 N_INDEF_SING 6
-rsen hassuf 4 EGEN 6
+ADJ æge fhassuf 3 N_INDEF_SING 6
+EGEN T fhassuf 1 ADJ 6
+EGEN sk fhassuf 2 ADJ 6
+V_PARTC_PAST nt fhassuf 2 ADJ 6
+EGEN ige fhassuf 3 ADJ 6
+bart hassuf 4 ADJ 6
+N_INDEF_SING Ø fchar EGEN 6
+sb U fchar EGEN 6
+N_INDEF_PLU B fhaspref 1 EGEN 6
+N_INDEF_SING El fhaspref 2 EGEN 6
 N_DEF_SING sen faddsuf 3 EGEN 6
+len hassuf 3 N_DEF_SING 6
 ssen hassuf 4 N_DEF_SING 6
-N_INDEF_SING fri fhassuf 3 ADJ 6
-N_INDEF_SING er fdeletesuf 2 N_INDEF_PLU 6
-N_INDEF_SING mpe fhassuf 3 N_INDEF_PLU 6
-så deletesuf 2 ADV 6
-fra deletesuf 3 ADV 6
-ERNE hassuf 4 N_DEF_PLU 6
-tod hassuf 3 V_PAST 6
+EGEN ere fhassuf 3 N_INDEF_PLU 9
+ADJ dage fhassuf 4 N_INDEF_PLU 6
+ADJ ande fhassuf 4 N_INDEF_PLU 6
+V_PRES i fgoodright N_INDEF_PLU 6
+delt hassuf 4 V_PARTC_PAST 6
+gik hassuf 3 V_PAST 6
 tog hassuf 3 V_PAST 6
-V_PARTC_PAST andt fhassuf 4 V_PAST 6
-ADV . fchar FORK 6
-V_PRES_PAS edes fhassuf 4 V_PAST_PAS 6
-N_INDEF_SING H fchar EGEN 5.85555555555556
-N_INDEF_SING jort fhassuf 4 V_PARTC_PAST 5.66666666666667
-AG hassuf 2 N_INDEF_SING 5
+tod hassuf 3 V_PAST 6
+EGEN Hv fhaspref 2 ADV 6
+( char XX 6
+N_INDEF_SING = fgoodright XX 6
+NUM_ORD . fgoodleft NUM 5.88235294117647
+N_DEF_SING have fgoodright V_PARTC_PAST 5.84210526315789
+V_PARTC_PAST n fhassuf 1 N_DEF_SING 6
+N_INDEF_SING de fgoodright ADJ 5.72597854459706
+ADJ denne fgoodleft PRÆP 6.00205189839793
+V_INF_PAS , fgoodright V_PRES_PAS 5.6975845410628
+V_PARTC_PAST så fgoodright ADJ 5.65
+ADJ ikke fgoodleft ADV 5.65955511602331
+ADV jo fgoodleft PRON_PERS 5.75755712474204
+N_INDEF_SING_GEN K fchar EGEN_GEN 5.5
+N_INDEF_SING små fgoodright N_INDEF_PLU 5.42857142857143
+sb E fchar EGEN 5.25
+N_INDEF_SING le faddsuf 2 ADJ 5.15384615384615
+ADJ en faddsuf 2 N_INDEF_SING 5.60423411713734
+ADJ tre fhassuf 3 N_INDEF_PLU 5.07142857142857
+V_PRES med fgoodright N_INDEF_PLU 5.01921358355675
+N_INDEF_PLU det fgoodright V_PRES 5.04036409366799
+V_PRES e fhassuf 1 ADJ 6.05942028985507
+ADJ ud faddpref 2 V_PARTC_PAST 5.01388888888889
+V_PARTC_PAST med fgoodright ADJ 5.375
+jr hassuf 2 N_INDEF_SING 5
+ADJ be fhassuf 2 N_INDEF_SING 5
 ane hassuf 3 N_INDEF_SING 5
-amen hassuf 4 N_INDEF_SING 5
-ning hassuf 4 N_INDEF_SING 5
-krig hassuf 4 N_INDEF_SING 5
-N_INDEF_PLU jder fhassuf 4 N_INDEF_SING 5
-ets addsuf 3 N_INDEF_SING 5
-Th haspref 2 EGEN 6
-Ni haspref 2 EGEN 5
-EGEN E fhassuf 1 ADJ 5
-V_PARTC_PRES n fhaspref 1 ADJ 5
-gam haspref 3 ADJ 5
-N_INDEF_SING able fhassuf 4 ADJ 5
-N_DEF_SING t faddsuf 1 ADJ 5
-N_DEF_SING ter faddsuf 3 N_INDEF_SING 5
-N_DEF_PLU u faddpref 1 ADJ 5
-V_PRES ier fhassuf 3 N_INDEF_PLU 5
-sser hassuf 4 N_INDEF_PLU 5
-ater hassuf 4 N_INDEF_PLU 5
-både hassuf 4 N_INDEF_PLU 5
-lgt hassuf 3 V_PARTC_PAST 5
-vist deletesuf 4 V_PARTC_PAST 5
-nket hassuf 4 V_PARTC_PAST 5
-N_DEF_SING dret fhassuf 4 V_PARTC_PAST 5
-N_DEF_SING gnet fhassuf 4 V_PARTC_PAST 5
-Hvo haspref 3 ADV 5
-N_INDEF_SING lde fhassuf 3 V_INF 5
-ggør hassuf 4 V_PRES 5
-gav deletesuf 3 V_PAST 5
-gik hassuf 3 V_PAST 5
-N_INDEF_SING 6 fchar NUM 5
-fem haspref 3 NUM 5
-EGEN s fdeletesuf 1 EGEN_GEN 6.64444444444444
-V_PRES_PAS fo fhaspref 2 V_INF_PAS 4.83333333333333
-N_INDEF_SING hed faddsuf 3 ADJ 4.6525641025641
-V_INF ts faddsuf 2 N_INDEF_SING 4.64081439393939
-N_INDEF_SING e fdeletesuf 1 N_INDEF_PLU 5.80059523809524
-N_INDEF_PLU r faddsuf 1 V_INF 10.4041781135531
-ele hassuf 3 N_INDEF_PLU 5
-bet hassuf 3 N_DEF_SING 4.58823529411765
-ridt hassuf 4 N_INDEF_SING 4.35714285714286
-N_INDEF_PLU lder fhassuf 4 N_INDEF_SING 4.25
-' addsuf 1 EGEN 4.2
-kke addsuf 3 N_INDEF_SING 5
-lsen addsuf 4 V_INF 4.42857142857143
-igt addsuf 3 N_INDEF_SING 4.02777777777778
-N_INDEF_SING . faddsuf 1 N_INDEF_PLU 4.0034188034188
-ub hassuf 2 N_INDEF_SING 4
-EGEN pe fhassuf 2 N_INDEF_SING 4
-hus deletesuf 3 N_INDEF_SING 4
-lag hassuf 3 N_INDEF_SING 4
-one hassuf 3 N_INDEF_SING 4
-ADJ fte fhassuf 3 N_INDEF_SING 4
-V_PRES_PAS ces fhassuf 3 N_INDEF_SING 4
-aske hassuf 4 N_INDEF_SING 4
-V_PAST r faddsuf 1 N_INDEF_SING 4
-N_DEF_PLU n faddsuf 1 N_INDEF_SING 4
-St deletepref 2 EGEN 4
-Ca haspref 2 EGEN 4
-vig hassuf 3 EGEN 4
+one hassuf 3 N_INDEF_SING 5
+ADJ ave fhassuf 3 N_INDEF_SING 5
+ring hassuf 4 N_INDEF_SING 5
+N_DEF_SING ten faddsuf 3 N_INDEF_SING 5
+N_INDEF_PLU En fgoodright N_INDEF_SING 5
+løst hassuf 4 ADJ 5
+N_INDEF_PLU mennesker fgoodleft ADJ 5
+sb r fchar EGEN 5
+N_INDEF_SING I fhaspref 1 EGEN 5
+vig hassuf 3 EGEN 5
+nen hassuf 3 N_DEF_SING 5
+N_DEF_PLU vne fhassuf 3 N_INDEF_PLU 5
+både deletesuf 4 N_INDEF_PLU 5
+V_PRES sine fgoodright N_INDEF_PLU 5
+ADJ NE fhassuf 2 N_DEF_PLU 5
+ede deletesuf 3 V_PAST 5
+gav hassuf 3 V_PAST 5
+V_PARTC_PAST andt fhassuf 4 V_PAST 5
+N_DEF_SING der fgoodright ADV 5
+N_INDEF_SING_GEN B fchar EGEN_GEN 5
+EGEN ns fhassuf 2 EGEN_GEN 5
+N_INDEF_SING nds fhassuf 3 N_INDEF_SING_GEN 5
+som hassuf 3 ADJ 4.92307692307692
+V_PARTC_PAST et faddsuf 2 N_INDEF_SING 4.91136363636364
+N_INDEF_SING vil fgoodright V_INF 4.81427807200556
+V_PAST er fgoodleft ADV 4.75291712200797
+N_INDEF_SING dem fgoodleft V_IMP 4.74107142857143
+N_INDEF_SING to fgoodright N_INDEF_PLU 4.73616713837933
+N_INDEF_SING helt fgoodright ADJ 5
+V_PRES forskellige fgoodright N_INDEF_PLU 4.71493212669683
+jort hassuf 4 V_PARTC_PAST 4.66666666666667
+bet hassuf 3 N_DEF_SING 4.5
+EGEN dem fgoodleft V_IMP 4.47777777777778
+til addsuf 3 ADV 4.45690821256039
+este addsuf 4 ADJ 4.35994880309949
+N_DEF_PLU_GEN skal fgoodright V_INF_PAS 4.33333333333333
+v . fgoodleft N_INDEF_PLU 4.22857142857143
+N_INDEF_PLU et fgoodright N_INDEF_SING 4.74250534972358
+V_INF har fgoodleft N_INDEF_SING 4.13636614281776
+N_INDEF_SING tre fgoodright N_INDEF_PLU 4.18528048635565
+V_PRES store fgoodright N_INDEF_PLU 4.04761904761905
+N_INDEF_PLU jeg fgoodleft V_PRES 5.61904761904762
+SE hassuf 2 N_INDEF_SING 4
+gi hassuf 2 N_INDEF_SING 4
+åd hassuf 2 N_INDEF_SING 4
+NG hassuf 2 N_INDEF_SING 4
+ADJ pe fhassuf 2 N_INDEF_SING 4
+EGEN EF fhaspref 2 N_INDEF_SING 4
+kab hassuf 3 N_INDEF_SING 4
+eum hassuf 3 N_INDEF_SING 4
+ces hassuf 3 N_INDEF_SING 4
+mst hassuf 3 N_INDEF_SING 4
+ADJ ude fhassuf 3 N_INDEF_SING 4
+ADJ yge fhassuf 3 N_INDEF_SING 4
+ADJ rke fhassuf 3 N_INDEF_SING 4
+EGEN Kap fhaspref 3 N_INDEF_SING 4
+EGEN Idr fhaspref 3 N_INDEF_SING 4
+krig hassuf 4 N_INDEF_SING 4
+ADJ inde fhassuf 4 N_INDEF_SING 4
+N_DEF_PLU rne faddsuf 3 N_INDEF_SING 4
 V_PARTC_PAST - fchar ADJ 4
-V_PARTC_PRES fr fhaspref 2 ADJ 4
-N_INDEF_PLU dy fhaspref 2 ADJ 4
-tne hassuf 3 ADJ 4
-N_INDEF_SING ile fhassuf 3 ADJ 4
-N_DEF_SING lig fhaspref 3 ADJ 4
-fuld deletesuf 4 ADJ 4
-itiv hassuf 4 ADJ 4
-ønne hassuf 4 ADJ 4
-V_PRES ba fhaspref 2 N_INDEF_PLU 4
+ngt hassuf 3 ADJ 4
+N_DEF_PLU dne fhassuf 3 ADJ 4
+N_INDEF_SING Ro fhaspref 2 EGEN 5
+sb Z fchar EGEN 4
+E deletepref 1 EGEN 4
+N_INDEF_SING O fhaspref 1 EGEN 4
+else hassuf 4 N_INDEF_SING 4
+rg hassuf 2 EGEN 4
+N_DEF_SING No fhaspref 2 EGEN 4
+N_INDEF_PLU Ri fhaspref 2 EGEN 4
+gren hassuf 4 EGEN 4
+N_INDEF_PLU siger fgoodright EGEN 4
+EGEN ken fhassuf 3 N_DEF_SING 4
+sko deletesuf 3 N_INDEF_PLU 4
+ure hassuf 3 N_INDEF_PLU 4
 kår hassuf 3 N_INDEF_PLU 4
-V_PRES cer fhassuf 3 N_INDEF_PLU 4
-veje deletesuf 4 N_INDEF_PLU 4
-oner hassuf 4 N_INDEF_PLU 4
-bt hassuf 2 V_PARTC_PAST 4
-N_INDEF_SING ngt fhassuf 3 V_PARTC_PAST 4
-delt deletesuf 4 V_PARTC_PAST 4
-ragt hassuf 4 V_PARTC_PAST 4
-N_DEF_SING kket fhassuf 4 V_PARTC_PAST 4
-s. hassuf 2 ADV 4
-alt deletesuf 3 ADV 4
-dtil hassuf 4 ADV 4
+ele hassuf 3 N_INDEF_PLU 4
+EGEN ser fhassuf 3 N_INDEF_PLU 4
+N_INDEF_SING dse fhassuf 3 N_INDEF_PLU 4
+onti hassuf 4 N_INDEF_PLU 4
+vist deletesuf 4 V_PARTC_PAST 4
+stet hassuf 4 V_PARTC_PAST 4
+gør deletesuf 3 V_PRES 4
 mler hassuf 4 V_PRES 4
+kom hassuf 3 V_PAST 4
 slog hassuf 4 V_PAST 4
-dtes hassuf 4 V_PAST 4
--og hassuf 3 XX 4
-km haspref 2 FORK 4
-æner hassuf 4 N_INDEF_SING 3.88888888888889
-N_INDEF_SING fore faddpref 4 V_PAST 3.81241830065359
-V_PRES es faddsuf 2 N_INDEF_PLU 3.80952380952381
-N_INDEF_PLU en faddsuf 2 N_INDEF_SING 4.60952380952381
-ndte hassuf 4 V_PAST 3.8
-llem hassuf 4 PRÆP 3.53846153846154
-EGEN re fdeletesuf 2 ADJ 3.5
-uldt hassuf 4 ADJ 3.5
-nalt hassuf 4 ADJ 3.5
-alte hassuf 4 V_PAST 3.5
-N_INDEF_SING . fdeletesuf 1 N_INDEF_PLU 3.48387096774194
-omt hassuf 3 ADV 3.4
-for deletesuf 3 ADV 3.38055555555556
-N_INDEF_SING elt fhassuf 3 ADV 3.33333333333333
-ADJ n faddsuf 1 N_INDEF_SING 3.13333333333333
-N_INDEF_SING så faddpref 2 ADV 3.09615384615385
-V_PRES_PAS fi fhaspref 2 V_INF_PAS 3.08333333333333
-V_PRES_PAS sk fhaspref 2 V_INF_PAS 3.06666666666667
-EGEN Å fchar N_INDEF_SING 3
+så deletesuf 2 ADV 4
+v. hassuf 2 ADV 4
+fra deletesuf 3 ADV 4
+End haspref 3 ADV 4
+N_INDEF_SING / fchar XX 4
+ion hassuf 3 N_INDEF_SING 4
+EGEN ds fhassuf 2 EGEN_GEN 4
+iens hassuf 4 EGEN_GEN 4
+EGEN mig fgoodleft V_IMP 4
+N_INDEF_SING ers fhassuf 3 N_INDEF_PLU_GEN 4
+ADV liv fgoodleft PRON_POSS 4
+ADV c fchar FORK 4
+sb 1 fchar FORM 4
+V_PRES hvis fgoodleft SKONJ 3.99764705882353
+ADJ ene faddsuf 3 N_INDEF_PLU 3.92615283267457
+N_INDEF_SING kunne fgoodright V_INF 3.75213675213675
+ADJ an fdeletepref 2 V_PAST 3.75
+V_INF sine fgoodright N_INDEF_PLU 3.6952380952381
+N_INDEF_PLU Han fgoodright V_PRES 3.66666666666667
+V_IMP de fgoodleft PRÆP 3.65661375661376
+V_PAST r fdeletesuf 1 V_PRES 3.54344919786096
+ridt hassuf 4 N_INDEF_SING 3.5
+N_INDEF_PLU Hun fgoodright V_PRES 3.5
+ADJ hun fgoodleft V_PAST 3.46153846153846
+V_PAST meget fgoodright ADJ 3.5
+V_INF anden fgoodright N_INDEF_SING 3.43740573152338
+V_PRES_PAS må fgoodright V_INF_PAS 3.4
+N_INDEF_PLU de fgoodleft V_PRES 3.33333333333333
+N_DEF_PLU_GEN gnes fhassuf 4 V_PRES_PAS 3.33333333333333
+V_PRES_PAS edes fhassuf 4 V_PAST_PAS 3.33333333333333
+V_INF et fgoodright N_INDEF_SING 3.28503434484104
+over deletesuf 4 ADV 3.25
+V_INF Den fgoodright ADJ 3.21732026143791
+ADJ Jeg fgoodright V_PAST 3.82446311858077
+N_INDEF_SING . faddsuf 1 ADV 3.2
+N_INDEF_SING_GEN ås fhassuf 2 V_INF_PAS 3.2
+N_INDEF_SING_GEN . fgoodleft N_INDEF_PLU 3.07142857142857
+N_INDEF_SING række fgoodright N_INDEF_PLU 3.01960784313725
+N_INDEF_PLU min fgoodright N_INDEF_SING 3.00645161290323
+N_INDEF_SING lille fgoodleft ADJ 3.98709677419355
+EGEN _ fchar N_INDEF_SING 3
+EGEN m fhaspref 1 N_INDEF_SING 3
+fi hassuf 2 N_INDEF_SING 3
 IK hassuf 2 N_INDEF_SING 3
-V_INF ie fhassuf 2 N_INDEF_SING 3
-ADJ ud fhassuf 2 N_INDEF_SING 3
-EGEN kt fhassuf 2 N_INDEF_SING 3
+ADJ um fhassuf 2 N_INDEF_SING 3
+ADJ us fhassuf 2 N_INDEF_SING 3
 PR haspref 2 N_INDEF_SING 3
-EGEN Æ fchar N_INDEF_SING 3
-EGEN BA fhaspref 2 N_INDEF_SING 3
-EGEN GE fhaspref 2 N_INDEF_SING 3
-ame hassuf 3 N_INDEF_SING 3
-eum hassuf 3 N_INDEF_SING 3
-mst hassuf 3 N_INDEF_SING 3
-EGEN Udv fhaspref 3 N_INDEF_SING 3
-EGEN Kap fhaspref 3 N_INDEF_SING 3
-EGEN Kom fhaspref 3 N_INDEF_SING 3
-møde deletesuf 4 N_INDEF_SING 3
-pige deletesuf 4 N_INDEF_SING 3
-sigt deletesuf 4 N_INDEF_SING 3
-livs deletepref 4 N_INDEF_SING 3
-æsen hassuf 4 N_INDEF_SING 3
-kine hassuf 4 N_INDEF_SING 3
-bund hassuf 4 N_INDEF_SING 3
-gres hassuf 4 N_INDEF_SING 3
-N_INDEF_PLU agne fhassuf 4 N_INDEF_SING 3
-EGEN tale fhassuf 4 N_INDEF_SING 3
-EGEN irke fhassuf 4 N_INDEF_SING 3
-N_INDEF_PLU lver fhassuf 4 N_INDEF_SING 3
+EGEN CD fhaspref 2 N_INDEF_SING 3
+del hassuf 3 N_INDEF_SING 3
+pil hassuf 3 N_INDEF_SING 3
+ask hassuf 3 N_INDEF_SING 3
+ælp hassuf 3 N_INDEF_SING 3
+rve hassuf 3 N_INDEF_SING 3
+tut hassuf 3 N_INDEF_SING 3
+ADJ gle fhassuf 3 N_INDEF_SING 3
+ADJ and fhassuf 3 N_INDEF_SING 3
+ADJ fte fhassuf 3 N_INDEF_SING 3
+ADJ yre fhassuf 3 N_INDEF_SING 3
+EGEN Til fhaspref 3 N_INDEF_SING 3
+N_INDEF_PLU bag fhaspref 3 N_INDEF_SING 3
+rium hassuf 4 N_INDEF_SING 3
+mber hassuf 4 N_INDEF_SING 3
+værk hassuf 4 N_INDEF_SING 3
+ilet hassuf 4 N_INDEF_SING 3
+anke hassuf 4 N_INDEF_SING 3
+fond hassuf 4 N_INDEF_SING 3
+ADJ akke fhassuf 4 N_INDEF_SING 3
 ADJ iste fhassuf 4 N_INDEF_SING 3
-øjen addpref 4 N_INDEF_SING 3
-J deletepref 1 EGEN 3
-fo hassuf 2 EGEN 3
-n' hassuf 2 EGEN 3
-G' haspref 2 EGEN 3
-N_INDEF_SING Ro fhaspref 2 EGEN 3
+EGEN Land fhaspref 4 N_INDEF_SING 3
+EGEN Gene fhaspref 4 N_INDEF_SING 3
+N_DEF_SING ter faddsuf 3 N_INDEF_SING 3
+N_DEF_SING_GEN . fgoodleft N_INDEF_SING 3
+N_DEF_SING ny fgoodright N_INDEF_SING 3
+N_INDEF_SING det fhassuf 3 ADJ 3.5
+V_PARTC_PRES e fdeletesuf 1 ADJ 3
+est deletesuf 3 ADJ 3
+tne hassuf 3 ADJ 3
+rst hassuf 3 ADJ 3
+V_PAST lde fhassuf 3 ADJ 3
+EGEN ste fhassuf 3 ADJ 3
+bit haspref 3 ADJ 3
+ADV enk fhaspref 3 ADJ 3
+svis hassuf 4 ADJ 3
+N_INDEF_PLU mere fhassuf 4 ADJ 3
+gamm haspref 4 ADJ 3
+N_DEF_PLU re faddsuf 2 ADJ 3
+N_DEF_SING allerede fgoodright ADJ 3
+N_INDEF_PLU endnu fgoodright ADJ 3
+N_DEF_SING mere fgoodright ADJ 3
+sb M fchar EGEN 3
+N_INDEF_PLU ü fchar EGEN 3
+V_PRES_PAS M fchar EGEN 3
+sb O fchar EGEN 3
+V_INF S fchar EGEN 3
+N_INDEF_PLU K fhaspref 1 EGEN 3
+ADJ R fhaspref 1 EGEN 3
+EGEN Den fgoodright ADJ 4
+ADJ mig fgoodleft V_PARTC_PAST 3.75
+isk hassuf 3 ADJ 3
+EGEN Det fgoodright ADJ 3
+ce deletesuf 2 EGEN 3
+he hassuf 2 EGEN 3
+Sw haspref 2 EGEN 3
+Es haspref 2 EGEN 3
+N_INDEF_PLU Ry fhaspref 2 EGEN 3
 N_DEF_SING Li fhaspref 2 EGEN 3
-Mai haspref 3 EGEN 3
+N_DEF_SING Ni fhaspref 2 EGEN 3
+ADJ Tr fhaspref 2 EGEN 3
+ies hassuf 3 EGEN 3
 Kar haspref 3 EGEN 3
-vien hassuf 4 EGEN 3
-gren hassuf 4 EGEN 3
-Math haspref 4 EGEN 3
-na addsuf 2 EGEN 3
-edet hassuf 4 N_DEF_SING 3
-V_PARTC_PAST lset fhassuf 4 N_DEF_SING 3
-V_PARTC_PRES i fhaspref 1 ADJ 3
-åt hassuf 2 ADJ 3
-V_PARTC_PRES hj fhaspref 2 ADJ 3
-ADV tr fhaspref 2 ADJ 3
-V_PAST fæ fhaspref 2 ADJ 3
-N_INDEF_SING ykt fhassuf 3 ADJ 3
-rut haspref 3 ADJ 3
-V_PARTC_PRES sel fhaspref 3 ADJ 3
-N_INDEF_SING sor fhaspref 3 ADJ 3
-fast deletesuf 4 ADJ 3
-N_DEF_SING halv fdeletepref 4 ADJ 3
-rvet hassuf 4 ADJ 3
-onet hassuf 4 ADJ 3
-vant hassuf 4 ADJ 3
-N_DEF_SING avet fhassuf 4 ADJ 3
-N_INDEF_SING ikke fhassuf 4 ADJ 3
-V_INF e faddsuf 1 ADJ 3
-EGEN_GEN r fhassuf 1 N_INDEF_PLU 3
-V_PRES j fhaspref 1 N_INDEF_PLU 3
-ws hassuf 2 N_INDEF_PLU 3
-lip hassuf 3 N_INDEF_PLU 3
-dyr hassuf 3 N_INDEF_PLU 3
-tos hassuf 3 N_INDEF_PLU 3
-N_INDEF_SING dse fhassuf 3 N_INDEF_PLU 3
-små haspref 3 N_INDEF_PLU 3
-reve hassuf 4 N_INDEF_PLU 3
-enge hassuf 4 N_INDEF_PLU 3
-avne hassuf 4 N_INDEF_PLU 3
-ødre hassuf 4 N_INDEF_PLU 3
-EGEN eder fhassuf 4 N_INDEF_PLU 3
-EGEN aber fhassuf 4 N_INDEF_PLU 3
-EGEN kker fhassuf 4 N_INDEF_PLU 3
+son addsuf 3 EGEN 3
+N_INDEF_SING 2 fchar N_DEF_SING 3
+pen hassuf 3 N_DEF_SING 3
+V_PARTC_PAST under fgoodright N_DEF_SING 3
+N_INDEF_SING ws fhassuf 2 N_INDEF_PLU 3
+ADJ er fhassuf 2 N_INDEF_PLU 3
+N_INDEF_PLU u faddpref 1 ADJ 3.08333333333333
+EGEN s fdeletesuf 1 EGEN_GEN 4
+' addsuf 1 EGEN 4
+ADJ eve fhassuf 3 N_INDEF_PLU 3
+N_INDEF_PLU St fhaspref 2 EGEN 3
+Cyk haspref 3 N_INDEF_PLU 3
+V_PRES pri fhaspref 3 N_INDEF_PLU 3
+ncer hassuf 4 N_INDEF_PLU 3
+kald hassuf 4 N_INDEF_PLU 3
 N_DEF_SING på fdeletepref 2 V_PARTC_PAST 3
-V_PAST ber fhaspref 3 V_PARTC_PAST 3
-sket hassuf 4 V_PARTC_PAST 3
-stet hassuf 4 V_PARTC_PAST 3
-N_DEF_SING færd fhaspref 4 V_PARTC_PAST 3
-ADV ind faddpref 3 V_PARTC_PAST 3
-v. hassuf 2 ADV 3
-End deletepref 3 ADV 3
-des deletepref 3 ADV 3
-big hassuf 3 ADV 3
-over deletesuf 4 ADV 3
-ADJ op fdeletepref 2 V_INF 3
-ADJ age fhassuf 3 V_INF 3
-nde addsuf 3 V_INF 3
-RER hassuf 3 V_PRES 3
-nder deletesuf 4 V_PRES 3
-la addsuf 2 V_PRES 3
-lod deletesuf 3 V_PAST 3
-kom hassuf 3 V_PAST 3
-EDE hassuf 3 V_PAST 3
-N_INDEF_SING rde fhassuf 3 V_PAST 3
-blev deletesuf 4 V_PAST 3
-ldte hassuf 4 V_PAST 3
-ppet addsuf 4 NUM 3
--syv addsuf 4 NUM 3
-( char XX 3
-N_INDEF_SING ' fchar XX 3
-nns hassuf 3 EGEN_GEN 3
-V_INF_PAS ø fchar V_PRES_PAS 3
-ADJ nde fdeletesuf 3 V_PARTC_PRES 6
-lses hassuf 4 N_INDEF_SING_GEN 3
-riv hassuf 3 V_IMP 3
+N_INDEF_SING bt fhassuf 2 V_PARTC_PAST 3
+ømt hassuf 3 V_PARTC_PAST 3
+talt deletesuf 4 V_PARTC_PAST 3
+mlet hassuf 4 V_PARTC_PAST 3
+nket hassuf 4 V_PARTC_PAST 3
+N_DEF_SING fora fhaspref 4 V_PARTC_PAST 3
+ADJ fe fhassuf 2 V_INF 3
+V_INF S-T-A-R-T fgoodright EGEN 3
+N_INDEF_PLU os fgoodleft V_PRES 3
+EGEN man fgoodleft V_PRES 3
+, char NUM 3
+v 6 fchar NUM 3
+ADJ rede fdeletesuf 4 V_PAST 3
+ADJ lede fdeletesuf 4 V_PAST 3
+ADJ ny faddpref 2 V_PAST 3
+ADJ hende fgoodleft V_PAST 3
+V_PARTC_PAST Vi fgoodright V_PAST 3
+EGEN_GEN s fhaspref 1 ADV 3
+EGEN s fhaspref 1 ADV 3
+ADV er faddsuf 2 N_INDEF_SING 3.05
+ud deletesuf 2 ADV 3
+kr addpref 2 ADV 3
+ADJ der faddpref 3 ADV 3
+v p fchar XX 3
+ADJ / fchar XX 3
+N_INDEF_SING 6 fchar XX 3
+- deletesuf 1 XX 3
+-og hassuf 3 XX 3
+N_INDEF_PLU_GEN M fchar EGEN_GEN 3
+N_INDEF_SING_GEN N fchar EGEN_GEN 3
+N_INDEF_SING_GEN P fchar EGEN_GEN 3
+N_INDEF_SING_GEN M fchar EGEN_GEN 3
+EGEN ks fhassuf 2 EGEN_GEN 3
+sens deletesuf 4 EGEN_GEN 3
+N_DEF_PLU_GEN nnes fhassuf 4 V_PRES_PAS 3
+V_PRES_PAS op fdeletepref 2 V_INF_PAS 3
+V_PRES_PAS B fchar N_INDEF_SING_GEN 3
+V_PRES_PAS en fgoodright N_INDEF_SING_GEN 3
+N_INDEF_SING ty fhassuf 2 UL 3
+cr haspref 2 UL 3
 -års deletesuf 4 N_INDEF_PLU_GEN 3
+V_PRES_PAS to fgoodright N_INDEF_PLU_GEN 3
 Nog deletepref 3 PRON_UBST 3
 nog deletepref 3 PRON_UBST 3
-_om deletesuf 3 UKONJ 3
+V_PRES m fhassuf 1 UKONJ 3
 EGEN 5 fchar FORM 3
-NUM - fchar FORM 3
-NUM / fchar FORM 3
-N_INDEF_SING som fdeletesuf 3 UKONJ 2.93103448275862
-AMEX hassuf 4 EGEN 3
-0. hassuf 2 NUM_ORD 3
-1. hassuf 2 NUM_ORD 3
-2. hassuf 2 NUM_ORD 3
-3. hassuf 2 NUM_ORD 3
-4. hassuf 2 NUM_ORD 3
-5. hassuf 2 NUM_ORD 3
-6. hassuf 2 NUM_ORD 3
-7. hassuf 2 NUM_ORD 3
-8. hassuf 2 NUM_ORD 3
-9. hassuf 2 NUM_ORD 3
+NUM D faddpref 1 PRON_UBST 2.99781181619256
+SLUT:	Tue Feb 15 01:06:29 2022
+
